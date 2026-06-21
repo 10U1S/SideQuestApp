@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Kolosseum","Betritt die Arena der Gladiatoren und stell dir die Kämpfe vor.",90,Rare,Kultur,41.8902,12.4922
+2,"Trevi-Brunnen Münzwurf","Wirf eine Münze und sichere dir die Rückkehr nach Rom.",20,Rare,Kreativ,41.9009,12.4833
+3,"Vatikan Petersplatz","Stehe auf dem großen Platz vor dem Petersdom und erlebe die Atmosphäre.",60,Rare,Kultur,41.9022,12.4561
+4,"Trastevere Viertel","Flaniere durch das romantischste Viertel Roms mit Trattorien und Gassen.",60,Rare,Urban,41.8897,12.4694
+5,"Espresso in einem Bar","Trinke einen Espresso stehend an der Bar wie ein echter Römer.",10,Rare,Kulinarik,41.8967,12.4822
+6,"Forum Romanum","Spaziere durch das Herzstück des antiken Weltreichs.",90,Rare,Kultur,41.8925,12.4853
+7,"Vatikanische Museen","Erkunde die Sixtinische Kapelle und Michelangelos Deckengemälde.",240,Epic,Kultur,41.9064,12.4536
+8,"Galleria Borghese","Bewundere Berninis Skulpturen im Barockpalast im Park.",120,Epic,Kultur,41.9139,12.4922
+9,"Campo de' Fiori Markt","Stöbere morgens auf dem Marktplatz und abends unter den Bars.",90,Epic,Kulinarik,41.8950,12.4722
+10,"Pantheon Besuch","Stehe unter der 1900 Jahre alten unzerstörbaren Kuppel.",45,Epic,Kultur,41.8986,12.4769
+11,"Pincio Terrasse Sonnenuntergang","Erlebe den Sonnenuntergang über den Dächern Roms vom Hügel.",60,Epic,Kreativ,41.9114,12.4808
+12,"Aperitivo in Pigneto","Erlebe den Aperitivo-Ritual im trendigen Eastend-Viertel.",90,Epic,Kulinarik,41.8900,12.5286
+13,"Via Appia Antica Radtour","Radle auf der antiken Römerstraße durch die Campagna.",180,Epic,Sport,41.8553,12.5178
+14,"Castel Sant'Angelo","Erkunde die einstige Kaisergruft und Festung mit Blick auf die Stadt.",90,Epic,Abenteuer,41.9031,12.4664
+15,"Palazzo Doria Pamphilj","Entdecke eine der besterhaltenen privaten Barocksammlungen Roms.",90,Epic,Kultur,41.8978,12.4800
+16,"Nachtspaziergang durch die Altstadt","Erlebe Piazza Navona, Pantheon und Trevi-Brunnen in der Nacht.",120,Epic,Urban,41.8967,12.4822
+17,"Vatikan Komplett-Tag","Besuche Museen, Petersdom und Kuppelbesteigung an einem Tag.",480,Legendary,Kultur,41.9064,12.4536
+18,"Antikes Rom zu Fuß","Besuche alle antiken Stätten von Kolosseum bis Circus Maximus.",480,Legendary,Abenteuer,41.8902,12.4922
+19,"Römische Küche Marathon","Koste Cacio e Pepe, Supplì, Maritozzi und Gelato in einem Tag.",480,Legendary,Kulinarik,41.8967,12.4822
+20,"Rom bei Nacht","Erlebe alle großen Plätze und Brunnen beleuchtet bis Mitternacht.",480,Legendary,Kreativ,41.8967,12.4822

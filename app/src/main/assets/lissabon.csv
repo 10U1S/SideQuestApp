@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Tram 28 Fahrt","Fahre mit der historischen gelben Straßenbahn durch die engen Gassen Lissabons.",60,Rare,Urban,38.7139,-9.1394
+2,"Miradouro da Graça","Genieße den besten Sonnenuntergangsblick über die roten Dächer der Stadt.",45,Rare,Kreativ,38.7175,-9.1311
+3,"Pastéis de Nata","Koste die weltberühmten Puddingtörtchen in der Bäckerei von Belém.",30,Rare,Kulinarik,38.6969,-9.2031
+4,"Alfama Gassen","Verliere dich in den verwinkelten Gassen des ältesten Stadtviertels.",60,Rare,Urban,38.7139,-9.1297
+5,"Fado-Konzert","Erlebe die melancholische portugiesische Musik in einem Fado-Haus.",120,Epic,Kultur,38.7139,-9.1394
+6,"Feira da Ladra Flohmarkt","Stöbere auf dem berühmten Diebsmarkt nach Azulejos und Vintage.",90,Epic,Urban,38.7194,-9.1297
+7,"Torre de Belém","Besichtige den gotischen Turm am Tejo der Seefahrer-Epoche.",60,Rare,Kultur,38.6916,-9.2159
+8,"Jerónimos-Kloster","Erkunde das prächtige manuelinische Kloster als UNESCO-Welterbe.",90,Epic,Kultur,38.6978,-9.2069
+9,"LX Factory","Entdecke das kreative Industriequartier mit Märkten und Restaurants.",90,Epic,Urban,38.7028,-9.1739
+10,"Museu Nacional do Azulejo","Erlebe die Geschichte der berühmten blau-weißen Fliesen Portugals.",90,Epic,Kreativ,38.7236,-9.1131
+11,"Chiado Viertel","Flaniere durch das elegante Literatur- und Shoppingviertel.",60,Rare,Urban,38.7089,-9.1403
+12,"Ginjinha Beerdigungsbar","Koste den Sauerkirschlikör in einem der ältesten Bars der Stadt.",30,Rare,Kulinarik,38.7153,-9.1397
+13,"Museu Calouste Gulbenkian","Entdecke eine der bedeutendsten Privatsammlungen Europas.",120,Epic,Kultur,38.7369,-9.1533
+14,"Sintra Tagesausflug","Besuche die märchenhaften Paläste und Burgen in den Bergen.",240,Epic,Abenteuer,38.7978,-9.3900
+15,"Tejo Radtour","Radle entlang des Tejo von Belém bis Parque das Nações.",180,Epic,Sport,38.6916,-9.2159
+16,"Mouraria Streetfood","Erkunde das multikulturelle Viertel mit internationalem Streetfood.",90,Epic,Kulinarik,38.7156,-9.1344
+17,"Cabo da Roca","Stehe am westlichsten Punkt des europäischen Festlands.",480,Legendary,Natur,38.7833,-9.5000
+18,"Sintra Palast-Tour","Besuche Pena, Monserrate und Queluz an einem langen Tag.",480,Legendary,Kultur,38.7978,-9.3900
+19,"Portugiesische Weinrunde","Koste Vinho Verde, Alentejo und Porto-Wein in Lissabonner Weinbars.",480,Legendary,Kulinarik,38.7139,-9.1394
+20,"Lissabon Nacht","Erlebe Fado, Bairro Alto Bars und den Sonnenaufgang über dem Tejo.",480,Legendary,Urban,38.7139,-9.1394

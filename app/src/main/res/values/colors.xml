@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Rarity Colors -->
+    <color name="rarity_rare">#3498db</color>
+    <color name="rarity_epic">#9b59b6</color>
+    <color name="rarity_legendary">#f1c40f</color>
+
+    <!-- Aero/Glass Style -->
+    <color name="glass_bg">#4DFFFFFF</color>
+    <color name="glass_border">#80FFFFFF</color>
+
+    <color name="colorPrimary">#3498db</color>
+</resources>

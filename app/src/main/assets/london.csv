@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Tower Bridge fotografieren","Fotografiere die ikonische Hängebrücke von der Südseite der Themse.",30,Rare,Kreativ,51.5055,−0.0754
+2,"Borough Market","Probiere Street Food aus aller Welt auf dem ältesten Markt Londons.",60,Rare,Kulinarik,51.5055,−0.0910
+3,"Hyde Park Spaziergang","Entspanne auf der Wiese beim Speakers Corner und am Serpentine.",60,Rare,Natur,51.5073,−0.1657
+4,"Covent Garden","Erlebe Straßenkünstler und Busker auf dem berühmten Marktplatz.",45,Rare,Urban,51.5117,−0.1240
+5,"Buckingham Palace Wachablösung","Beobachte die feierliche Wachablösung der königlichen Garde.",45,Rare,Kultur,51.5014,−0.1419
+6,"Pub in Soho","Trinke ein Pint in einem traditionellen britischen Pub.",60,Rare,Kulinarik,51.5137,−0.1337
+7,"British Museum","Erkunde die Rosetta Stone und Elgin Marbles im Weltmuseum.",180,Epic,Kultur,51.5194,−0.1270
+8,"National Gallery","Entdecke Van Goghs Sonnenblumen und Turners Gemälde am Trafalgar Square.",120,Epic,Kultur,51.5085,−0.1277
+9,"Tate Modern","Erlebe zeitgenössische Weltkunst in der umgebauten Kraftwerk-Turbinenhalle.",120,Epic,Kreativ,51.5076,−0.0994
+10,"Camden Market","Stöbere im alternativen Markt nach Vintage, Streetfood und Musik.",120,Epic,Urban,51.5414,−0.1468
+11,"Shoreditch Street Art","Suche Banksy und andere Streetart-Künstler in East London.",120,Epic,Kreativ,51.5233,−0.0784
+12,"Notting Hill Spaziergang","Erkunde die Pastell-Reihenhäuser und den Portobello Road Market.",90,Epic,Urban,51.5148,−0.2017
+13,"Tower of London","Erkunde die Kronjuwelen und die Geschichte im ältesten Gefängnis Englands.",180,Epic,Kultur,51.5081,−0.0759
+14,"Themse Radtour","Radle auf dem Thames Path von Greenwich bis Hammersmith.",240,Epic,Sport,51.5074,−0.1278
+15,"Kew Gardens","Entdecke die tropischen Gewächshäuser im UNESCO-Botanischen Garten.",180,Epic,Natur,51.4787,−0.2956
+16,"Greenwich Meridian","Stehe auf dem Nullmeridian im Royal Observatory Greenwich.",90,Epic,Abenteuer,51.4769,−0.0005
+17,"West End Musical","Erlebe ein weltberühmtes Musical im Londoner Theaterviertel.",480,Legendary,Kultur,51.5137,−0.1278
+18,"Alle großen Museen an einem Tag","Besuche British Museum, National Gallery und Tate Modern.",480,Legendary,Kultur,51.5074,−0.1278
+19,"London bei Nacht","Erlebe Soho, Shoreditch und die beleuchtete Tower Bridge.",480,Legendary,Urban,51.5074,−0.1278
+20,"Pub Crawl durch historische Pubs","Besuche die ältesten und berühmtesten Pubs der City of London.",480,Legendary,Sozial,51.5074,−0.1278

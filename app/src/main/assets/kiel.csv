@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Kieler Förde Spaziergang","Spaziere am Westufer der Förde vom Hauptbahnhof bis zum Hindenburgufer.",60,Rare,Natur,54.3233,10.1228
+2,"Kieler Woche erleben","Erlebe das weltgrößte Segelsportereignis an der Kieler Förde.",120,Rare,Sport,54.3233,10.1347
+3,"Laboe Marine-Ehrenmal","Besteige den 72 Meter hohen Turm mit Blick auf die Ostsee.",90,Rare,Kultur,54.4136,10.2233
+4,"Nikolaikirche Kiel","Besichtige die evangelische Hauptkirche mit ihrem Friedens-Ernst-Barlach-Engel.",45,Rare,Kultur,54.3228,10.1333
+5,"Holtenauer Straße Flanieren","Entdecke die belebte Einkaufsstraße mit ihren Cafés und Boutiquen.",30,Rare,Urban,54.3419,10.1364
+6,"Kiellinie Promenade","Fotografiere Segelschiffe und Fähren auf der Kieler Förde.",45,Rare,Kreativ,54.3311,10.1347
+7,"Schifffahrtsmuseum","Erkunde die Geschichte der Schifffahrt und des Kieler Hafens.",90,Epic,Kultur,54.3236,10.1358
+8,"Botanischer Garten Uni Kiel","Entdecke die Pflanzenwelt des Nordens im Universitätsgarten.",90,Epic,Natur,54.3472,10.1175
+9,"Stadtwald Kiel","Wandere durch den ausgedehnten Stadtforst.",120,Epic,Natur,54.3100,10.0900
+10,"Nordostseekanal Besichtigung","Beobachte Schiffe auf dem meistbefahrenen Kanal der Welt in Holtenau.",90,Epic,Urban,54.3772,10.1533
+11,"Krusenkoppel Park","Entspanne im Stadtpark mit dem kleinen See.",60,Epic,Natur,54.3344,10.1208
+12,"Kieler Rathaus Turm","Besteige den Turm des wilhelminischen Rathauses.",60,Epic,Kultur,54.3219,10.1344
+13,"Fördekampagne Surfen","Lerne Windsurfen oder Segeln in der windreichen Förde.",240,Epic,Sport,54.3233,10.1228
+14,"Flensburg Tagesausflug","Entdecke die nördlichste Großstadt Deutschlands per Zug.",240,Epic,Kultur,54.3233,10.1228
+15,"Schloss Gottorf Ausflug","Besuche das Schloss mit seinen bedeutenden Museen in Schleswig.",180,Epic,Kultur,54.5089,9.5639
+16,"Kiel Stadtradtour","Radle entlang der Förde durch alle Stadtteile.",240,Epic,Sport,54.3233,10.1228
+17,"Fähre nach Norwegen","Erlebe eine Minikreuzfahrt nach Oslo mit der Color Line.",480,Legendary,Abenteuer,54.3369,10.1447
+18,"Ostseeküsten-Radtour","Radle entlang der Ostseeküste durch Schleswig-Holstein.",480,Legendary,Sport,54.3233,10.1228
+19,"Insel Fehmarn Tagesausflug","Fahre zur größten deutschen Insel in der Ostsee.",480,Legendary,Natur,54.4500,11.1167
+20,"Kieler Nacht","Erlebe Kiel bei Nacht mit seinen Hafenbars und Schifferkneipen.",480,Legendary,Urban,54.3233,10.1228

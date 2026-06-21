@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Karl-Marx-Monument","Fotografiere den riesigen Kopf des Philosophen im Stadtzentrum.",30,Rare,Kreativ,50.8317,12.9189
+2,"Schlossberg Museum","Erkunde die Geschichte der Region im ältesten Gebäude der Stadt.",90,Rare,Kultur,50.8333,12.9181
+3,"Stadthallenpark","Flaniere durch den grünen Park im Herzen der Stadt.",45,Rare,Natur,50.8278,12.9214
+4,"Roter Turm","Besichtige den mittelalterlichen Turm als einziges erhaltenes Stadttor.",30,Rare,Kultur,50.8317,12.9217
+5,"Neue Sächsische Galerie","Entdecke zeitgenössische Kunst sächsischer Künstler.",60,Rare,Kultur,50.8317,12.9183
+6,"Kaufhaus Schocken","Fotografiere das wiedergeborene Bauhaus-Kaufhaus von Erich Mendelsohn.",30,Rare,Kreativ,50.8325,12.9239
+7,"Kunstsammlungen Chemnitz","Besuche eine der bedeutendsten Kunstsammlungen Sachsens.",120,Epic,Kultur,50.8314,12.9222
+8,"Industriemuseum Chemnitz","Erlebe die Industriegeschichte der sächsischen Motorenstadt.",120,Epic,Kultur,50.8347,12.9131
+9,"Theaterplatz Chemnitz","Genieße den klassizistischen Platz mit Oper und Museum.",60,Epic,Urban,50.8314,12.9181
+10,"Zeisigwald Wanderung","Wandere durch den ausgedehnten Stadtwald im Süden.",120,Epic,Natur,50.8097,12.9094
+11,"Küchwaldpark","Entdecke den historischen Volkspark mit Freilichtbühne.",90,Epic,Natur,50.8333,12.9011
+12,"Clausnitzer Park Spaziergang","Entspanne in der grünen Oase des Stadtteils Gablenz.",60,Epic,Natur,50.8406,12.9047
+13,"Chemnitzer Kneipentour","Erlebe die alternative Kulturszene in den Stadtteilen Kaßberg und Brühl.",120,Epic,Urban,50.8289,12.9083
+14,"Kaßberg Stadtspaziergang","Erkunde das Gründerzeitviertel mit seiner einzigartigen Jugendstilarchitektur.",90,Epic,Kultur,50.8289,12.9083
+15,"Motorradmuseum Augustusburg","Besuche das weltberühmte Motorradmuseum auf Schloss Augustusburg.",180,Epic,Kultur,50.8119,13.1028
+16,"Chemnitz Radtour","Radle von der Innenstadt durch alle markanten Stadtteile.",240,Epic,Sport,50.8278,12.9214
+17,"Erzgebirge Tagesausflug","Wandere durch das malerische Erzgebirge südlich der Stadt.",480,Legendary,Natur,50.7278,12.9214
+18,"Street-Art Chemnitz","Entdecke alle bedeutenden Wandgemälde und Streetart-Werke der Stadt.",480,Legendary,Kreativ,50.8278,12.9214
+19,"Sachsen Städtetour","Besuche Chemnitz, Zwickau und weitere sächsische Städte an einem Tag.",480,Legendary,Kultur,50.8278,12.9214
+20,"Nacht der Chemnitzer Clubs","Erlebe das alternative Nachtleben in der sächsischen Kulturhauptstadt.",480,Legendary,Urban,50.8278,12.9214

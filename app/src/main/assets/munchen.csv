@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Marienplatz Glockenspiel","Beobachte das Glockenspiel am Neuen Rathaus und finde die tanzenden Schäffler.",30,Rare,Kultur,48.1373,11.5755
+2,"Eisbachwelle Surfer-Check","Beobachte die Surfer auf der Eisbachwelle am Eingang zum Englischen Garten.",30,Rare,Sport,48.1435,11.5877
+3,"Viktualienmarkt Brotzeit","Kaufe dir eine lokale Spezialität und genieße sie im Biergarten des Marktes.",60,Rare,Kulinarik,48.1351,11.5761
+4,"Frauenkirche 'Teufelstritt'","Besuche den Münchner Dom und finde den sagenumwobenen Fußabdruck des Teufels.",30,Rare,Kultur,48.1386,11.5736
+5,"Hofgarten Spaziergang","Wandere durch den barocken Hofgarten und höre den Straßenmusikanten im Diana-Tempel zu.",60,Rare,Natur,48.1428,11.5801
+6,"Odeonsplatz & Feldherrnhalle","Erkunde den geschichtsträchtigen Platz und die angrenzende Theatinerkirche.",30,Rare,Urban,48.1414,11.5772
+7,"Deutsches Museum Entdeckungstour","Besuche eine der Hauptausstellungen im größten Wissenschaftsmuseum der Welt.",120,Epic,Kultur,48.1301,11.5833
+8,"Olympiapark Rundumsicht","Steige auf den Olympiaberg für einen Blick über München bis hin zu den Alpen.",120,Epic,Natur,48.1717,11.5544
+9,"Schloss Nymphenburg Parkrunde","Erkunde den weitläufigen Schlosspark und finde die versteckten Parkburgen.",120,Epic,Kultur,48.1581,11.5033
+10,"Pinakothek der Moderne","Tauche ein in die Welt der modernen Kunst, Grafik und Architektur.",120,Epic,Kreativ,48.1472,11.5722
+11,"Biergarten-Kultur am Chinesischen Turm","Erlebe bayerische Gemütlichkeit unter dem Wahrzeichen im Englischen Garten.",120,Epic,Kulinarik,48.1525,11.5920
+12,"BMW Welt & Museum Tour","Erkunde die Architektur der BMW Welt und die Geschichte der Mobilität im Museum.",240,Epic,Kultur,48.1769,11.5591
+13,"Wanderung entlang der Isarauen","Folge der Isar von der Reichenbachbrücke bis zum Flaucher.",240,Epic,Natur,48.1275,11.5764
+14,"Tierpark Hellabrunn Expedition","Besuche den Geozoo und entdecke die Tiere in ihren natürlichen Lebensräumen.",240,Epic,Natur,48.0945,11.5542
+15,"Allianz Arena Besichtigung","Fahre nach Fröttmaning und bestaune die Architektur des modernsten Stadions Europas.",240,Epic,Sport,48.2188,11.6247
+16,"Westpark & Ostasien-Ensemble","Entdecke die Pagoden und den japanischen Garten im westlichen Teil Münchens.",240,Epic,Kultur,48.1214,11.5225
+17,"Ganztagestrip zum Starnberger See","Fahre mit der S-Bahn zum See und wandere am Uferweg oder miete ein Boot.",480,Legendary,Abenteuer,47.9972,11.3325
+18,"Alpenvorland Radtour","Miete ein E-Bike und fahre Richtung Süden in die malerische Voralpenlandschaft.",480,Legendary,Sport,48.0500,11.5800
+19,"Museums-Marathon im Kunstareal","Besuche die drei Pinakotheken und das Museum Brandhorst an einem Tag.",480,Legendary,Kultur,48.1480,11.5710
+20,"Schloss Schleißheim & Flugwerft","Besuche die barocke Schlossanlage und das Luftfahrtmuseum im Norden Münchens.",480,Legendary,Abenteuer,48.2486,11.5583

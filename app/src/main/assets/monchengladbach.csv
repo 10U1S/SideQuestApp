@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Münster Mönchengladbach","Erkunde die romanische Stiftskirche im Herzen der Altstadt.",60,Rare,Kultur,51.1961,6.4297
+2,"Abteiberg Museum","Besuche das avantgardistische Museum für zeitgenössische Kunst.",90,Rare,Kultur,51.1936,6.4283
+3,"Stadtgarten MG","Entspanne im grünen Stadtpark nahe der Innenstadt.",45,Rare,Natur,51.1975,6.4383
+4,"Alter Markt Flanieren","Spaziere über den historischen Marktplatz der Altstadt.",30,Rare,Urban,51.1961,6.4297
+5,"Borussia Park besichtigen","Besuche das imposante Stadion des Bundesliga-Klubs.",60,Rare,Sport,51.1739,6.3853
+6,"Rheindahlen Burg","Erkunde die historische Wasserburg in einem Stadtteil.",60,Rare,Abenteuer,51.1661,6.3592
+7,"Geroweiher See","Spaziere um den kleinen See im Stadtpark.",45,Epic,Natur,51.1875,6.4575
+8,"Bunter Garten","Entdecke den liebevoll gestalteten Bürgerpark im Stadtteil Hardterbroich.",60,Epic,Natur,51.2028,6.4250
+9,"Borussia Museum","Lerne die Geschichte des Bundesligavereins im Vereinsmuseum kennen.",90,Epic,Kultur,51.1739,6.3853
+10,"Schloss Rheydt","Besichtige das einzige vollständig erhaltene Renaissanceschloss am Niederrhein.",90,Epic,Kultur,51.1642,6.4533
+11,"Niederrhein Radtour","Radle entlang des Rheins durch die flache Niederrheinlandschaft.",180,Epic,Sport,51.1805,6.4428
+12,"Nordpark Mönchengladbach","Entdecke den großzügigen Naherholungspark mit Weiher.",90,Epic,Natur,51.1975,6.4244
+13,"Stadtradtour MG","Radle durch die Stadtteile Mönchengladbach und Rheydt.",180,Epic,Sport,51.1805,6.4428
+14,"Viersener Straße Streetfood","Probiere internationale Küche in der multikulturellen Gastroszene.",90,Epic,Kulinarik,51.1975,6.4244
+15,"Haus Zoar","Besuche das historische Gerichtsgebäude und Erholungshaus.",60,Epic,Kultur,51.1961,6.4297
+16,"Ferkulum Markt","Stöbere auf dem wöchentlichen Markt im Stadtteil Rheydt.",60,Epic,Kulinarik,51.1642,6.4533
+17,"Grenzland-Tour","Radle bis zur belgischen und niederländischen Grenze.",480,Legendary,Abenteuer,51.1805,6.4428
+18,"Venlo Tagesausflug","Besuche die niederländische Grenzstadt per Bahn.",480,Legendary,Kultur,51.1805,6.4428
+19,"Borussia Heimspiel","Erlebe ein Bundesliga-Heimspiel im ausverkauften Borussia Park.",480,Legendary,Sport,51.1739,6.3853
+20,"Niederrheinisches Nachtleben","Erkunde Kneipen und Clubs in Mönchengladbach und Rheydt.",480,Legendary,Urban,51.1805,6.4428

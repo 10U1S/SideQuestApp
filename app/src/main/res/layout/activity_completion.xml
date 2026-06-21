@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="@drawable/soft_background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quest abgeschlossen!"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:shadowColor="#2E7D32"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="20"
+        android:layout_marginBottom="32dp"
+        android:gravity="center" />
+
+    <!-- Das Polaroid Container (Weißer Rahmen) -->
+    <LinearLayout
+        android:id="@+id/polaroid_frame"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/polaroid_bg"
+        android:orientation="vertical"
+        android:elevation="12dp"
+        android:layout_marginBottom="40dp"
+        android:rotation="-3"
+        android:paddingBottom="10dp">
+
+        <ImageView
+            android:id="@+id/iv_polaroid_photo"
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:scaleType="centerCrop"
+            android:background="#EEEEEE"
+            android:src="@android:drawable/ic_menu_camera" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp" />
+
+        <TextView
+            android:id="@+id/tv_polaroid_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text=""
+            android:textColor="#222222"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/permanent_marker"
+            android:visibility="gone" />
+
+        <View
+            android:id="@+id/rarity_indicator"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_gravity="end"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="12dp"
+            android:background="@drawable/rarity_circle"
+            android:elevation="8dp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_take_photo"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:text="Foto machen"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/aero_button"
+        android:backgroundTint="@null"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btn_back_to_start"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:text="Zurück zum Start"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/aero_button"
+        android:backgroundTint="@null" />
+
+</LinearLayout>

@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Prager Burg","Erkunde den größten Burgkomplex der Welt über der Moldau.",120,Epic,Kultur,50.0906,14.4006
+2,"Karlsbrücke bei Morgengrauen","Erlebe die mittelalterliche Brücke.",30,Rare,Kreativ,50.0865,14.4114
+3,"Altstädter Ring","Bestaunte das astronomische Rathaus-Uhrwerk.",45,Rare,Kultur,50.0875,14.4211
+4,"Josefov jüdisches Viertel","Entdecke die Synagogen.",90,Epic,Kultur,50.0894,14.4183
+5,"Svíčková genießen","Koste das Nationalgericht Rinderfilet.",60,Rare,Kulinarik,50.0755,14.4378
+6,"Wenzelsplatz Flanieren","Spaziere über den Hauptboulevard.",30,Rare,Urban,50.0817,14.4278
+7,"Schwarzes Licht Theater","Erlebe eine Schwarzlicht-Show.",90,Epic,Kreativ,50.0875,14.4211
+8,"Petřín Hügel","Wandere auf den Aussichtsberg.",120,Epic,Natur,50.0822,14.3964
+9,"Kafka Museum","Tauche ein in die surreale Welt des Schriftstellers.",90,Epic,Kultur,50.0897,14.4106
+10,"Nationalmuseum Prag","Erkunde tschechische Geschichte.",120,Epic,Kultur,50.0751,14.4306
+11,"Bier in einer Pivnice","Trinke frisch gezapftes Pilsner Urquell.",60,Rare,Kulinarik,50.0755,14.4378
+12,"Vyšehrad Festung","Entdecke die alte Burg mit Friedhof.",90,Epic,Abenteuer,50.0644,14.4181
+13,"Moldau Bootsfahrt","Erkunde Prag vom Wasser aus.",90,Epic,Natur,50.0865,14.4114
+14,"Mühlenwand Kunstwerk","Besuche die berühmte Lennon-Wand.",30,Rare,Kreativ,50.0878,14.4058
+15,"Vinohrady Viertel","Entdecke das elegante Wohnviertel.",90,Epic,Urban,50.0739,14.4381
+16,"Nachtspaziergang Altstadt","Erlebe Prag bei Nacht.",90,Epic,Kreativ,50.0875,14.4211
+17,"Tschechische Knödeltour","Koste alle Varianten des tschechischen Knödels.",480,Legendary,Kulinarik,50.0755,14.4378
+18,"Burg Komplett-Tour","Besuche alle Teile des Burgkomplexes.",480,Legendary,Kultur,50.0906,14.4006
+19,"Kutná Hora Tagesausflug","Besuche den Beinhaus und die Silberstadt.",480,Legendary,Abenteuer,49.9483,15.2683
+20,"Prag Nachtleben","Erlebe die legendären Clubs und Bars.",480,Legendary,Urban,50.0755,14.4378

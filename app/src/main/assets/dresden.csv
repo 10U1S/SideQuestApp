@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Frauenkirche & Neumarkt","Besuche das Symbol für Versöhnung und bewundere die Kuppel.",30,Common,Kultur,51.0519,13.7415
+2,"Zwinger Innenhof","Schlendere durch die barocke Anlage und finde den Nymphenbad-Brunnen.",30,Common,Kultur,51.0531,13.7339
+3,"Fürstenzug Wandbild","Bestaune das weltweit größte Porzellanwandbild in der Altstadt.",30,Common,Kultur,51.0528,13.7389
+4,"Brühlsche Terrasse Panorama","Wandere auf dem 'Balkon Europas' entlang der Elbe.",30,Common,Urban,51.0533,13.7408
+5,"Semperoper Foto-Spot","Mache ein Foto vom Theaterplatz mit der berühmten Oper.",30,Common,Urban,51.0544,13.7353
+6,"Goldener Reiter Neustadt","Überquere die Augustusbrücke und finde August den Starken.",30,Common,Kultur,51.0583,13.7411
+7,"Pfunds Molkerei Besuch","Besuche den 'schönsten Milchladen der Welt' in der Neustadt.",120,Rare,Kulinarik,51.0639,13.7594
+8,"Großer Garten Rundgang","Wandere durch die größte Parkanlage Dresdens bis zum Palais.",120,Rare,Natur,51.0375,13.7631
+9,"Residenzschloss Highlights","Besuche das Historische Grüne Gewölbe oder die Rüstkammer.",120,Rare,Kultur,51.0528,13.7369
+10,"Kunsthofpassage Entdeckung","Finde das singende Haus im bunten Viertel der Neustadt.",120,Rare,Kreativ,51.0667,13.7500
+11,"Blaues Wunder & Elbe","Fahre zur Loschwitzer Brücke und spaziere am Elbufer entlang.",120,Rare,Urban,51.0536,13.8103
+12,"Panometer Dresden","Erlebe die Geschichte Dresdens als riesiges 360-Grad-Panorama.",240,Epic,Kreativ,51.0256,13.7850
+13,"Wanderung in der Dresdner Heide","Erkunde die tiefen Wälder im Norden der Stadt.",240,Epic,Natur,51.0800,13.8200
+14,"Schwebebahn Loschwitz","Fahre mit der ältesten Bergschwebebahn der Welt zum Aussichtspunkt.",240,Epic,Abenteuer,51.0540,13.8170
+15,"Gläserne Manufaktur Tour","Erfahre alles über die Produktion von E-Autos in der modernen Fabrik.",240,Epic,Kultur,51.0442,13.7553
+16,"Schloss Pillnitz Parkwanderung","Nimm den Dampfer oder den Bus zum Lustschloss an der Elbe.",240,Epic,Kultur,51.0089,13.8700
+17,"Ganztagestrip Sächsische Schweiz","Fahre mit der S-Bahn zur Basteibrücke und wandere durch die Felsen.",480,Legendary,Natur,50.9665,14.0731
+18,"Elberadweg Richtung Meißen","Fahre mit dem Fahrrad immer an der Elbe entlang bis zur Porzellanstadt.",480,Legendary,Sport,51.1000,13.6000
+19,"Dresdner Museen Marathon","Besuche die Gemäldegalerie Alte Meister und das Albertinum.",480,Legendary,Kultur,51.0520,13.7400
+20,"Radtour durch das Elbtal","Erkunde die Weinhänge und Elbwiesen von Radebeul bis Pillnitz.",480,Legendary,Sport,51.0500,13.8000

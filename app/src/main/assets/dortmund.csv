@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Dortmunder U Ausblick","Fahre auf die Dachterrasse des ehemaligen Brauereigebäudes für eine Stadtansicht.",30,Common,Kultur,51.5150,7.4536
+2,"Westenhellweg Shopping","Schlendere über eine der meistfrequentierten Einkaufsstraßen Deutschlands.",30,Common,Urban,51.5139,7.4611
+3,"Alter Markt Atmosphäre","Setze dich auf den historischen Marktplatz und genieße das Treiben.",30,Common,Urban,51.5136,7.4667
+4,"Phoenix-See Spaziergang","Wandere einmal um das neue Wahrzeichen auf dem ehemaligen Stahlwerksgelände.",60,Common,Natur,51.4897,7.5058
+5,"Signal Iduna Park Selfie","Besuche das größte Fußballstadion Deutschlands und mache ein Foto.",30,Common,Sport,51.4925,7.4517
+6,"Reinoldikirche Besteigung","Besuche die älteste Kirche der Stadt und blicke über das Zentrum.",60,Common,Kultur,51.5147,7.4681
+7,"Westfalenpark & Florianturm","Fahre auf den Fernsehturm und besuche das Deutsche Rosarium.",120,Rare,Natur,51.4967,7.4767
+8,"DASA Arbeitswelt Ausstellung","Entdecke die interaktive Ausstellung über Mensch und Technik.",120,Rare,Kultur,51.4975,7.4239
+9,"Dortmund-Ems-Kanal Hafen","Erkunde den größten Kanalhafen Europas und besuche das Alte Hafenamt.",120,Rare,Urban,51.5261,7.4419
+10,"Museum für Kunst und Kulturgeschichte","Entdecke die Geschichte der Region von der Urzeit bis heute.",120,Rare,Kultur,51.5169,7.4647
+11,"Botanischer Garten Rombergpark","Wandere durch die Alleen und besuche die Schauhäuser.",120,Rare,Natur,51.4828,7.4714
+12,"Phoenix West Hochofen-Tour","Erkunde das industrielle Erbe auf dem alten Hüttenwerksgelände.",240,Epic,Abenteuer,51.4860,7.4850
+13,"Deutsches Fußballmuseum","Tauche ein in die Geschichte des deutschen Fußballs direkt am Bahnhof.",240,Epic,Sport,51.5175,7.4586
+14,"Hohensyburg Ruinen & Denkmal","Wandere zum Kaiser-Wilhelm-Denkmal und blicke über das Ruhrtal.",240,Epic,Natur,51.4208,7.4931
+15,"LWL-Industriemuseum Zeche Zollern","Besuche das 'Schloss der Arbeit' und lerne etwas über den Bergbau.",240,Epic,Kultur,51.5186,7.3344
+16,"Fredenbaumpark Expedition","Erkunde den großen Volkspark im Norden der Stadt.",240,Epic,Natur,51.5367,7.4567
+17,"Radtour entlang der Emscher","Folge dem Emscherweg vom Phoenix See bis nach Mengede.",480,Legendary,Sport,51.5000,7.4000
+18,"Dortmunder Brauereiwesen Tag","Besuche das Brauerei-Museum und zwei traditionelle Brauhäuser.",480,Legendary,Kulinarik,51.5200,7.4700
+19,"Wanderung durch den Schwerter Wald","Verbringe den Tag in den tiefen Wäldern an der Grenze zu Schwerte.",480,Legendary,Natur,51.4500,7.5500
+20,"Entdeckertag im Zoo Dortmund","Besuche die südamerikanischen Tiere im Tierpark am Rombergpark.",480,Legendary,Natur,51.4744,7.4708

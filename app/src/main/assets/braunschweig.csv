@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Burgplatz Löwe","Besuche den berühmten Burglöwen auf dem mittelalterlichen Burgplatz.",30,Rare,Kultur,52.2664,10.5264
+2,"Dom St. Blasii","Erkunde den romanischen Dom mit dem Grab Heinrichs des Löwen.",60,Rare,Kultur,52.2661,10.5256
+3,"Altstadt flanieren","Spaziere durch die rekonstruierten Fachwerkhäuser der historischen Innenstadt.",45,Rare,Urban,52.2664,10.5264
+4,"Magniviertel","Entdecke das charmante Altstadtviertel rund um die Magnikirche.",45,Rare,Kultur,52.2644,10.5239
+5,"Stadtmarkt Besuch","Stöbere auf dem täglichen Markt nach regionalen Produkten.",30,Rare,Kulinarik,52.2644,10.5228
+6,"Burg Dankwarderode","Fotografiere die rekonstruierte Kaiserpfalz am historischen Burgplatz.",30,Rare,Kreativ,52.2661,10.5264
+7,"Herzog Anton Ulrich Museum","Erkunde eines der ältesten Kunstmuseen Deutschlands.",120,Epic,Kultur,52.2697,10.5244
+8,"Naturhistorisches Museum","Besuche das traditionsreiche naturkundliche Museum.",90,Epic,Kultur,52.2697,10.5250
+9,"Oker-Radtour","Radle entlang der Oker durch Braunschweig und seine Stadtteile.",120,Epic,Sport,52.2689,10.5268
+10,"Prinzenpark","Entspanne im englischen Garten rund ums Schloss Richmond.",90,Epic,Natur,52.2497,10.5453
+11,"Schloss Richmond","Besuche das georgianische Landschloss im Süden der Stadt.",90,Epic,Kultur,52.2492,10.5456
+12,"Gewandhaus Braunschweig","Erkunde das historische Gebäude der Tuchhändler.",60,Epic,Kultur,52.2644,10.5222
+13,"Riddagshausen Klosterteiche","Entdecke das naturgeschützte Teichgebiet am Kloster Riddagshausen.",120,Epic,Natur,52.2567,10.5706
+14,"Weststadt Kneipenviertel","Erlebe die lebhafte Bar-Szene im Braunschweiger Westviertel.",120,Epic,Urban,52.2689,10.5189
+15,"Volkswagen Werksbesichtigung","Besuche das benachbarte VW-Werk in Wolfsburg.",240,Epic,Kultur,52.2689,10.5268
+16,"Stadtradtour Braunschweig","Radle einmal rund um den historischen Stadtkern.",180,Epic,Sport,52.2689,10.5268
+17,"Löwen-Rundtour","Suche alle Löwendarstellungen in der Innenstadt und fotografiere sie.",480,Legendary,Kreativ,52.2664,10.5264
+18,"Mittelalterliches Braunschweig","Besuche alle romanischen Kirchen der Innenstadt an einem Tag.",480,Legendary,Kultur,52.2689,10.5268
+19,"Harz-Tagesausflug","Wandere im Harz und besuche Goslar oder den Brocken.",480,Legendary,Natur,51.9153,10.4281
+20,"Nacht der Museen","Besuche möglichst viele Museen während der Langen Museumsnacht.",480,Legendary,Kultur,52.2689,10.5268

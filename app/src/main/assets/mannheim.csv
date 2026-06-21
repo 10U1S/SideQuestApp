@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Wasserturm Mannheim","Fotografiere das Wahrzeichen der Stadt im Herzstück des Jugendstilparks.",30,Rare,Kreativ,49.4833,8.4736
+2,"Mannheimer Schloss","Erkunde das drittgrößte Barockschloss Deutschlands.",90,Rare,Kultur,49.4831,8.4628
+3,"Neckarpromenade","Spaziere am Neckardamm entlang mit Blick auf die Altstadt.",45,Rare,Natur,49.4875,8.4660
+4,"Quadratestadt erkunden","Navigiere durch das einzigartige Rastersystem der Mannheimer Innenstadt.",60,Rare,Urban,49.4875,8.4660
+5,"Marktplatz Mannheim","Erkunde den großen Marktplatz mit dem historischen Rathaus.",30,Rare,Urban,49.4875,8.4608
+6,"Jesuitenkirche","Bewundere die barocke Kirche im Zentrum der Quadratestadt.",30,Rare,Kultur,49.4856,8.4617
+7,"Kunsthalle Mannheim","Entdecke bedeutende Gemälde und Skulpturen vom 19. Jahrhundert bis heute.",120,Epic,Kultur,49.4842,8.4722
+8,"Technoseum","Erlebe interaktiv Technik und Industriegeschichte im Technikmuseum.",120,Epic,Kultur,49.4808,8.4803
+9,"Luisenpark","Entspanne im weitläufigen Stadtpark mit Tiergehege und See.",120,Epic,Natur,49.4817,8.4947
+10,"Planken Shoppingmeile","Entdecke die exklusive Einkaufsmeile der Quadratestadt.",90,Epic,Urban,49.4875,8.4675
+11,"Friedrichspark Flanieren","Genieße den grünen Park nahe dem Rosengarten.",60,Epic,Natur,49.4842,8.4714
+12,"Neckar-Radtour","Radle entlang des Neckars bis Heidelberg.",180,Epic,Sport,49.4875,8.4660
+13,"Reiss-Engelhorn-Museen","Besuche die vielfältigen Museen im Zeughaus.",120,Epic,Kultur,49.4858,8.4619
+14,"Mannheimer Popakademie","Besuche das einzigartige Institut für Popmusik.",60,Epic,Kultur,49.4839,8.4722
+15,"Heidelberg Tagesausflug","Besuche die romantische Universitätsstadt per Straßenbahn.",180,Epic,Kultur,49.4875,8.4660
+16,"Mannheim Stadtradtour","Radle durch alle Quadranten der Stadt und entlang des Rheins.",240,Epic,Sport,49.4875,8.4660
+17,"Rhein-Neckar-Radweg","Radle auf dem Radfernweg durch die Metropolregion.",480,Legendary,Sport,49.4875,8.4660
+18,"Alle Museen an einem Tag","Besuche Kunsthalle, Technoseum und Reiss-Engelhorn-Museen.",480,Legendary,Kultur,49.4875,8.4660
+19,"Pfalz-Weinrundtour","Besuche die Deutschen Weinstraße südlich von Mannheim.",480,Legendary,Kulinarik,49.4875,8.4660
+20,"Mannheimer Musikszene Nacht","Erlebe die lebhafte Pop- und Jazzszene der Stadt bei Nacht.",480,Legendary,Urban,49.4875,8.4660

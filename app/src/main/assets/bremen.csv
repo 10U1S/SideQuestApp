@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Bremer Stadtmusikanten Selfie","Finde die berühmte Statue am Rathaus und berühre die Eselshufe für Glück.",30,Common,Kultur,53.0761,8.8075
+2,"Schnoorviertel Entdeckung","Schlendere durch die engsten Gassen Bremens im ältesten Stadtteil.",30,Common,Urban,53.0728,8.8094
+3,"Böttcherstraße Architektur","Bestaune die einzigartige Backsteinarchitektur und das Glockenspiel.",30,Common,Kreativ,50.0750,8.8056
+4,"Schlachte Weserpromenade","Wandere am Weserufer entlang und beobachte die Schiffe.",60,Common,Urban,53.0764,8.8028
+5,"Bremer Dom Rundgang","Besuche die St. Petri Kathedrale und finde den Bleikeller.",60,Common,Kultur,53.0756,8.8089
+6,"Marktplatz Roland-Check","Bestaune die Statue des Roland, das Wahrzeichen für Freiheit und Recht.",30,Common,Kultur,53.0758,8.8072
+7,"Universum Bremen Science-Center","Tauche ein in die Welt der Wissenschaft im markanten Wal-Gebäude.",120,Rare,Kultur,53.1067,8.8450
+8,"Bürgerpark Rundweg","Wandere durch die grüne Oase Bremens und besuche das Tiergehege.",120,Rare,Natur,53.0900,8.8250
+9,"Überseestadt Hafenflair","Erkunde das neue Viertel auf dem alten Hafengelände.",120,Rare,Urban,53.0933,8.7750
+10,"Kunsthalle Bremen Highlights","Besuche eines der bedeutendsten Kunstmuseen Norddeutschlands.",120,Rare,Kreativ,53.0733,8.8142
+11,"Weser-Stadion Tour","Wirf einen Blick hinter die Kulissen der Heimat von Werder Bremen.",120,Rare,Sport,53.0664,8.8375
+12,"Radtour durch das Blockland","Fahre mit dem Fahrrad über den Deich und genieße hausgemachtes Eis.",240,Epic,Sport,53.1333,8.8000
+13,"Botanika im Rhododendronpark","Entdecke die asiatischen Landschaften und die bunte Blumenpracht.",240,Epic,Natur,53.0939,8.8856
+14,"Klimahaus Bremerhaven Trip","Mache einen Kurztrip (Fahrtzeit einrechnen) durch die Klimazonen der Erde.",240,Epic,Abenteuer,53.5433,8.5744
+15,"Hafenrummel in der Überseestadt","Erlebe Jahrmarkts-Nostalgie der 50er Jahre in einem alten Speicher.",240,Epic,Abenteuer,53.0970,8.7680
+16,"Fahrradtour entlang der Wümme","Erkunde das Naturschutzgebiet Wümme-Niederung auf dem Sattel.",240,Epic,Natur,53.1500,8.9000
+17,"Weser-Radweg Etappe Nord","Fahre mit dem Fahrrad immer an der Weser entlang Richtung Nordsee.",480,Legendary,Sport,53.2000,8.6000
+18,"Ganztagestrip ins Künstlerdorf Worpswede","Wandere durch das Teufelsmoor und besuche die Galerien.",480,Legendary,Kultur,53.2189,8.9258
+19,"Wümme-Wanderweg Marathon","Wandere durch die idyllischen Flusslandschaften im Bremer Umland.",480,Legendary,Natur,53.1600,8.9500
+20,"Maritime Meile Vegesack","Erkunde die Geschichte des Schiffbaus im Bremer Norden den ganzen Tag lang.",480,Legendary,Kultur,53.1700,8.6200

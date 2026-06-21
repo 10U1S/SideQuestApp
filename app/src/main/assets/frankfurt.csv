@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Römerberg & Fachwerk","Besuche den historischen Marktplatz und bewundere das Frankfurter Rathaus.",30,Common,Kultur,50.1105,8.6821
+2,"Mainufer-Spaziergang Skyline","Wandere am Museumsufer entlang und mache ein Foto der Wolkenkratzer.",30,Common,Urban,50.1064,8.6781
+3,"Eiserner Steg Panorama","Überquere die berühmte Brücke und genieße den Blick auf den Dom und den Main.",30,Common,Urban,50.1092,8.6819
+4,"Kleinmarkthalle Gourmet-Snack","Probiere eine Frankfurter Fleischwurst oder grüne Soße in der Markthalle.",60,Common,Kulinarik,50.1119,8.6836
+5,"Goethe-Haus Spaziergang","Besuche den Geburtsort von Johann Wolfgang von Goethe in der Innenstadt.",60,Common,Kultur,50.1111,8.6778
+6,"Euro-Symbol Foto","Mache ein Selfie vor dem großen Euro-Zeichen am Willy-Brandt-Platz.",30,Common,Urban,50.1094,8.6739
+7,"Main Tower Aussichtsplattform","Fahre 200 Meter in die Höhe für den besten Blick über ganz Hessen.",120,Rare,Urban,50.1125,8.6722
+8,"Palmengarten Tropenhaus","Tauche ein in die Pflanzenwelt der Subtropen mitten in Frankfurt.",120,Rare,Natur,50.1233,8.6575
+9,"Städel Museum Highlights","Besuche eines der bedeutendsten Kunstmuseen Deutschlands am Mainufer.",120,Rare,Kultur,50.1031,8.6742
+10,"Sachsenhausen Äppelwoi-Viertel","Erkunde die gemütlichen Gassen und kehre in eine traditionelle Apfelwein-Wirtschaft ein.",120,Rare,Kulinarik,50.1050,8.6900
+11,"Paulskirche Wiege der Demokratie","Besuche den Ort der ersten deutschen Nationalversammlung.",120,Rare,Kultur,50.1111,8.6808
+12,"Frankfurter Zoo Expedition","Besuche die Bewohner im Grzimek-Haus und lerne etwas über Artenschutz.",240,Epic,Natur,50.1158,8.6994
+13,"Dialog Museum Erfahrung","Erlebe Alltagssituationen in absoluter Dunkelheit, geführt von Blinden.",240,Epic,Sozial,50.1090,8.7110
+14,"Senckenberg Naturmuseum","Staune über riesige Dinosaurierskelette und die Vielfalt des Lebens.",240,Epic,Kultur,50.1175,8.6517
+15,"Main-Radweg Richtung Höchst","Fahre mit dem Fahrrad am Main entlang bis zur malerischen Höchster Altstadt.",240,Epic,Sport,50.1000,8.5500
+16,"Berger Straße Bummel","Erkunde die längste Einkaufsstraße Frankfurts im Stadtteil Bornheim.",240,Epic,Urban,50.1250,8.7050
+17,"Wanderung durch den Stadtwald","Erkunde den größten Stadtwald Deutschlands und finde den Goetheturm.",480,Legendary,Natur,50.0750,8.6800
+18,"Ganztagestrip in den Taunus","Fahre mit der U-Bahn zur Hohemark und wandere bis zum Gipfel des Feldbergs.",480,Legendary,Abenteuer,50.2333,8.4500
+19,"Museumsufer Marathon","Besuche drei verschiedene Museen am Mainufer (z.B. Film, Architektur, Kunst).",480,Legendary,Kultur,50.1050,8.6750
+20,"Flughafen Experience Tag","Erkunde den Frankfurter Flughafen mit einer Rundfahrt und besuche die Besucherterrasse.",480,Legendary,Abenteuer,50.0500,8.5700

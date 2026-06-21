@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Fischmarkt-Erkundung","Besuche den Altonaer Fischmarkt und beobachte das bunte Treiben der Marktschreier.",30,Rare,Kulinarik,53.545278,9.950833
+2,"Elbphilharmonie Plaza","Steige hinauf zur Plaza der Elbphilharmonie und genieße den Blick über den Hamburger Hafen.",30,Rare,Kultur,53.541389,9.984167
+3,"Speicherstadt Spaziergang","Wandere durch die historische Speicherstadt und finde das berühmte Wasserschloss-Motiv.",60,Rare,Urban,53.544444,9.992222
+4,"Alter Elbtunnel Durchquerung","Gehe zu Fuß durch den alten Elbtunnel von den Landungsbrücken bis zur anderen Elbseite.",60,Rare,Abenteuer,53.545833,9.966389
+5,"Alster-Rundweg Etappe","Spaziere einen Teilweg um die Außenalster und beobachte die Segelboote.",60,Rare,Natur,53.566667,10.000000
+6,"Reeperbahn bei Tag","Erkunde St. Pauli abseits des Nachtlebens und finde den Beatles-Platz.",30,Rare,Kultur,53.549444,9.957500
+7,"Miniatur Wunderland Entdeckung","Tauche ein in die größte Modelleisenbahnwelt der Welt und finde die versteckten Details.",120,Epic,Kreativ,53.543889,9.988889
+8,"Michel Turmbesteigung","Erklimme den Turm der St. Michaelis Kirche für eine 360-Grad-Aussicht.",120,Epic,Kultur,53.548333,9.978889
+9,"Planten un Blomen Japanischer Garten","Entspanne im japanischen Garten und nimm an einer Teezeremonie teil, falls möglich.",120,Epic,Natur,53.560833,9.981944
+10,"Portugiesenviertel Lunch","Genieße authentische portugiesische Küche in den Gassen hinter den Landungsbrücken.",120,Epic,Kulinarik,53.546389,9.975278
+11,"Treppenviertel Blankenese","Wandere durch die verwinkelten Gassen des Treppenviertels bis hinunter zur Elbe.",120,Epic,Abenteuer,53.558333,9.804167
+12,"Kanufahrt auf den Alsterkanälen","Miete ein Kanu und erkunde Hamburg vom Wasser aus durch die Kanäle von Winterhude.",240,Epic,Sport,53.591667,10.008333
+13,"Internationales Maritimes Museum","Erkunde zehn Decks voller Seefahrtsgeschichte im ältesten Speicher der Stadt.",240,Epic,Kultur,53.543333,10.000000
+14,"Hagenbecks Tierpark","Besuche den traditionsreichen Zoo und füttere die Elefanten im Freigehege.",240,Epic,Natur,53.592778,9.939167
+15,"Schanzenviertel Streetart-Tour","Entdecke die alternative Kultur und Graffiti-Kunst in der Schanze.",240,Epic,Urban,53.561944,9.964167
+16,"Hamburger Rathaus Führung","Nimm an einer Führung durch die prunkvollen Säle des Hamburger Rathauses teil.",240,Epic,Kultur,53.550278,9.992222
+17,"Elbewanderweg Marathon","Wandere von Övelgönne bis nach Wedel entlang des Elbufers.",480,Legendary,Natur,53.545000,9.900000
+18,"Ganztagestrip nach Neuwerk","Wandere bei Ebbe durch das Watt oder fahre mit dem Wattwagen zur Insel Neuwerk.",480,Legendary,Abenteuer,53.921111,8.501667
+19,"Museumshafen Övelgönne & Strand","Verbringe den tag am Elbstrand und besuche die historischen Schiffe im Museumshafen.",480,Legendary,Kultur,53.544444,9.914444
+20,"Radrunde um die Vier- und Marschlande","Erkunde Hamburgs ländliche Seite mit dem Fahrrad durch die Gemüse- und Blumenfelder.",480,Legendary,Sport,53.433333,10.183333

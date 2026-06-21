@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Neues Rathaus & Bogenaufzug","Besuche das prächtige Rathaus und fahre mit dem weltweit einzigartigen Kuppelaufzug.",30,Common,Kultur,52.3672,9.7375
+2,"Maschsee Uferpromenade","Wandere am Nordufer des Sees entlang und genieße den Blick.",30,Common,Natur,52.3600,9.7400
+3,"Kröpcke & Uhr","Treffe dich an Hannovers zentralem Platz und schaue auf die berühmte Uhr.",30,Common,Urban,52.3744,9.7389
+4,"Altstadt & Marktkirche","Schlendere durch die Gassen rund um die Marktkirche und das Alte Rathaus.",60,Common,Kultur,52.3719,9.7353
+5,"Herrenhäuser Gärten Schnuppertour","Besuche den Großen Garten, einen der bedeutendsten Barockgärten Europas.",60,Common,Natur,52.3911,9.7000
+6,"Nanas am Leibnizufer","Bestaune die bunten Skulpturen von Niki de Saint Phalle.",30,Common,Kreativ,52.3722,9.7303
+7,"Erlebnis-Zoo Hannover Highlights","Tauche ein in die verschiedenen Themenwelten von Sambesi bis Yukon Bay.",120,Rare,Natur,52.3831,9.7708
+8,"Eilenriede Stadtwald Runde","Wandere durch die 'Grüne Lunge' Hannovers, einen der größten Stadtwälder Europas.",120,Rare,Natur,52.3800,9.7600
+9,"Sprengel Museum Moderne Kunst","Entdecke Meisterwerke des Expressionismus und der Moderne.",120,Rare,Kreativ,52.3639,9.7372
+10,"List Meile & Stadtwaldnähe","Erkunde das beliebte Viertel List und seine schönen Altbauten.",120,Rare,Urban,52.3880,9.7500
+11,"Landesmuseum Hannover","Entdecke Welten aus Archäologie, Naturkunde und Kunst unter einem Dach.",120,Rare,Kultur,52.3653,9.7394
+12,"Steinhuder Meer Ausflug","Fahre zum größten See Nordwestdeutschlands und wandere am Ufer.",240,Epic,Natur,52.4800,9.3500
+13,"Wanderung am Mittellandkanal","Folge dem Wasserweg durch Hannover bis zur Schleuse Anderten.",240,Epic,Sport,52.3700,9.8500
+14,"Marienburg Schlossbesuch","Nimm den Zug zum 'Neuschwanstein des Nordens' auf dem Marienberg.",240,Epic,Kultur,52.1725,9.7661
+15,"Ihme-Zentrum Architektur-Check","Erkunde den gigantischen Betonkomplex und die alternative Kultur am Fluss.",240,Epic,Urban,52.3700,9.7150
+16,"Maschsee-Rundweg komplett","Spaziere einmal komplett um den 6km langen Maschsee.",240,Epic,Sport,52.3500,9.7400
+17,"Deister-Wanderung Kammweg","Fahre mit der S-Bahn zum Deister und wandere auf dem Höhenzug.",480,Legendary,Natur,52.2300,9.5000
+18,"Herrenhäuser Gärten Erlebnistag","Besuche den Großen Garten, den Berggarten und das Schlossmuseum.",480,Legendary,Kultur,52.3900,9.7000
+19,"Radtour entlang der Leine","Folge der Leine von Herrenhausen bis in die südliche Leinemasch.",480,Legendary,Sport,52.3400,9.7600
+20,"Messegelände & EXPO Park","Erkunde das größte Messegelände der Welt und die Architektur der EXPO 2000.",480,Legendary,Abenteuer,52.3200,9.8100

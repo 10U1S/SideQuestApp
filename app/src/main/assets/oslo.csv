@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Vigeland Skulpturenpark","Erlebe 212 Bronzeskulpturen im einzigartigen Lebenswerk des Bildhauers.",90,Epic,Kreativ,59.9272,10.6997
+2,"Operahaus Oslo","Spaziere auf dem schrägen Marmordach des Opernhauses mit Fjordblick.",45,Rare,Kreativ,59.9075,10.7530
+3,"Akershus Festung","Erkunde die mittelalterliche Burg direkt am Oslofjord.",90,Epic,Kultur,59.9075,10.7358
+4,"Karl Johans Gate","Flaniere über die Prachtstraße vom Bahnhof zum Schloss.",30,Rare,Urban,59.9139,10.7383
+5,"Frognerseteren Wanderung","Wandere durch den Wald zur Aussicht über den Oslofjord.",120,Epic,Natur,59.9869,10.6728
+6,"Smørbröd genießen","Koste das Norwegische offene Butterbrot in einem Kafe.",30,Rare,Kulinarik,59.9139,10.7522
+7,"Nasjonalmuseet","Erlebe Munchs Schrei im neuen Nationalmuseum Skandinaviens.",180,Epic,Kultur,59.9122,10.7281
+8,"Fram Museum","Stehe an Bord des legendären Polarforschungsschiffs Fram.",90,Epic,Kultur,59.9022,10.7103
+9,"Holmenkollen Skischanze","Besuche die berühmteste Skisprungschanze der Welt.",90,Epic,Sport,59.9644,10.6661
+10,"Aker Brygge Promenade","Flaniere am modernen Hafenviertel mit Restaurants.",60,Rare,Urban,59.9108,10.7242
+11,"Grünerløkka Viertel","Entdecke das hipste Viertel Oslo.",90,Epic,Urban,59.9222,10.7608
+12,"Oslofjord Fähre","Erkunde die Inseln Hovedøya und Gressholmen per Fähre.",180,Epic,Natur,59.9075,10.7603
+13,"Munchmuseet","Entdecke das weltweit größte Munch-Museum.",120,Epic,Kultur,59.9058,10.7539
+14,"Mathallen Oslo","Stöbere auf dem Foodmarket nach norwegischen Spezialitäten.",60,Rare,Kulinarik,59.9222,10.7519
+15,"Kongsberg Silbermine","Besuche die historischen Silberminen südlich von Oslo.",180,Epic,Abenteuer,59.6631,9.6472
+16,"Oslo Stadtradtour","Radle von Vigeland über Frogner zum Fjord.",180,Epic,Sport,59.9139,10.7522
+17,"Nordmarka Wanderung","Wandere durch die Wälder nördlich der Stadt.",480,Legendary,Natur,60.0333,10.6833
+18,"Bergen Tagesreise","Fahr mit dem Zug über die spektakuläre Bergenbahn.",480,Legendary,Natur,60.3913,5.3221
+19,"Midnight Sun erleben","Beobachte die Mitternachtssonne im Sommer am Fjordufer.",480,Legendary,Natur,59.9139,10.7522
+20,"Oslo Nacht","Erlebe Bars in Grünerløkka und Clubs.",480,Legendary,Urban,59.9139,10.7522

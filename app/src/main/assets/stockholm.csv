@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Gamla Stan Altstadt","Flaniere durch eine der besterhaltenen mittelalterlichen Altstädte Europas.",60,Rare,Kultur,59.3247,18.0711
+2,"Vasa Museum","Bestaunte das einzige vollständig erhaltene Kriegsschiff aus dem 17. Jahrhundert.",120,Rare,Kultur,59.3281,18.0916
+3,"ABBA The Museum","Erlebe die Geschichte der weltweit erfolgreichsten Popband interaktiv.",90,Rare,Kreativ,59.3281,18.0916
+4,"Djurgården Insel","Radle oder spaziere durch die grüne Parklandschaft in Insellage.",90,Rare,Natur,59.3256,18.1100
+5,"Södermalm Viertel","Entdecke das hipste Viertel Stockholms mit Design und Street Food.",90,Rare,Urban,59.3150,18.0750
+6,"Köttbullar im IKEA","Koste die weltberühmten Fleischbällchen im Stockholmer IKEA-Restaurant.",60,Rare,Kulinarik,59.3839,17.9456
+7,"Skansen Freilichtmuseum","Erlebe traditionelles schwedisches Leben im ältesten Freilichtmuseum der Welt.",180,Epic,Kultur,59.3244,18.1022
+8,"Kungliga Slottet","Besichtige das Königliche Schloss mit Reichskleinodien.",120,Epic,Kultur,59.3268,18.0717
+9,"Fotografiska","Entdecke weltklasse Fotoausstellungen im ehemaligen Zollgebäude.",90,Epic,Kreativ,59.3175,18.0850
+10,"Archipelago-Bootsfahrt","Erkunde die 30.000 Schären des Stockholmer Archipels per Fähre.",240,Epic,Natur,59.3326,18.0649
+11,"Moderna Museet","Erlebe bedeutende Werke von Matisse, Dali und Warhol.",120,Epic,Kultur,59.3261,18.0872
+12,"Östermalm Saluhall","Stöbere auf dem noblsten Lebensmittelmarkt Skandinaviens.",60,Epic,Kulinarik,59.3361,18.0778
+13,"Nationalmuseum Schweden","Entdecke skandinavische Kunst und Design.",120,Epic,Kultur,59.3286,18.0739
+14,"Stockholm bei Nacht Kajak","Paddele bei Mitternachtshimmel durch die Kanäle Stockholms.",180,Epic,Abenteuer,59.3326,18.0649
+15,"Nobelpriset Museum","Lerne alles über die Geschichte des Nobelpreises.",90,Epic,Kultur,59.3256,18.0706
+16,"Medborgarplatsen Streetfood","Probiere internationales Streetfood auf dem lebhaften Marktplatz.",60,Epic,Kulinarik,59.3150,18.0750
+17,"Midsommar Fest erleben","Feiere das schwedische Mittsommerfest mit Einheimischen.",480,Legendary,Sozial,59.3293,18.0686
+18,"Archipelago Inselhüpfen","Besuche drei verschiedene Schäreninseln an einem Tag.",480,Legendary,Natur,59.3326,18.0649
+19,"Alle Inselmuseen an einem Tag","Besuche Vasa, Skansen und ABBA-Museum auf Djurgården.",480,Legendary,Kultur,59.3281,18.0916
+20,"Stockholm Nächte","Erlebe Bars und Clubs in Södermalm bis zum Mittsommersonnenaufgang.",480,Legendary,Urban,59.3150,18.0750

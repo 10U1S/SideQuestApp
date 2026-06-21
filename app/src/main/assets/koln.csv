@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Kölner Dom Highlights","Besuche das Wahrzeichen Kölns und finde den Dreikönigenschrein.",30,Common,Kultur,50.9413,6.9583
+2,"Hohenzollernbrücke Schlösser","Spaziere über die Brücke und zähle die unzähligen Liebesschlösser.",30,Common,Urban,50.9417,6.9639
+3,"Alter Markt & Kölsche Originale","Finde die Statuen von Tünnes und Schäl in der Altstadt.",30,Common,Kultur,50.9389,6.9606
+4,"Rheinauhafen Kranhäuser","Wandere am Rhein entlang und bestaune die moderne Architektur der Kranhäuser.",60,Common,Urban,50.9233,6.9653
+5,"Schokoladenmuseum Schnuppertour","Besuche den Schokoladenbrunnen und probiere ein Stück frische Schokolade.",60,Common,Kulinarik,50.9322,6.9644
+6,"Rheinpark Spaziergang","Nimm die Seilbahn oder die Brücke und spaziere durch den weitläufigen Rheinpark.",60,Common,Natur,50.9483,6.9722
+7,"Domturm Aufstieg","Erklimme die 533 Stufen des Südturms für einen Blick über die ganze Stadt.",120,Rare,Sport,50.9410,6.9585
+8,"Belgisches Viertel Boutique-Shopping","Entdecke kleine Läden und Galerien rund um den Brüsseler Platz.",120,Rare,Kreativ,50.9392,6.9367
+9,"NS-Dokumentationszentrum EL-DE-Haus","Besuche die Gedenkstätte im ehemaligen Gestapo-Gefängnis.",120,Rare,Kultur,50.9406,6.9503
+10,"Römisch-Germanisches Museum","Erkunde die Geschichte der Stadt Köln von der Antike bis zum Mittelalter.",120,Rare,Kultur,50.9411,6.9592
+11,"Flora & Botanischer Garten","Genieße die Blumenpracht und besuche die historischen Gewächshäuser.",120,Rare,Natur,50.9594,6.9717
+12,"Brauhaus-Tour durch die Altstadt","Besuche drei verschiedene Brauhäuser und probiere die Unterschiede im Kölsch.",240,Epic,Kulinarik,50.9380,6.9600
+13,"Stadionführung im RheinEnergieStadion","Wirf einen Blick hinter die Kulissen der Heimat des 1. FC Köln.",240,Epic,Sport,50.9333,6.8750
+14,"Claudius Therme Entspannung","Gönne dir eine Auszeit in der Therme mit Blick auf den Dom.",240,Epic,Natur,50.9490,6.9730
+15,"Melaten-Friedhof Spaziergang","Erkunde den historischen Friedhof mit seinen beeindruckenden Grabmälern.",240,Epic,Kultur,50.9386,6.9189
+16,"Skulpturenpark Köln","Wandere durch die Open-Air-Galerie mit zeitgenössischer Kunst am Rheinufer.",240,Epic,Kreativ,50.9547,6.9722
+17,"Rheinsteig Etappe Köln-Süd","Wandere ein langes Stück entlang des Rheins Richtung Bonn.",480,Legendary,Natur,50.8800,7.0200
+18,"Kölner Zoo & Aquarium Tagesticket","Verbringe den ganzen Tag bei den Elefanten, Hippos und im Regenwaldhaus.",480,Legendary,Abenteuer,50.9583,6.9736
+19,"Phantasialand Brühl","Fahre in den benachbarten Freizeitpark für einen Tag voller Adrenalin.",480,Legendary,Abenteuer,50.7992,6.8806
+20,"Radrunde um die Kölner Grüngürtel","Umrunde die Stadt auf dem Fahrrad durch den äußeren Grüngürtel.",480,Legendary,Sport,50.9500,6.9000

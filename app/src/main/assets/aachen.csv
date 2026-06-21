@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Dom Schatzbesichtigung","Erkunde den Aachener Dom und seinen weltberühmten Kirchenschatz.",60,Rare,Kultur,50.7746,6.0839
+2,"Carolus Thermen Bad","Entspanne in den historischen Thermalquellen mitten in der Altstadt.",120,Rare,Sport,50.7761,6.0908
+3,"Münsterplatz Flanieren","Schlendere über den lebendigen Marktplatz rund um den Dom.",30,Rare,Urban,50.7753,6.0839
+4,"Dreiländerpunkt Vaalserberg","Stehe gleichzeitig in Deutschland, Belgien und den Niederlanden.",120,Rare,Abenteuer,50.7542,6.0203
+5,"Elisenbrunnen Kostprobe","Trinke das schwefelhaltige Thermalwasser am klassizistischen Brunnen.",30,Rare,Kulinarik,50.7744,6.0892
+6,"Rathaus Fassade fotografieren","Mache ein kreatives Foto vom gotischen Rathaus am Markt.",30,Rare,Kreativ,50.7753,6.0842
+7,"Ponttor Stadtmauer","Erkunde das besterhaltene Stadttor und die mittelalterliche Stadtmauer.",60,Epic,Kultur,50.7804,6.0833
+8,"Couven Museum Besuch","Tauche ein in die bürgerliche Wohnkultur des 18. Jahrhunderts.",120,Epic,Kultur,50.7758,6.0861
+9,"Aachener Printen backen","Lerne in einer Bäckerei das Geheimnis des berühmten Gewürzkuchens.",240,Epic,Kulinarik,50.7753,6.0839
+10,"Lousberg Wanderung","Wandere auf den höchsten Punkt der Stadt mit Panoramablick.",120,Epic,Natur,50.7839,6.0853
+11,"Kennedypark Spaziergang","Genieße die grüne Oase im Herzen der Stadt.",60,Epic,Natur,50.7706,6.0797
+12,"Hochschule Aachen Campus","Entdecke den innovativen RWTH-Campus und seine modernen Gebäude.",90,Epic,Urban,50.7792,6.0614
+13,"Burtscheid Abteikirche","Besuche die romanische Kirche im Thermalbad-Stadtteil Burtscheid.",60,Epic,Kultur,50.7633,6.0903
+14,"Aachener Weihnachtsmarkt","Schlendere über einen der schönsten Weihnachtsmärkte Europas.",120,Epic,Urban,50.7753,6.0839
+15,"Suermondts Ludwig Museum","Erkunde die bedeutende Kunstsammlung von der Antike bis zur Gegenwart.",180,Epic,Kultur,50.7736,6.0875
+16,"Cityradtour Aachen","Radle durch alle historischen Viertel der Kaiserstadt.",240,Epic,Sport,50.7753,6.0839
+17,"Dreiländerradtour","Radle eine große Runde durch Deutschland, Belgien und die Niederlande.",480,Legendary,Sport,50.7542,6.0203
+18,"Aachener Karneval erleben","Feiere mit den Einheimischen beim fünften Jahrestag mitten in der Stadt.",480,Legendary,Sozial,50.7753,6.0839
+19,"Historische Altstadt Zeitreise","Besuche alle mittelalterlichen Sehenswürdigkeiten der Kaiserstadt an einem Tag.",480,Legendary,Kultur,50.7753,6.0839
+20,"Aachen bei Nacht","Erkunde die illuminierte Altstadt und ihre Kneipenszene bis zum Morgen.",480,Legendary,Urban,50.7753,6.0839

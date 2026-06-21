@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Kröpeliner Straße Flanieren","Spaziere über die längste Fußgängerzone Norddeutschlands.",30,Rare,Urban,54.0888,12.1367
+2,"Ostseeküste Warnemünde","Besuche den beliebtesten Badeort an der Ostsee mit dem berühmten Leuchtturm.",90,Rare,Natur,54.1775,12.0786
+3,"Alter Markt Rostock","Erkunde den historischen Marktplatz mit dem Rathaus.",45,Rare,Kultur,54.0897,12.1378
+4,"Petrikirche Turm","Besteige den Turm der Kirche für Panoramablick über die Stadt.",45,Rare,Abenteuer,54.0886,12.1361
+5,"Stadthafen Flanieren","Genieße die maritime Atmosphäre am Rostocker Stadthafen.",45,Rare,Urban,54.0875,12.1381
+6,"Marienkirche Astronomische Uhr","Bewundere die berühmte gotische Astronomische Uhr aus dem 14. Jahrhundert.",30,Rare,Kreativ,54.0889,12.1367
+7,"Zoo Rostock","Besuche den traditionsreichen Zoo direkt an der Ostsee.",180,Epic,Natur,54.0958,12.1075
+8,"Ostsee Strandspaziergang","Laufe entlang des Sandstrands in Warnemünde bis zum Teepott.",120,Epic,Natur,54.1775,12.0786
+9,"Schifffahrtsmuseum","Erlebe maritime Geschichte im Traditionsschiff.",90,Epic,Kultur,54.0875,12.1425
+10,"Universitätsplatz Rostock","Entdecke den Campus der ältesten Universität Nordeuropas.",60,Epic,Kultur,54.0897,12.1397
+11,"IGA-Park Rostock","Entspanne im weitläufigen Gartenpark am Stadtrand.",120,Epic,Natur,54.0764,12.1631
+12,"Fährhafen Rostock","Beobachte die großen Fähren nach Dänemark und Schweden beim Einlaufen.",60,Epic,Urban,54.1186,12.1567
+13,"Küstenradweg Ostsee","Radle entlang der Ostseeküste von Warnemünde nach Kühlungsborn.",240,Epic,Sport,54.1775,12.0786
+14,"Kneipennacht Studentenviertel","Erlebe die lebhafte Kneipenszene im Rostocker Studentenviertel.",120,Epic,Urban,54.0888,12.1367
+15,"Steintor Altstadt","Erkunde das einzige erhaltene Stadttor der mittelalterlichen Stadtmauer.",30,Epic,Kultur,54.0856,12.1397
+16,"Rostock Stadtradtour","Radle durch Altstadt, Hafen und entlang der Warnow.",180,Epic,Sport,54.0924,12.0991
+17,"Rügen Tagesausflug","Fahre zur größten deutschen Insel und besuche die Kreidefelsen.",480,Legendary,Natur,54.3750,13.3833
+18,"Hansesegel Festival","Erlebe das internationale Traditionsseglerfestival im Stadthafen.",480,Legendary,Sozial,54.0875,12.1381
+19,"Warnow-Kanufahrt","Paddele in einem Kanu die Warnow von Rostock bis zur Ostsee.",480,Legendary,Sport,54.0924,12.0991
+20,"Ostsee bei Nacht","Erlebe Sonnenuntergang und Nacht am Strand von Warnemünde.",480,Legendary,Natur,54.1775,12.0786

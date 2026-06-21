@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Freiburger Münster","Bewundere den gotischen Dom und besteige seinen einzigartigen Turm.",60,Rare,Kultur,47.9953,7.8528
+2,"Bächle entdecken","Spaziere durch die mittelalterlichen Wasserrinnen in der Fußgängerzone.",30,Rare,Urban,47.9990,7.8421
+3,"Schlossberg besteigen","Wandere auf den Hausberg Freiburgs für Panoramablick über die Stadt.",60,Rare,Natur,47.9989,7.8594
+4,"Augustinerplatz Abend","Genieße den lebhaften Studenten-Treffpunkt am Nachmittag.",45,Rare,Sozial,47.9958,7.8503
+5,"Rathausplatz Flanieren","Erkunde den charmanten Platz mit dem historischen Alten Rathaus.",30,Rare,Kultur,47.9981,7.8503
+6,"Münstermarkt Samstag","Stöbere auf dem Wochenmarkt rund um das Münster nach regionalen Produkten.",60,Rare,Kulinarik,47.9953,7.8528
+7,"Schwarzwald-Einstieg Hollentalsteig","Erkunde den spektakulären Schluchtenpfad am Eingang des Schwarzwalds.",180,Epic,Abenteuer,47.9286,8.0003
+8,"Seepark Freiburg","Entspanne am See im Landschaftspark im Nordwesten der Stadt.",90,Epic,Natur,48.0131,7.8256
+9,"Dreisamufer Radtour","Radle entlang der Dreisam durch die grünen Stadtteile.",120,Epic,Sport,47.9990,7.8617
+10,"Vauban Ökoviertel","Entdecke das innovative Solarsiedlungs-Viertel als Stadtquartier der Zukunft.",90,Epic,Urban,47.9828,7.8381
+11,"Schwarzwälder Kirschtorte","Lerne in einer Konditorei die echte Schwarzwälder Kirschtorte herzustellen.",120,Epic,Kulinarik,47.9990,7.8421
+12,"Botanischer Garten Uni Freiburg","Erkunde den artenreichen Universitätsgarten mit Tropenhäusern.",90,Epic,Natur,47.9942,7.8422
+13,"Weinwanderung Kaiserstuhl","Wandere durch die Weinberge des Kaiserstuhls und koste Badener Wein.",240,Epic,Kulinarik,48.0978,7.6717
+14,"Naturmuseum Freiburg","Entdecke die Naturgeschichte des Schwarzwalds und der Rheinebene.",90,Epic,Natur,47.9964,7.8467
+15,"Colombipark Entspannung","Genieße den historischen Park mit dem Colombischlössle.",60,Epic,Natur,47.9997,7.8467
+16,"Freiburg Stadtradtour","Radle durch alle Stadtteile der Fahrradhauptstadt Deutschlands.",180,Epic,Sport,47.9990,7.8421
+17,"Feldberg Gipfeltour","Wandere auf den höchsten Gipfel des Schwarzwalds mit Skigebiet.",480,Legendary,Natur,47.8742,8.0047
+18,"Elsässer Tagesausflug","Besuche Straßburg oder Colmar per Zug für elsässische Kultur und Küche.",480,Legendary,Kultur,47.9990,7.8421
+19,"Schwarzwald-Weitwanderung","Wandere einen Abschnitt des Westwegs durch den mittleren Schwarzwald.",480,Legendary,Abenteuer,47.9990,7.8421
+20,"Freiburger Weinfest","Erlebe das Weinfest auf dem Münsterplatz mit badischen Winzern.",480,Legendary,Kulinarik,47.9953,7.8528

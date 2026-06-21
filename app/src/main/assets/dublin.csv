@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Guinness Storehouse","Erlebe die Geschichte des schwarzen Goldes und trinke ein Pint mit Stadtblick.",120,Epic,Kulinarik,53.3419,-6.2867
+2,"Temple Bar","Erlebe das pulsierende Kultur- und Nachtlebenviertel am Liffey.",60,Rare,Urban,53.3458,-6.2672
+3,"Trinity College Book of Kells","Bestaunte das mittelalterliche illuminierte Manuskript.",90,Epic,Kultur,53.3438,-6.2546
+4,"St. Patrick's Cathedral","Besuche die älteste und größte Kathedrale Irlands.",45,Rare,Kultur,53.3394,-6.2714
+5,"Phoenix Park","Wandere durch einen der größten Stadtparks Europas.",90,Epic,Natur,53.3597,-6.3267
+6,"Irish Stew genießen","Koste den traditionellen Eintopf in einem alten Pub.",60,Rare,Kulinarik,53.3489,-6.2603
+7,"National Museum of Ireland","Erkunde Wikinger-Schätze und keltische Kunst.",120,Epic,Kultur,53.3400,-6.2528
+8,"Kilmainham Gaol","Besuche das Gefängnis der irischen Unabhängigkeitskämpfer.",90,Epic,Kultur,53.3419,-6.3133
+9,"Pub Crawl O'Connell Street","Besuche vier traditionelle Dublin Pubs in einer Abendtour.",180,Epic,Sozial,53.3498,-6.2603
+10,"National Gallery of Ireland","Entdecke irische und europäische Kunst.",120,Epic,Kultur,53.3411,-6.2522
+11,"Docklands Viertel","Erkunde das moderne Silicon Docks-Viertel.",60,Rare,Urban,53.3486,-6.2381
+12,"Howth Küstenwanderung","Wandere auf dem Klippenpfad der Halbinsel mit Meerblick.",180,Epic,Natur,53.3958,-6.0647
+13,"Georgian Quarter","Erkunde die eleganten Georgian Townhouses.",60,Rare,Kultur,53.3394,-6.2489
+14,"Chester Beatty Library","Besuche die bedeutendste Privatsammlung östlicher Manuskripte.",90,Epic,Kultur,53.3433,-6.2672
+15,"Malahide Castle","Besuche das normannische Schloss und seinen Botanischen Garten.",120,Epic,Kultur,53.4506,-6.1536
+16,"Dublin Stadtradtour","Radle von Phoenix Park durch die Innenstadt bis zu den Docklands.",180,Epic,Sport,53.3489,-6.2603
+17,"Cliffs of Moher Tagesausflug","Besuche die dramatischsten Klippen Irlands.",480,Legendary,Natur,52.9719,-9.4264
+18,"Wicklow Mountains","Wandere durch die Heide und zu den Klosterruinen von Glendalough.",480,Legendary,Natur,52.9981,-6.3294
+19,"Irisches Whiskey Marathon","Besuche Jameson, Teeling und Roe & Co an einem Tag.",480,Legendary,Kulinarik,53.3489,-6.2603
+20,"Dublin Nacht","Erlebe Temple Bar, Live-Musik in Trad Pubs und Clubs.",480,Legendary,Urban,53.3489,-6.2603

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Das Hintergrundbild -->
+    <item android:drawable="@drawable/logbuch_background" />
+
+    <!-- Der "Glas"-Effekt: Ein weißer Schleier -->
+    <!-- Hier kannst du die Deckkraft ändern (z.B. #80 für 50%, #CC für 80%) -->
+<!--    <item>-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <solid android:color="#99FFFFFF" />-->
+<!--        </shape>-->
+<!--    </item>-->
+</layer-list>

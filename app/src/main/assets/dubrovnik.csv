@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Stadtmauer Rundgang","Laufe einmal komplett um die mittelalterliche Stadtmauer.",90,Epic,Sport,42.6414,18.1083
+2,"Stradun Flanieren","Spaziere über das glatte Kalksteinpflaster der Hauptstraße.",30,Rare,Urban,42.6414,18.1083
+3,"Fort Lovrijenac","Besuche die Festung außerhalb der Stadtmauern mit Meerespanorama.",45,Rare,Abenteuer,42.6406,18.1036
+4,"Game of Thrones Drehorte","Finde alle Schauplätze von Kings Landing in der Altstadt.",120,Epic,Kreativ,42.6414,18.1083
+5,"Frischer Fisch am Hafen","Koste gegrillten Fisch und Buzara-Garnelen im alten Hafen.",60,Rare,Kulinarik,42.6411,18.1108
+6,"Altstadt bei Sonnenaufgang","Erlebe die Perle der Adria ohne Touristen beim Morgengrauen.",45,Rare,Kreativ,42.6414,18.1083
+7,"Seilbahn Mount Srd","Fahre auf den Hausberg für Panoramablick über Stadt und Adria.",60,Rare,Natur,42.6494,18.1094
+8,"Elaphiti Inseln","Besuche per Boot die autofreien Inseln Lopud und Šipan.",240,Epic,Natur,42.6667,17.9500
+9,"Lokrum Insel","Schwimme und entspanne auf der bewaldeten Klosterinsel vor der Altstadt.",180,Epic,Natur,42.6244,18.1219
+10,"Mljet Nationalpark","Besuche die grünste Insel Kroatiens mit den Salzwasserseen.",480,Legendary,Natur,42.7333,17.5333
+11,"Rektoren Palast","Erkunde den gotisch-renaissancistischen Sitz des Dubrovniker Rektors.",60,Rare,Kultur,42.6408,18.1106
+12,"Kathedrale Dubrovnik","Besichtige die Barockkathedrale mit dem Schatzkammer-Reliquiar.",45,Rare,Kultur,42.6411,18.1108
+13,"Adria Kajakreise","Paddele im Seekajak um die Stadtmauern und zu Lokrum.",120,Epic,Sport,42.6414,18.1083
+14,"Konavle Weintour","Besuche Weingüter im fruchtbaren Tal südlich der Stadt.",180,Epic,Kulinarik,42.5000,18.1667
+15,"War Photo Limited","Erkunde das einzigartige Kriegsfotografie-Museum.",60,Rare,Kultur,42.6417,18.1072
+16,"Altstadt Rundgang Komplett","Entdecke alle Kirchen, Brunnen und Plätze der Altstadt.",120,Epic,Kultur,42.6414,18.1083
+17,"Krka Wasserfälle","Besuche die spektakulären Wasserfälle im Nationalpark.",480,Legendary,Natur,43.8000,16.0333
+18,"Montenegro Tagesausflug","Besuche Kotor per Boot oder Bus über die Grenze.",480,Legendary,Abenteuer,42.4236,18.7711
+19,"Inselhüpfen Süddalmatien","Besuche Korčula, Hvar und Vis an mehreren Tagen.",480,Legendary,Natur,42.9667,17.1333
+20,"Dubrovnik Nacht","Erlebe Bars auf den Stadtmauern und Clubs im alten Arsenal.",480,Legendary,Urban,42.6414,18.1083

@@ -1,0 +1,28 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Äußere Schicht: Der Rahmen mit Farbverlauf (oben hell, unten dunkel) -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="15dp" />
+            <gradient
+                android:startColor="#D6EDFF"
+                android:endColor="#A3D7FF"
+                android:angle="270" />
+        </shape>
+    </item>
+
+    <!-- Innere Schicht: Der eigentliche Button-Hintergrund, um 2dp versetzt (entspricht Rahmenbreite) -->
+    <item
+        android:bottom="2dp"
+        android:left="2dp"
+        android:right="2dp"
+        android:top="2dp">
+        <shape android:shape="rectangle">
+            <corners android:radius="13dp" />
+            <gradient
+                android:startColor="#D6EDFF"
+                android:centerColor="#2196F3"
+                android:endColor="#D6EDFF"
+                android:angle="270" />
+        </shape>
+    </item>
+</layer-list>

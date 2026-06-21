@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Cathédrale de Lausanne","Besteige den Turm der gotischen Kathedrale für Genferseepanorama.",45,Rare,Abenteuer,46.5228,7.4283
+2,"Olympisches Museum","Erkunde die Geschichte der Olympischen Spiele im imposanten Haus.",120,Rare,Kultur,46.5092,7.4294
+3,"Lausanne Altstadt","Flaniere durch das mittelalterliche Zentrum auf dem Hügel.",45,Rare,Urban,46.5228,7.4283
+4,"Genfersee Ufer Ouchy","Spaziere am Seeufer im Viertel Ouchy entlang.",45,Rare,Natur,46.5092,7.4294
+5,"Place de la Palud","Besuche den historischen Marktplatz mit dem Animationsuhrenspiel.",30,Rare,Kreativ,46.5214,7.4261
+6,"Musée de l'Elysée","Entdecke bedeutende Fotografie-Kunst.",90,Rare,Kreativ,46.5128,7.4317
+7,"Collection de l'Art Brut","Erkunde das weltweit einzigartige Museum der Kunst von Außenseitern.",90,Epic,Kultur,46.5228,7.4222
+8,"Lac Léman Bootsfahrt","Genieße eine Schiffsrundfahrt auf dem Genfersee.",120,Epic,Natur,46.5092,7.4294
+9,"Signal de Sauvabelin","Besteige den Aussichtsturm über dem Stadtwald für Panoramablick.",90,Epic,Natur,46.5308,7.4236
+10,"Lausanne Sauvabelin See","Spaziere um den kleinen Waldsee nordwestlich der Innenstadt.",60,Epic,Natur,46.5306,7.4228
+11,"Weinwanderung Lavaux","Wandere durch die UNESCO-Weinterrassen am Genfersee.",180,Epic,Kulinarik,46.5139,7.5083
+12,"Musée Historique Lausanne","Entdecke die Geschichte der Waadtländer Hauptstadt.",90,Epic,Kultur,46.5219,7.4278
+13,"Genferseemondlauf","Laufe die beleuchtete Uferlinie von Lausanne bis zum nächsten Dorf.",120,Epic,Sport,46.5092,7.4294
+14,"Lausanner Tram Tour","Fahre mit den historischen Trams durch alle Stadtteile.",90,Epic,Urban,46.5197,7.4100
+15,"Montreux Ausflug","Besuche die Jazzstadt am Genfersee mit dem berühmten Château de Chillon.",120,Epic,Kultur,46.4317,6.9108
+16,"Lausanne Stadtradtour","Radle durch die hügelige Stadt und ans Seeufer nach Ouchy.",180,Epic,Sport,46.5197,6.6323
+17,"Chillon – Zermatt Zugfahrt","Erlebe die schönste Zugstrecke der Schweiz über das Rhonetal.",480,Legendary,Abenteuer,46.5197,6.6323
+18,"Genfersee Weinrundtour","Besuche Winzer in Lavaux, Chablais und La Côte.",480,Legendary,Kulinarik,46.5197,6.6323
+19,"Berner Alpen Tagestour","Fahre nach Grindelwald und auf das Jungfraujoch.",480,Legendary,Natur,46.5197,6.6323
+20,"Lausanner Nacht","Erlebe das Nachtleben in den Quartieren Flon und Riponne.",480,Legendary,Urban,46.5197,6.6323

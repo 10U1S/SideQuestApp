@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Altstadt Rynek","Erkunde den perfekt wiederaufgebauten Marktplatz der zerstörten Altstadt.",60,Rare,Kultur,52.2497,21.0122
+2,"Wilanów Palast","Besuche das polnische Versailles im Süden der Stadt.",120,Epic,Kultur,52.1650,21.0894
+3,"Chopin Museum","Erlebe Musik und Leben des berühmtesten polnischen Komponisten.",90,Epic,Kultur,52.2322,21.0075
+4,"Łazienki Park","Spaziere durch den schönsten Park Warschaus mit Palast auf dem Wasser.",90,Epic,Natur,52.2150,21.0344
+5,"Pierogi genießen","Koste die polnischen Teigtaschen in einer traditionellen Milchbar.",30,Rare,Kulinarik,52.2297,21.0122
+6,"Königsschloss","Erkunde das wiederaufgebaute Schloss der polnischen Könige.",90,Epic,Kultur,52.2478,21.0139
+7,"POLIN Museum","Erlebe die tausendjährige Geschichte der polnischen Juden.",180,Epic,Kultur,52.2494,20.9956
+8,"Warschauer Ghetto-Gedenkstätte","Besuche die Gedenkstätten des ehemaligen jüdischen Ghettos.",120,Epic,Kultur,52.2494,20.9956
+9,"Vistula Radtour","Radle entlang der Weichsel durch die Stadtstrände.",120,Epic,Sport,52.2297,21.0511
+10,"Praga Viertel","Entdecke das aufstrebende Street-Art-Viertel jenseits der Weichsel.",90,Epic,Urban,52.2536,21.0658
+11,"Palast der Kultur","Besteige den Stalin-Palast für besten Panoramablick über Warschau.",60,Rare,Abenteuer,52.2319,21.0056
+12,"Nationalmuseum Warschau","Erkunde polnische Kunst von der Gotik bis zur Moderne.",120,Epic,Kultur,52.2311,21.0256
+13,"Neon Museum","Entdecke die bunte Sammlung sozialistischer Leuchtreklamen.",60,Rare,Kreativ,52.2536,21.0658
+14,"Żoliborz Viertel","Erkunde das elegante Vorkriegsviertel mit Cafés und Villen.",90,Epic,Urban,52.2622,20.9864
+15,"Stadtstrand Wisła","Entspanne auf einem der Weichsel-Strände im Sommer.",120,Epic,Natur,52.2297,21.0511
+16,"Warschau Stadtradtour","Radle durch die Altstadt und über die Weichselbrücken.",180,Epic,Sport,52.2297,21.0122
+17,"Krakau Tagesausflug","Fahr per Bahn in die alte Hauptstadt und das Wawel-Schloss.",480,Legendary,Kultur,52.2297,21.0122
+18,"Gedenkstätte Treblinka","Besuche die Gedenkstätte des ehemaligen Vernichtungslagers.",480,Legendary,Kultur,52.6361,22.0519
+19,"Alle Museen an einem Tag","Besuche POLIN, Chopin und Nationalmuseum.",480,Legendary,Kultur,52.2297,21.0122
+20,"Warschau Nacht","Erlebe die explosive Club-Szene in Powiśle und Praga.",480,Legendary,Urban,52.2297,21.0122

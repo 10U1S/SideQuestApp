@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Grand Place","Erlebe den schönsten Marktplatz der Welt.",30,Rare,Kreativ,50.8467,4.3528
+2,"Manneken Pis","Besuche die berühmteste Skulptur Brüssels.",10,Rare,Kreativ,50.8450,4.3500
+3,"Schokolade probieren","Besuche drei verschiedene Chocolatiers.",60,Rare,Kulinarik,50.8472,4.3544
+4,"Galeries Saint-Hubert","Flaniere durch die erste Einkaufspassage Europas.",30,Rare,Urban,50.8472,4.3544
+5,"Moules-Frites genießen","Koste Muscheln mit Pommes.",60,Rare,Kulinarik,50.8467,4.3528
+6,"Atomium","Besuche das Wahrzeichen der Weltausstellung 1958.",90,Epic,Kreativ,50.8947,4.3411
+7,"Musées Royaux des Beaux-Arts","Entdecke Breughel, Rubens und Surrealisten.",180,Epic,Kultur,50.8419,4.3597
+8,"Comic-Strip Wanderung","Suche Wandmalereien der belgischen Comics.",120,Epic,Kreativ,50.8478,4.3542
+9,"Magritte Museum","Erkunde das Werk des belgischen Surrealisten.",90,Epic,Kultur,50.8419,4.3603
+10,"EU-Viertel erkunden","Entdecke das Herz Europas.",90,Epic,Kultur,50.8394,4.3758
+11,"Ixelles Viertel","Entdecke das Viertel mit Art-Nouveau-Häusern.",90,Epic,Urban,50.8261,4.3686
+12,"Horta Museum","Erlebe den Jugendstil im Stadthaus.",90,Epic,Kreativ,50.8231,4.3592
+13,"Cantillon Brauerei","Besuche die Lambic-Brauerei der Welt.",90,Epic,Kulinarik,50.8419,4.3372
+14,"Brüsseler Pralinen-Workshop","Lerne belgische Pralinés herzustellen.",120,Epic,Kulinarik,50.8467,4.3528
+15,"Mont des Arts Terrasse","Genieße den Blick über die Stadt.",30,Rare,Natur,50.8450,4.3564
+16,"Brüssel Stadtradtour","Radle durch alle Gemeinden.",240,Epic,Sport,50.8467,4.3528
+17,"Gent Tagesausflug","Besuche die mittelalterliche Flandrische Stadt.",480,Legendary,Kultur,51.0536,3.7221
+18,"Brügge Tagesausflug","Erlebe das Venedig des Nordens.",480,Legendary,Kultur,51.2093,3.2247
+19,"Belgisches Biermarathon","Koste Trappisten, Lambic und Geuze.",480,Legendary,Kulinarik,50.8467,4.3528
+20,"Brüsseler Nacht","Erlebe Bars in Saint-Gilles und Clubs.",480,Legendary,Urban,50.8467,4.3528

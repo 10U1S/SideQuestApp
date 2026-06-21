@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Dom Mailand","Besteige die Dachterrasse des Doms für Blick über die Stadt.",60,Rare,Abenteuer,45.4641,9.1919
+2,"Last Supper Leonardo","Reserviere Wochen im Voraus und erlebe das berühmte Abendmahl.",60,Rare,Kultur,45.4661,9.1703
+3,"Galleria Vittorio Emanuele II","Flaniere durch die prächtigste Einkaufspassage Italiens.",30,Rare,Urban,45.4658,9.1903
+4,"Navigli Kanäle","Spaziere entlang der historischen Kanäle beim Aperitivo.",60,Rare,Kulinarik,45.4511,9.1708
+5,"Risotto alla Milanese","Koste das Safranrisotto in einer traditionellen Osteria.",60,Rare,Kulinarik,45.4641,9.1919
+6,"Castello Sforzesco","Erkunde die mächtige Renaissance-Burg mit Michelangelo-Pietà.",90,Epic,Kultur,45.4703,9.1797
+7,"Pinacoteca di Brera","Entdecke Raffael, Caravaggio und Tiepolo.",180,Epic,Kultur,45.4722,9.1889
+8,"Design Museum Triennale","Erlebe weltführendes italienisches Design.",120,Epic,Kreativ,45.4711,9.1769
+9,"Fondazione Prada","Entdecke zeitgenössische Kunst.",180,Epic,Kreativ,45.4403,9.2003
+10,"Quadrilatero della Moda","Flaniere durch das Modequadrat mit den Flagship-Stores.",90,Epic,Urban,45.4678,9.1961
+11,"Parco Sempione","Entspanne im englischen Stadtpark.",60,Rare,Natur,45.4728,9.1736
+12,"Aperitivo Crawl Navigli","Erkunde vier verschiedene Aperitivo-Bars entlang der Kanäle.",120,Epic,Sozial,45.4511,9.1708
+13,"Sant'Ambrogio Basilika","Besichtige die romanische Urkirche Mailands.",45,Rare,Kultur,45.4597,9.1794
+14,"AC Milan oder Inter Museum","Besuche das Museum eines der Mailänder Fußballklubs.",90,Epic,Sport,45.4781,9.1236
+15,"Cimitero Monumentale","Erkunde den pompösen Friedhof als Freiluftmuseum.",90,Epic,Kreativ,45.4878,9.1808
+16,"Mailand Stadtradtour","Radle durch alle Viertel von Brera bis Navigli.",180,Epic,Sport,45.4641,9.1919
+17,"Bergamo Tagesausflug","Besuche die mittelalterliche Oberstadt.",480,Legendary,Kultur,45.6983,9.6697
+18,"Leder- und Mode-Workshop","Lerne Handtaschen herzustellen.",480,Legendary,Kreativ,45.4641,9.1919
+19,"Alle großen Museen","Besuche Brera, Ambrosiana und das Archäologische Museum.",480,Legendary,Kultur,45.4641,9.1919
+20,"Mailand Nacht","Erlebe Aperitivo in den Navigli und Clubs.",480,Legendary,Urban,45.4641,9.1919

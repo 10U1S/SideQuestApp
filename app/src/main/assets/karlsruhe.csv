@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Schloss Karlsruhe","Bewundere das Barockschloss im Mittelpunkt des Stadtfächerfächerfächers.",60,Rare,Kultur,49.0136,8.4044
+2,"Badisches Landesmuseum","Entdecke Kulturgeschichte von der Antike bis zur Gegenwart im Schloss.",120,Rare,Kultur,49.0136,8.4044
+3,"Schlossgarten Flanieren","Genieße den parkähnlichen Schlossgarten im Fächerlayout der Stadt.",45,Rare,Natur,49.0136,8.4044
+4,"Bundesverfassungsgericht","Besuche den beeindruckenden Bau des höchsten deutschen Gerichts.",60,Rare,Kultur,49.0092,8.3986
+5,"Marktplatz Pyramide","Fotografiere die einzigartige Pyramide über dem Grab des Stadtgründers.",30,Rare,Kreativ,49.0094,8.4044
+6,"ZKM Zentrum für Kunst und Medien","Erlebe digitale Kunst und Medieninstallationen im Kulturzentrum.",120,Rare,Kultur,49.0064,8.3897
+7,"Stadtgarten Karlsruhe","Entspanne im historischen Volkspark mit Zoo und Konzertmuschel.",90,Epic,Natur,49.0158,8.3956
+8,"Staatliche Kunsthalle","Bewundere bedeutende Gemälde vom Mittelalter bis zum 19. Jahrhundert.",120,Epic,Kultur,49.0081,8.3975
+9,"Naturkundemuseum","Entdecke die Naturgeschichte des Oberrheins und des Schwarzwalds.",90,Epic,Natur,49.0086,8.3981
+10,"Durlacher Turmberg","Besteige den Hausberg Durlachs für Panoramablick.",90,Epic,Abenteuer,49.0006,8.4833
+11,"Rheinhäfen Radtour","Radle durch die Industriehäfen am Rhein.",120,Epic,Sport,49.0233,8.3306
+12,"Nacht der Museen Karlsruhe","Erlebe alle Museen der Fächerstadt in einer Nacht.",180,Epic,Kultur,49.0069,8.4037
+13,"Beiertheimer Wäldchen","Entspanne im kleinen Stadtwald westlich der Innenstadt.",60,Epic,Natur,48.9975,8.3942
+14,"Alter Schlachthof","Entdecke das Kreativquartier in den denkmalgeschützten Hallen.",90,Epic,Urban,49.0033,8.3797
+15,"Karlsruher Weinfest","Probiere Weine vom Kaiserstuhl auf dem jährlichen Weinfest.",120,Epic,Kulinarik,49.0069,8.4037
+16,"Stadtradtour Fächerstadt","Radle entlang der Fächerstraßen von der Peripherie bis zum Schloss.",180,Epic,Sport,49.0069,8.4037
+17,"Schwarzwald-Tagesausflug","Fahre in den Schwarzwald und wandere um den Mummelsee.",480,Legendary,Natur,48.5964,8.1664
+18,"Straßburg Tagesausflug","Besuche die elsässische Metropole per Straßenbahn direkt von Karlsruhe.",480,Legendary,Kultur,49.0069,8.4037
+19,"Pfinztal Radtour","Radle entlang des Pfinztals und entdecke historische Dörfer.",480,Legendary,Sport,49.0069,8.4037
+20,"Historische Fächerstadt Tour","Besuche alle historischen Bauten entlang der Fächerstraßen.",480,Legendary,Kultur,49.0069,8.4037

@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Wawel Burg","Erkunde die historische Burg der polnischen Könige auf dem Hügel.",120,Epic,Kultur,50.0542,19.9353
+2,"Rynek Główny","Erlebe den größten mittelalterlichen Marktplatz Europas.",45,Rare,Urban,50.0614,19.9369
+3,"Marienbasilika Trompetensignal","Höre das stündliche Trompetensignal vom Turm der gotischen Kirche.",30,Rare,Kreativ,50.0617,19.9389
+4,"Kazimierz Jüdisches Viertel","Entdecke das historische jüdische Viertel mit Synagogen und Cafés.",90,Epic,Kultur,50.0514,19.9444
+5,"Zapiekanka probieren","Koste die berühmte überbackene Baguettehälfte auf dem Plac Nowy.",20,Rare,Kulinarik,50.0514,19.9444
+6,"Collegium Maius","Besichtige das älteste Universitätsgebäude der Universität Krakau.",60,Rare,Kultur,50.0617,19.9319
+7,"Wieliczka Salzbergwerk","Fahre in das unterirdische UNESCO-Bergwerk mit Kapellen aus Salz.",180,Epic,Abenteuer,49.9833,20.0542
+8,"Planty Park","Spaziere einmal um die grüne Parkmeile auf den alten Stadtmauern.",60,Rare,Natur,50.0614,19.9369
+9,"Schindlers Fabrik","Erlebe die Geschichte Krakaus unter der Nazibesatzung.",120,Epic,Kultur,50.0483,19.9633
+10,"Czartoryski Museum","Bewundere Leonardos Dame mit dem Hermelin.",90,Epic,Kultur,50.0639,19.9325
+11,"Nowa Huta","Erkunde die stalinistische Modellstadt im Osten Krakaus.",120,Epic,Urban,50.0689,20.0883
+12,"Barbakan und Florianstor","Fotografiere das besterhaltene mittelalterliche Tor Polens.",30,Rare,Kreativ,50.0661,19.9392
+13,"Vistula Radtour","Radle entlang der Weichsel durch Krakau und das Umland.",120,Epic,Sport,50.0542,19.9353
+14,"Jüdischer Krakau-Rundgang","Besuche alle historischen Synagogen des Kazimierz-Viertels.",120,Epic,Kultur,50.0514,19.9444
+15,"Pierogarnias-Tour","Koste Pierogi in verschiedenen Varianten in drei verschiedenen Lokalen.",120,Epic,Kulinarik,50.0614,19.9369
+16,"Krakau Stadtradtour","Radle durch Altstadt, Kazimierz und nach Nowa Huta.",240,Epic,Sport,50.0614,19.9369
+17,"Auschwitz-Birkenau Gedenkstätte","Besuche die Gedenkstätte des größten Vernichtungslagers.",480,Legendary,Kultur,50.0275,19.2025
+18,"Tatra Gebirge Wanderung","Wandere in der Hohen Tatra bei Zakopane.",480,Legendary,Natur,49.2992,19.9500
+19,"Alle Museen an einem Tag","Besuche Wawel, Schindlers Fabrik und Czartoryski an einem Tag.",480,Legendary,Kultur,50.0614,19.9369
+20,"Krakau Nacht","Erlebe Kazimierz-Bars und Keller-Clubs in einer legendären Nacht.",480,Legendary,Urban,50.0614,19.9369

@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Deutsches Bergbaumuseum","Erkunde das weltgrößte Bergbaumuseum und fahre in den Anschauungsbergwerk.",120,Rare,Kultur,51.4853,7.2172
+2,"Bermuda3eck Kneipenrunde","Entdecke das berühmte Kneipenviertel rund ums Bermudadreieck.",90,Rare,Urban,51.4818,7.2239
+3,"Starlight Express schauen","Erlebe das weltlängste laufende Musical in seinem eigenen Theater.",180,Rare,Kultur,51.4714,7.2231
+4,"Stadtpark Bochum","Entspanne im großen Stadtpark mit dem Planetarium.",60,Rare,Natur,51.4869,7.2094
+5,"Kortumpark Spaziergang","Flaniere durch den ruhigen Park nahe der Innenstadt.",45,Rare,Natur,51.4797,7.2181
+6,"Marienplatz Altstadt","Erkunde die historische Altstadt rund um die Propsteikirche.",45,Rare,Kultur,51.4808,7.2181
+7,"Planetarium Bochum","Bestaune die Sternenwelt in einer der ältesten Zeiss-Kuppeln Deutschlands.",90,Epic,Kultur,51.4869,7.2094
+8,"Zeche Hannover","Erkunde die denkmalgeschützte Zeche mit ihrem Förderturm.",120,Epic,Kultur,51.4931,7.1833
+9,"Ruhrpark Shopping","Stöbere in einem der größten Einkaufszentren des Ruhrgebiets.",120,Epic,Urban,51.4636,7.2647
+10,"Bahnhof Langendreer","Entdecke den alternativen Kulturbahnhof mit Kino und Theater.",90,Epic,Kultur,51.4742,7.3031
+11,"Bochumer Symphoniker","Besuche ein Konzert des renommierten Orchesters im Anneliese Brost Musikforum.",180,Epic,Kultur,51.4808,7.2153
+12,"Cranger Kirmes","Erlebe einen der größten Jahrmärkte Deutschlands in Wanne-Eickel.",240,Epic,Sozial,51.5339,7.1997
+13,"Hattingen Altstadt Tagesausflug","Besuche die perfekt erhaltene Fachwerkaltstadt in der Nachbarschaft.",180,Epic,Kultur,51.4028,7.1856
+14,"Stadtradtour Bochum","Radle von der Innenstadt bis zu den Zechen an den Stadträndern.",240,Epic,Sport,51.4818,7.2162
+15,"Kemnader See Runde","Spaziere oder radle um den beliebten Stausee am Stadtrand.",120,Epic,Natur,51.4203,7.2528
+16,"Bochum Total Festival","Erlebe eines der größten kostenlosen Musikfestivals Europas.",480,Epic,Sozial,51.4818,7.2162
+17,"Ruhrgebiet Industriekultur","Besuche alle bedeutenden Industriedenkmäler an einem Tag.",480,Legendary,Kultur,51.4818,7.2162
+18,"Bergbau-Radroute","Radle auf der Route der Industriekultur durch das Ruhrgebiet.",480,Legendary,Sport,51.4818,7.2162
+19,"Nachtschicht Ruhrgebiet","Erlebe das Nachtleben von Bochum bis Essen.",480,Legendary,Urban,51.4818,7.2162
+20,"Zechensterben Zeitreise","Besuche alle stillgelegten Zechen Bochums und erforsche ihre Geschichte.",480,Legendary,Abenteuer,51.4818,7.2162

@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Stephansdom Turmbesteigung","Besteige den Nordturm des Wiener Doms für Blick über die Dächer.",45,Rare,Abenteuer,48.2085,16.3731
+2,"Naschmarkt Erkunden","Stöbere auf dem berühmtesten Markt Wiens zwischen Gewürzen und Köstlichkeiten.",60,Rare,Kulinarik,48.1997,16.3625
+3,"Prater Riesenrad","Fahre mit dem historischen Riesenrad aus dem Jahr 1897.",45,Rare,Kreativ,48.2167,16.3967
+4,"Kunsthistorisches Museum","Entdecke Meisterwerke von Rubens, Rembrandt und Vermeer.",180,Rare,Kultur,48.2036,16.3614
+5,"Belvedere Garten","Spaziere durch den barocken Schlossgarten zwischen Ober- und Unterem Belvedere.",60,Rare,Natur,48.1917,16.3803
+6,"Wiener Kaffeehaus","Genieße einen Melange und eine Mehlspeise in einem traditionellen Café.",60,Rare,Kulinarik,48.2082,16.3738
+7,"Schönbrunn Schlosspark","Erkunde den weitläufigen Barockpark mit Gloriette und Tiergarten.",180,Epic,Natur,48.1850,16.3119
+8,"Heuriger Grinzing","Verbring einen Abend in einem traditionellen Weinschank im Wienerwald.",180,Epic,Kulinarik,48.2756,16.3558
+9,"Wiener Sängerknaben","Erlebe einen Auftritt des weltberühmten Knabenchors.",120,Epic,Kultur,48.2067,16.3653
+10,"Museumsquartier","Entdecke das kreative Kulturviertel im Herzen der Innenstadt.",120,Epic,Kultur,48.2022,16.3583
+11,"Wienerwald Wanderung","Wandere durch den Stadtwald mit Blick auf Wien.",180,Epic,Natur,48.2178,16.2667
+12,"Donauinsel","Radle oder spaziere auf der 21 km langen Freizeitinsel.",120,Epic,Sport,48.2167,16.4133
+13,"Staatsoper Stehplatz","Erlebe Weltklasse-Oper vom Stehplatz im legendären Opernhaus.",180,Epic,Kultur,48.2028,16.3694
+14,"Hundertwasserhaus","Besuche das farbenfrohe Wohnhaus des Ausnahmekünstlers.",60,Epic,Kreativ,48.2056,16.3975
+15,"Börse Café Landtmann","Genieße Mittag im nobelsten Kaffeehaus Wiens.",90,Epic,Kulinarik,48.2108,16.3606
+16,"Wien Stadtradtour Ringstraße","Radle einmal komplett um den historischen Ringstraßenboulevard.",120,Epic,Sport,48.2082,16.3738
+17,"Wiener Ballnacht","Besuche einen der berühmten Wiener Bälle in der Hofburg.",480,Legendary,Sozial,48.2067,16.3653
+18,"Alle Weltmuseen an einem Tag","Besuche Kunsthistorisches, Naturhistorisches und Heeresgeschichtliches Museum.",480,Legendary,Kultur,48.2082,16.3738
+19,"Weinviertel Tagesausflug","Besuche die Kellergassen und Weingüter nördlich von Wien.",480,Legendary,Kulinarik,48.2082,16.3738
+20,"Wien bei Nacht","Erlebe Heurigen, Jazzclubs und das nächtliche Donauufer.",480,Legendary,Urban,48.2082,16.3738

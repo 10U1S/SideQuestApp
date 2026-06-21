@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Schwebebahn fahren","Fahre mit der einzigartigen Wuppertaler Schwebebahn von einem Ende zum anderen.",60,Rare,Abenteuer,51.2562,7.1508
+2,"Von der Heydt Museum","Entdecke eine der bedeutendsten Kunstsammlungen Westdeutschlands.",120,Rare,Kultur,51.2592,7.1497
+3,"Engels-Haus","Besuche das Geburtshaus von Friedrich Engels.",60,Rare,Kultur,51.2569,7.1553
+4,"Wuppertal-Elberfeld Altstadt","Flaniere durch das historische Zentrum rund um die Laurentiuskirche.",45,Rare,Urban,51.2569,7.1497
+5,"Zoo Wuppertal","Besuche den historischen Zoo mit seinem einzigartigen Freigehege.",180,Rare,Natur,51.2444,7.1489
+6,"Schwebebahn fotografieren","Fotografiere die Schwebebahn aus ungewöhnlichen Perspektiven.",60,Rare,Kreativ,51.2562,7.1508
+7,"Skulpturenpark Waldfrieden","Entdecke bedeutende Skulpturen im romantischen Waldgarten.",120,Epic,Kreativ,51.2383,7.1050
+8,"Wupper-Wanderung","Wandere entlang der Wupper durch das Tal.",180,Epic,Natur,51.2562,7.1508
+9,"Historische Stadthalle","Erlebe ein Konzert in der wilhelminischen Konzerthalle.",180,Epic,Kultur,51.2592,7.1508
+10,"Nordbahntrasse Radtour","Radle auf der umgebauten Bahntrasse durch das Wuppertal.",120,Epic,Sport,51.2708,7.1175
+11,"Mirke Quartier","Entdecke das kreative Quartier mit Galerienszene.",90,Epic,Urban,51.2669,7.1264
+12,"Toelleturm Wanderung","Wandere auf den Hausberg Wuppertals mit Aussichtsturm.",120,Epic,Natur,51.2542,7.0908
+13,"Barmen Altstadt","Erkunde den historischen Ortsteil Barmen mit Geburtsstätte des Deutschen Barmer Bekenntnisses.",60,Epic,Kultur,51.2742,7.2100
+14,"Beyerhaus Gastroszene","Probiere internationale Küche in den Gastromeilen des Mirke-Viertels.",90,Epic,Kulinarik,51.2669,7.1264
+15,"Bergisches Land Wanderung","Wandere durch die hügelige Kulturlandschaft nördlich Wuppertals.",240,Epic,Natur,51.2562,7.1508
+16,"Wuppertal Stadtradtour","Radle durch alle Stadtteile im Wuppetal.",240,Epic,Sport,51.2562,7.1508
+17,"Schwebebahn Nachtfahrt","Erlebe die Schwebebahn bei Dunkelheit.",480,Legendary,Abenteuer,51.2562,7.1508
+18,"Pina Bausch Tanztheater","Erlebe eine Aufführung des weltberühmten Tanztheaters Wuppertal.",480,Legendary,Kultur,51.2592,7.1508
+19,"Bergisches Dreieck","Besuche Wuppertal, Solingen und Remscheid an einem Tag.",480,Legendary,Kultur,51.2562,7.1508
+20,"Kunstnacht Wuppertal","Erlebe Galerien, Street Art und Kulturzentren in einer Nacht.",480,Legendary,Kreativ,51.2562,7.1508

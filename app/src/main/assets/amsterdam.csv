@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Grachtenrundfahrt","Erkunde die historischen Kanäle per Boot oder Tretboot.",90,Rare,Natur,52.3676,4.9041
+2,"Rijksmuseum","Bewundere Rembrandts Nachtwache im Nationalmuseum der Niederlande.",180,Rare,Kultur,52.3600,4.8852
+3,"Anne Frank Haus","Besuche das Versteck der Familie Frank im Hinterhaus am Prinsengracht.",90,Rare,Kultur,52.3752,4.8840
+4,"Albert Cuyp Markt","Stöbere auf dem größten Straßenmarkt der Niederlande nach Stroopwafeln.",60,Rare,Kulinarik,52.3558,4.8952
+5,"Vondelpark Picknick","Entspanne im grünen Herzen Amsterdams wie die Einheimischen.",60,Rare,Natur,52.3579,4.8686
+6,"Jordaan Viertel","Flaniere durch das charmante Viertel mit Boutiquen und Braunen Cafés.",45,Rare,Urban,52.3749,4.8840
+7,"Van Gogh Museum","Erlebe die Entwicklung van Goghs von den dunklen Anfängen bis zur Blütezeit.",180,Epic,Kultur,52.3584,4.8811
+8,"Heineken Experience","Entdecke die Geschichte des berühmten Biers in der alten Brauerei.",120,Epic,Kulinarik,52.3572,4.8931
+9,"NEMO Science Museum","Erkunde interaktive Wissenschaft auf dem grünen Schiffsdach.",120,Epic,Kultur,52.3742,4.9122
+10,"Fahrradtour Stadtrand","Radle wie ein Amsterdammer durch Stadtteile und Windmühlen.",180,Epic,Sport,52.3676,4.9041
+11,"Red Light District Tour","Erkunde das historische Vergnügungsviertel bei Tageslicht mit Kontext.",90,Epic,Urban,52.3740,4.8981
+12,"Stedelijk Museum","Entdecke Design und moderne Kunst vom Bauhaus bis heute.",120,Epic,Kreativ,52.3581,4.8797
+13,"Hortus Botanicus","Besuche einen der ältesten botanischen Gärten der Welt.",90,Epic,Natur,52.3664,4.9073
+14,"Stroopwafel backen","Lerne in einem Workshop die niederländische Waffelspezialität herzustellen.",90,Epic,Kulinarik,52.3676,4.9041
+15,"Keukenhof Tagesausflug","Besuche den weltberühmten Tulpengarten in der Blütezeit.",240,Epic,Natur,52.2697,4.5468
+16,"EYE Filmmuseum","Erlebe holländisches und internationales Kino im ikonischen Gebäude.",120,Epic,Kreativ,52.3843,4.9007
+17,"Windmühlen Zaanse Schans","Besuche das malerische Freilichtmuseum mit echten Windmühlen.",480,Legendary,Kultur,52.4736,4.8183
+18,"Alle Museen an einem Tag","Besuche Rijksmuseum, Van Gogh und Stedelijk am selben Tag.",480,Legendary,Kultur,52.3676,4.9041
+19,"Grachtenfahrt bei Nacht","Erlebe Amsterdams beleuchtete Brücken und Kanäle bei Nacht.",480,Legendary,Kreativ,52.3676,4.9041
+20,"Amsterdam Pub Crawl","Besuche Brauereien, Jenever-Bars und Bruin Cafés in einer Nacht.",480,Legendary,Sozial,52.3676,4.9041

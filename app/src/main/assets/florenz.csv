@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Uffizien Galerie","Erlebe Botticellis Venus und Geburt der Venus im weltberühmten Museum.",180,Epic,Kultur,43.7678,11.2553
+2,"Ponte Vecchio","Spaziere über die Goldschmiedebrücke bei Sonnenuntergang.",30,Rare,Kreativ,43.7681,11.2531
+3,"Dom Santa Maria del Fiore","Bestaunte Brunelleschis Kuppel von außen und besteige sie.",90,Epic,Abenteuer,43.7731,11.2560
+4,"Piazzale Michelangelo","Genieße den besten Panoramablick über Florenz vom Hügel.",45,Rare,Kreativ,43.7629,11.2650
+5,"Gelato in San Lorenzo","Koste handgemachtes Eis in einer historischen Eisdiele.",20,Rare,Kulinarik,43.7758,11.2553
+6,"Piazza della Signoria","Erlebe das Freiluft-Museo mit Kopien der bekanntesten Statuen.",30,Rare,Kultur,43.7697,11.2558
+7,"Galleria dell'Accademia","Stehe vor Michelangelos Original-David und erlebe den Größenunterschied.",90,Epic,Kultur,43.7767,11.2581
+8,"Palazzo Pitti und Boboli","Erkunde den Medici-Palast und seine terrassierten Gärten.",180,Epic,Kultur,43.7650,11.2500
+9,"Bargello Museum","Entdecke Donatello und die florentinische Bildhauerei.",90,Epic,Kultur,43.7706,11.2561
+10,"San Miniato al Monte","Wandere zum romanischen Juwel auf dem Hügel über Florenz.",60,Rare,Natur,43.7608,11.2647
+11,"Orsanmichele Kirche","Erkunde die einzigartige Kombination aus Kornspeicher und Kirche.",45,Rare,Kreativ,43.7706,11.2553
+12,"Mercato Centrale","Stöbere auf dem zweigeschossigen Lebensmittelmarkt nach Toskanaspezialitäten.",90,Epic,Kulinarik,43.7769,11.2544
+13,"Chianti Weintour","Besuche Weingüter im Chianti-Classico Gebiet südlich von Florenz.",240,Epic,Kulinarik,43.4833,11.3333
+14,"Oltrarno Viertel","Entdecke das authentischere Florenz auf der anderen Arnoseite.",90,Epic,Urban,43.7644,11.2481
+15,"Arno Promenade","Spaziere entlang des Arno zum Sonnenuntergang.",60,Rare,Natur,43.7681,11.2531
+16,"Florenz Stadtradtour","Radle durch alle Viertel und über die alten Brücken.",180,Epic,Sport,43.7731,11.2560
+17,"Medici-Tag Komplett","Besuche alle bedeutenden Medici-Stätten in Florenz.",480,Legendary,Kultur,43.7731,11.2560
+18,"Siena Tagesausflug","Besuche die Rivalin Florenz mit dem berühmten Campo-Platz.",480,Legendary,Kultur,43.3186,11.3306
+19,"Alle großen Museen","Besuche Uffizien, Accademia und Bargello an einem einzigen Tag.",480,Legendary,Kultur,43.7731,11.2560
+20,"Florenz Nacht","Erlebe Aperitivo in Oltrarno und Bars rund um Santa Croce.",480,Legendary,Urban,43.7731,11.2560

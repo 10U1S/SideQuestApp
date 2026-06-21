@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Kurhaus Wiesbaden","Bewundere das neoklassizistische Kurhaus im Kurpark.",30,Rare,Kultur,50.0808,8.2403
+2,"Wilhelmstraße Flanieren","Spaziere über die elegante Haupteinkaufsstraße der Landeshauptstadt.",30,Rare,Urban,50.0808,8.2403
+3,"Kaiser-Friedrich-Therme","Entspanne in den historischen Thermalbädern der Stadt.",120,Rare,Sport,50.0817,8.2383
+4,"Marktkirche Wiesbaden","Erkunde die neugotische Backsteinkirche am Schlossplatz.",30,Rare,Kultur,50.0783,8.2436
+5,"Stadtschloss Wiesbaden","Besichtige das ehemalige Herzogsschloss nahe dem Marktplatz.",30,Rare,Kultur,50.0778,8.2436
+6,"Neroberg Aussicht","Genieße den Blick über Wiesbaden und den Rhein vom Weinberg.",60,Rare,Natur,50.0917,8.2278
+7,"Nerobergbahn fahren","Fahre mit der historischen wasserbetriebenen Zahnradbahn auf den Neroberg.",45,Epic,Abenteuer,50.0861,8.2333
+8,"Museum Wiesbaden","Entdecke Kunstwerke von Expressionismus bis Gegenwart.",120,Epic,Kultur,50.0814,8.2422
+9,"Kurpark Spaziergang","Flaniere durch den weitläufigen Kurpark mit Brunnen und Gewächshaus.",60,Epic,Natur,50.0808,8.2403
+10,"Rheingauer Weinwanderung","Wandere durch die Rheingauer Weinberge über Wiesbaden.",180,Epic,Kulinarik,50.0808,8.2403
+11,"Biebricher Schloss","Erkunde das barocke Schloss am Rheinufer im Stadtteil Biebrich.",90,Epic,Kultur,50.0339,8.2436
+12,"Staatstheater Wiesbaden","Erlebe eine Aufführung im traditionsreichen Staatstheater.",180,Epic,Kultur,50.0806,8.2408
+13,"Rheinradtour","Radle entlang des Rheins von Wiesbaden bis Rüdesheim.",240,Epic,Sport,50.0782,8.2398
+14,"Bädermeile Wiesbaden","Besuche alle historischen Thermalbäder und Brunnen der Stadt.",120,Epic,Kulinarik,50.0817,8.2383
+15,"Schiersteiner Hafen","Erlebe die maritime Atmosphäre am Sportboothafen.",60,Epic,Urban,50.0414,8.1819
+16,"Wiesbaden Stadtradtour","Radle von der Innenstadt zum Neroberg und ans Rheinufer.",180,Epic,Sport,50.0782,8.2398
+17,"Rheingau Weinrundtour","Besuche mehrere renommierte Weingüter im Rheingau.",480,Legendary,Kulinarik,50.0782,8.2398
+18,"Mainzer Fastnacht Ausflug","Erlebe den weltberühmten Karneval in der Nachbarstadt Mainz.",480,Legendary,Sozial,50.0782,8.2398
+19,"Großer Feldberg Wanderung","Wandere auf den höchsten Gipfel des Taunus.",480,Legendary,Natur,50.2258,8.4578
+20,"Luxusnacht Wiesbaden","Erlebe Spielkasino, Gourmet und Cocktailbars in der Kurstadt.",480,Legendary,Urban,50.0782,8.2398

@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Kathedrale und Giralda","Besteige den maurischen Turm der größten gotischen Kathedrale der Welt.",90,Epic,Abenteuer,37.3858,-5.9928
+2,"Alcázar Palast","Erkunde den Mudéjar-Palast der spanischen Könige mit Gärten.",120,Epic,Kultur,37.3836,-5.9917
+3,"Barrio de Santa Cruz","Verliere dich in den engen weißen Gassen des alten jüdischen Viertels.",60,Rare,Urban,37.3858,-5.9892
+4,"Tapas an der Bar","Koste Sevillaner Tapas stehend an der Theke wie die Einheimischen.",45,Rare,Kulinarik,37.3892,-5.9950
+5,"Triana Viertel","Entdecke das Flamenco-Viertel am anderen Ufer des Guadalquivir.",60,Rare,Kultur,37.3792,-6.0014
+6,"Metropol Parasol","Fotografiere die größte Holzkonstruktion der Welt von oben.",30,Rare,Kreativ,37.3928,-5.9919
+7,"Flamenco Show","Erlebe echten Flamenco in einem authentischen Tablao in Triana.",90,Epic,Kultur,37.3792,-6.0014
+8,"Parque de María Luisa","Entspanne im tropischen Park mit dem Plaza de España.",90,Epic,Natur,37.3753,-5.9928
+9,"Plaza de España","Bewundere den halbkreisförmigen Renaissance-Bau mit Kanälen.",60,Rare,Kreativ,37.3761,-5.9869
+10,"MASE Museum","Erkunde zeitgenössische Kunst im umgebauten Kloster.",90,Epic,Kultur,37.3889,-5.9933
+11,"Guadalquivir Bootsfahrt","Erlebe Sevilla vom Fluss aus mit Blick auf Torre del Oro.",90,Epic,Natur,37.3828,-5.9972
+12,"Torre del Oro","Besuche den arabischen Wachturm am Fluss mit Schifffahrtsmuseum.",45,Rare,Kultur,37.3828,-5.9967
+13,"El Arenal Tapas-Tour","Probiere Gambas al Ajillo und Pescaíto frito im Hafenviertel.",120,Epic,Kulinarik,37.3842,-5.9978
+14,"Azulejo Keramik Workshop","Lerne in einem Töpfer-Workshop die Sevillaner Fliesen zu bemalen.",120,Epic,Kreativ,37.3889,-5.9914
+15,"Semana Santa erleben","Erlebe die dramatischen Osterumzüge durch die Stadt.",180,Epic,Sozial,37.3892,-5.9950
+16,"Sevilla Fahrradtour","Radle durch alle Sevillaner Viertel und an den Flussufern.",180,Epic,Sport,37.3892,-5.9950
+17,"Feria de Abril","Erlebe das berühmteste Stadtfest Andalusiens.",480,Legendary,Sozial,37.3683,-5.9869
+18,"Cádiz Tagesausflug","Besuche die weiße Hafenstadt am Atlantik mit ihrer Altstadt.",480,Legendary,Natur,36.5298,-6.2923
+19,"Andalusische Küchentour","Koste Gazpacho, Salmorejo und Rabo de Toro in einem Tag.",480,Legendary,Kulinarik,37.3892,-5.9950
+20,"Sevilla Nacht","Erlebe Tablao-Flamenco, Tapas-Bars und Sommernacht.",480,Legendary,Urban,37.3892,-5.9950

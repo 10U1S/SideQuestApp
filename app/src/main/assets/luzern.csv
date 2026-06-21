@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Kapellbrücke","Überquere die berühmteste Holzbrücke Europas aus dem 14. Jahrhundert.",30,Rare,Kultur,47.0519,8.3078
+2,"Löwendenkmal","Besuche das aus dem Fels gehauene Löwendenkmal für die Schweizer Garde.",20,Rare,Kreativ,47.0578,8.3133
+3,"Vierwaldstättersee Promenade","Spaziere entlang des malerischen Sees im Herzen der Schweiz.",45,Rare,Natur,47.0502,8.3092
+4,"Altstadt Luzern","Flaniere durch die mittelalterliche Altstadt mit bemalten Fassaden.",45,Rare,Urban,47.0508,8.3064
+5,"Spreuerbrücke","Entdecke die Totentanzbilder auf der zweiten historischen Holzbrücke.",30,Rare,Kreativ,47.0500,8.3044
+6,"Musegggmauer Türme","Wandere entlang der mittelalterlichen Stadtmauer mit neun Türmen.",60,Rare,Abenteuer,47.0564,8.3050
+7,"Pilatus Zahnradbahn","Fahre mit der steilsten Zahnradbahn der Welt auf den Pilatus.",180,Epic,Abenteuer,46.9792,8.2483
+8,"Verkehrshaus Schweiz","Erkunde das größte Verkehrsmuseum Europas mit Planetarium.",180,Epic,Kultur,47.0500,8.3386
+9,"Kunstmuseum Luzern","Entdecke Schweizer und internationale Kunst im Neubau am See.",120,Epic,Kultur,47.0508,8.3092
+10,"Rigi Tagesausflug","Fahre auf die Königin der Berge für Alpenpanorama.",240,Epic,Natur,47.0558,8.4833
+11,"Bürgenstock Wanderung","Wandere auf dem Bürgenstock-Pfad mit spektakulärem Seepanorama.",180,Epic,Natur,46.9806,8.3750
+12,"Fondue Luzern","Genieße ein traditionelles Schweizer Käsefondue am Seeufer.",90,Epic,Kulinarik,47.0502,8.3092
+13,"Vierwaldstättersee Schifffahrt","Erkunde den See mit seiner einzigartigen Berglandschaft per Dampfschiff.",120,Epic,Natur,47.0502,8.3092
+14,"Historisches Museum Luzern","Lerne die Geschichte der Stadt und des Schweizer Bundesstaats.",90,Epic,Kultur,47.0514,8.3053
+15,"Luzern Stadtradtour","Radle entlang des Sees und durch alle Stadtquartiere.",180,Epic,Sport,47.0502,8.3093
+16,"Natur- und Tierpark Goldau","Besuche den Wildpark mit freilaufenden Tieren.",180,Epic,Natur,47.0492,8.5500
+17,"Titlis Gletscherausflug","Fahre nach Engelberg und auf den Titlisgletscher.",480,Legendary,Abenteuer,46.7839,8.4256
+18,"Vier-Seen-Wanderung","Wandere entlang der legendären Wanderung über vier Bergseen.",480,Legendary,Natur,47.0502,8.3092
+19,"Tell-Pfad Wanderung","Wandere auf den Spuren Wilhelm Tells durch das Urnerland.",480,Legendary,Abenteuer,46.8500,8.4167
+20,"Luzerner Fasnacht","Erlebe den beeindruckenden Schmutzigen Donnerstag und Wagenzug.",480,Legendary,Sozial,47.0502,8.3092

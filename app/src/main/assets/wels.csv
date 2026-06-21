@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Stadtplatz Wels","Flaniere über den historischen Stadtplatz mit dem Stadtbrunnen.",30,Rare,Urban,48.1575,14.0286
+2,"Ledererturm","Besuche den einzigen erhaltenen Stadtturm aus dem Mittelalter.",30,Rare,Kultur,48.1575,14.0286
+3,"Stadtmuseum Wels","Erkunde die Römervergangenheit der Stadt Ovilava.",90,Rare,Kultur,48.1578,14.0294
+4,"Traunufer Spaziergang","Spaziere entlang der Traun durch den grünen Stadtpark.",45,Rare,Natur,48.1575,14.0286
+5,"Burg Wels","Besuche die historische Burg im Stadtkern.",45,Rare,Kultur,48.1578,14.0286
+6,"Welser Wochenmarkt","Stöbere auf dem traditionellen Markt nach regionalen Produkten.",60,Rare,Kulinarik,48.1575,14.0286
+7,"Tierpark Wels","Besuche den kleinen Tierpark am Stadtrand.",120,Epic,Natur,48.1475,14.0286
+8,"Stadtgalerie Wels","Entdecke zeitgenössische Kunst in der städtischen Galerie.",60,Epic,Kultur,48.1575,14.0286
+9,"Traun-Radtour","Radle entlang der Traun durch malerische Landschaften.",180,Epic,Sport,48.1575,14.0286
+10,"Römermuseum Wels","Erkunde die umfangreiche Sammlung zur Römerzeit in Wels.",90,Epic,Kultur,48.1578,14.0294
+11,"Stadttheater Wels","Erlebe eine Aufführung im Stadttheater.",120,Epic,Kultur,48.1575,14.0286
+12,"Wels Messe","Besuche eine der großen Messen auf dem Messegelände.",180,Epic,Sozial,48.1575,14.0286
+13,"Krenglbach Naturpark","Wandere durch den Naturpark am Stadtrand.",120,Epic,Natur,48.1575,14.0286
+14,"Pernau Stausee","Spaziere um den idyllischen Stausee südlich von Wels.",90,Epic,Natur,48.1211,14.0286
+15,"Linz Tagesausflug","Besuche die Landeshauptstadt mit Ars Electronica und Lentos.",180,Epic,Kultur,48.1575,14.0286
+16,"Wels Stadtradtour","Radle durch alle Stadtteile und entlang der Traun.",180,Epic,Sport,48.1575,14.0286
+17,"Salzkammergut Tagestour","Besuche Gmunden am Traunsee und das malerische Seengebiet.",480,Legendary,Natur,47.9167,13.8000
+18,"Almradtour Almtal","Radle durch das idyllische Almtal bis zum Almsee.",480,Legendary,Sport,48.1575,14.0286
+19,"Oberösterreich Klöster Tour","Besuche Stift Kremsmünster und Lambach an einem Tag.",480,Legendary,Kultur,48.0531,14.1286
+20,"Welser Nacht","Erkunde die gemütliche Kneipen- und Restaurantszene der Traunstadt.",480,Legendary,Urban,48.1575,14.0286

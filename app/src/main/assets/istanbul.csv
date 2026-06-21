@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Hagia Sophia","Erkunde das monumentale Bauwerk das Kirche, Moschee und Museum war.",90,Epic,Kultur,41.0086,28.9803
+2,"Großer Basar","Verliere dich in den 4000 Läden des ältesten Einkaufszentrums der Welt.",120,Epic,Urban,41.0108,28.9678
+3,"Bosporus Fährfahrt","Überquere per Fähre den Wasserweg zwischen Europa und Asien.",30,Rare,Abenteuer,41.0136,28.9739
+4,"Sultanahmet Moschee","Bewundere die Blaue Moschee mit ihren sechs Minaretten.",45,Rare,Kultur,41.0054,28.9769
+5,"Simit mit Çay","Frühstücke mit dem Sesamring und Schwarztee wie ein Istanbuler.",20,Rare,Kulinarik,41.0136,28.9739
+6,"Galata-Turm","Besteige den genuesischen Turm für 360-Grad-Blick über Istanbul.",60,Rare,Abenteuer,41.0256,28.9742
+7,"Topkapi Palast","Erkunde die Schatzkammer und Haremsräume der osmanischen Sultane.",180,Epic,Kultur,41.0136,28.9836
+8,"Gewürzbasar","Koste Gewürze, Lokum und Baklava auf dem überdachten Markt.",60,Rare,Kulinarik,41.0167,28.9714
+9,"Istiklal Straße","Flaniere über die Einkaufsmeile und fahre mit der Nostalgietram.",60,Rare,Urban,41.0319,28.9772
+10,"Dolmabahçe Palast","Bewundere den prächtigsten osmanischen Palast am Bosporus.",120,Epic,Kultur,41.0392,29.0000
+11,"Kadıköy Asiatisches Ufer","Erkunde den Markt und Cafés auf der asiatischen Seite Istanbuls.",120,Epic,Kulinarik,40.9906,29.0233
+12,"Chora Kirche","Entdecke die byzantinischen Mosaiken.",60,Rare,Kreativ,41.0289,28.9358
+13,"Basilika-Zisterne","Tauche in die geheimnisvolle unterirdische Wasseranlage.",60,Rare,Abenteuer,41.0086,28.9775
+14,"Balık Ekmek am Goldenen Horn","Koste das berühmte Fischbrötchen direkt am Bosporus.",20,Rare,Kulinarik,41.0208,28.9736
+15,"Prinzeninseln Tagesausflug","Fahr per Fähre auf die autofreien Inseln im Marmarameer.",240,Epic,Natur,40.8667,29.1000
+16,"Istanbul Stadtradtour","Radle durch Galata, Beyoğlu und entlang des Bosporus.",180,Epic,Sport,41.0136,28.9739
+17,"Bosporus Bootstour","Erkunde den gesamten Bosporus.",480,Legendary,Natur,41.0136,28.9739
+18,"Hamam Ritual","Erlebe ein traditionelles türkisches Bad.",480,Legendary,Sozial,41.0097,28.9742
+19,"Alle Moscheen und Kirchen","Besuche Hagia Sophia, Blaue Moschee, Chora und Süleymaniye.",480,Legendary,Kultur,41.0136,28.9739
+20,"Istanbul Nacht","Erlebe Rooftop-Bars in Beyoğlu und Clubs.",480,Legendary,Urban,41.0136,28.9739

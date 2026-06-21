@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Herkules Bergpark Wilhelmshöhe","Besteige den Herkules und genieße den Ausblick über Kassel.",120,Rare,Natur,51.3153,9.4033
+2,"Wasserspiele Wilhelmshöhe","Erlebe die einzigartigen Wasserkaskaden im Bergpark.",120,Rare,Abenteuer,51.3153,9.4033
+3,"Grimmwelt Kassel","Besuche das interaktive Museum über die Brüder Grimm.",90,Rare,Kultur,51.3156,9.4689
+4,"Documenta-Kunstwerke","Entdecke die dauerhaft installierten Kunstwerke der Weltausstellung.",90,Rare,Kreativ,51.3127,9.4797
+5,"Orangerie Karlsaue","Spaziere durch den weitläufigen Barockpark an der Fulda.",60,Rare,Natur,51.3017,9.5011
+6,"Friedrichsplatz Kassel","Flaniere über den großen Stadtplatz mit dem Fridericianum.",30,Rare,Urban,51.3153,9.4933
+7,"Schloss Wilhelmshöhe","Erkunde das napoleonische Schloss und seine Gemäldesammlung.",180,Epic,Kultur,51.3106,9.4033
+8,"Museum Fridericianum","Besuche eines der ältesten Museumsgebäude Europas.",90,Epic,Kultur,51.3153,9.4933
+9,"Fulda-Radtour","Radle entlang der Fulda durch Kassels Stadtteile.",120,Epic,Sport,51.3127,9.4797
+10,"Bergpark Wanderung","Wandere den vollständigen Parcours durch den UNESCO-Bergpark.",180,Epic,Natur,51.3153,9.4033
+11,"Naturkundemuseum Ottoneum","Entdecke das älteste erhaltene Theatergebäude Deutschlands mit Naturkunde.",90,Epic,Kultur,51.3175,9.4942
+12,"Blaue Stunde Kassel","Erlebe Kassel bei Sonnenuntergang vom Herkules aus.",90,Epic,Kreativ,51.3153,9.4033
+13,"Streetart im Kasseler Bahnhofsviertel","Entdecke die urbane Kunstszene rund um den Hauptbahnhof.",90,Epic,Kreativ,51.3197,9.4950
+14,"Hallenbad Ost Kassel","Schwimme in dem historischen Hallenbad.",60,Epic,Sport,51.3127,9.4797
+15,"Bier und Regionalküche","Probiere hessische Spezialitäten in einem traditionellen Wirtshaus.",90,Epic,Kulinarik,51.3127,9.4797
+16,"Kassel Stadtradtour","Radle von der Innenstadt bis zum Bergpark und zurück.",240,Epic,Sport,51.3127,9.4797
+17,"Märchen-Wanderweg","Wandere auf der Deutschen Märchenstraße durch die Kasseler Umgebung.",480,Legendary,Abenteuer,51.3127,9.4797
+18,"Documenta-Komplettführung","Besuche alle Documenta-Standorte und -Kunstwerke in der Stadt.",480,Legendary,Kultur,51.3127,9.4797
+19,"Hessisches Bergland Wanderung","Wandere durch den Reinhardswald oder Habichtswald rund um Kassel.",480,Legendary,Natur,51.3127,9.4797
+20,"Kassel Nacht der Museen","Besuche alle Museen während der Kasseler Museumsnacht.",480,Legendary,Kultur,51.3127,9.4797

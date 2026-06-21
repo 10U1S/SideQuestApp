@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Panoramablick vom Viktoriapark","Steige den Kreuzberg im Viktoriapark hinauf für eine Aussicht über Berlin.",30,Rare,Natur,52.4877,13.3791
+2,"Streetart im Haus Schwarzenberg","Besuche den Hinterhof am Hackeschen Markt und finde die Graffitis.",30,Rare,Kultur,52.5243,13.4019
+3,"Checkpoint Charlie Geschichte","Besuche die Überreste der Mauer am berühmten Grenzübergang.",60,Rare,Kultur,52.5074,13.3904
+4,"Tempelhofer Feld Spaziergang","Wandere über die riesige ehemalige Landebahn des Flughafens.",60,Rare,Urban,52.4731,13.4000
+5,"Kaffee im Nikolaiviertel","Probiere eine Spezialität in einem der ältesten Viertel der Stadt.",30,Rare,Kulinarik,52.5169,13.4072
+6,"Brandenburger Tor Foto","Mache ein kreatives Foto vom berühmtesten Tor Deutschlands.",30,Rare,Kreativ,52.5163,13.3777
+7,"Flohmarkt im Mauerpark","Finde einen besonderen Schatz auf dem berühmten Sonntagsmarkt.",120,Epic,Urban,52.5417,13.4033
+8,"East Side Gallery Wanderung","Gehe die gesamte Länge der bemalten Mauerstücke ab.",120,Epic,Kultur,52.5050,13.4397
+9,"Urban Gardening Prinzessinnengärten","Besuche den Gemeinschaftsgarten am Moritzplatz.",120,Epic,Sozial,52.5042,13.4117
+10,"Sowjetisches Ehrenmal Treptow","Besuche das monumentale Denkmal im Treptower Park.",120,Epic,Abenteuer,52.4861,13.4716
+11,"Biergarten am Schleusenkrug","Genieße eine Pause am Landwehrkanal direkt am Zoo.",120,Epic,Kulinarik,52.5106,13.3361
+12,"Teufelsberg Abhörstation","Wandere zur ehemaligen Spionagestation auf dem Trümmerberg.",240,Epic,Abenteuer,52.5019,13.2425
+13,"Botanischer Garten Dahlem","Entdecke die tropischen Gewächshäuser im Berliner Südwesten.",240,Epic,Natur,52.4547,13.3067
+14,"Radtour entlang der Panke","Folge dem Flusslauf der Panke durch den Wedding nach Pankow.",240,Epic,Sport,52.5481,13.3750
+15,"Gerichtshöfe Kunstquartier","Besuche die Künstlerateliers in den historischen Hinterhöfen.",240,Epic,Kreativ,52.5456,13.3714
+16,"Flughafen Tempelhof Führung","Erfahre mehr über die Geschichte des monumentalen Gebäudes.",240,Epic,Kultur,52.4833,13.3889
+17,"Berliner Unterwelten Tour","Erkunde Bunker und Tunnel unter der Stadtoberfläche.",480,Legendary,Abenteuer,52.5447,13.3886
+18,"Wannsee bis Potsdam Wanderung","Wandere am Uferweg entlang bis zur Glienicker Brücke.",480,Legendary,Natur,52.4167,13.1500
+19,"Museumsinsel Marathon","Besuche drei verschiedene Museen auf der Insel an einem Tag.",480,Legendary,Kultur,52.5186,13.3986
+20,"Großer Müggelsee Segeltag","Wandere einmal komplett um den größten See der Stadt.",480,Legendary,Sport,52.4417,13.6333

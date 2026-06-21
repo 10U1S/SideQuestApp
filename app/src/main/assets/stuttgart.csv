@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Schlossplatz Verweile-Moment","Setze dich an die Brunnen auf dem Schlossplatz und beobachte das Treiben vor dem Neuen Schloss.",30,Common,Urban,48.7785,9.1798
+2,"Königstraße Bummel","Schlendere über eine der längsten Einkaufsmeilen Deutschlands bis zum Rotebühlplatz.",30,Common,Urban,48.7800,9.1800
+3,"Stadtbibliothek am Mailänder Platz","Besuche die beeindruckende Architektur der Bibliothek und gehe hoch auf die Dachterrasse.",30,Common,Kreativ,48.7901,9.1828
+4,"Feuersee & Johanneskirche","Mache ein Foto von der malerischen Kirche, die im Feuersee steht.",60,Common,Kultur,48.7739,9.1683
+5,"Höhenpark Killesberg Rundfahrt","Fahre mit der Killesbergbahn (Killeseele) eine Runde durch den Park.",60,Common,Natur,48.8050,9.1722
+6,"Zacke-Fahrt zum Marienplatz","Nimm die Zahnradbahn vom Marienplatz nach Degerloch für einen tollen Blick.",30,Common,Abenteuer,48.7640,9.1720
+7,"Mercedes-Benz Museum Tour","Entdecke die Geschichte des Automobils in einem der spektakulärsten Gebäude der Stadt.",120,Rare,Kultur,48.7886,9.2344
+8,"Fernsehturm Aussicht","Besuche den weltweit ersten Fernsehturm aus Stahlbeton und blicke über das Schwabenland.",120,Rare,Urban,48.7558,9.1903
+9,"Staatgalerie Stuttgart Highlights","Besuche die Neue Staatsgalerie und bewundere Werke von Picasso bis Beuys.",120,Rare,Kultur,48.7802,9.1866
+10,"Markthalle Gourmet-Tour","Probiere Maultaschen oder Spätzle in der wunderschönen Jugendstil-Markthalle.",120,Rare,Kulinarik,48.7766,9.1786
+11,"Wilhelma Botanik-Runde","Spaziere durch den maurischen Garten des zoologisch-botanischen Gartens.",120,Rare,Natur,48.8058,9.2067
+12,"Weinberg-Wanderung am Rotenberg","Wandere durch die Steillagen zur Grabkapelle auf dem Württemberg.",240,Epic,Natur,48.7820,9.2680
+13,"Porsche Museum Zuffenhausen","Erkunde die Welt der Sportwagen im markanten Museumsbau.",240,Epic,Kultur,48.8350,9.1517
+14,"Mineralbad Leuze Auszeit","Entspanne in den heilenden Quellen der Stuttgarter Mineralbäder.",240,Epic,Sport,48.7990,9.2130
+15,"Schloss Solitude Spaziergang","Wandere vom Schloss Solitude entlang der Wildparkseen zurück in die Stadt.",240,Epic,Natur,48.7860,9.0840
+16,"Stäffeles-Tour West","Erklimme die unzähligen Treppen (Stäffele) im Stuttgarter Westen für Panoramablicke.",240,Epic,Sport,48.7700,9.1500
+17,"Wanderung durch den Rotwildpark","Verbringe den Tag in den weitläufigen Wäldern rund um das Bärenschlössle.",480,Legendary,Natur,48.7600,9.0900
+18,"Ganztagestrip nach Ludwigsburg","Besuche das Blühende Barock und das Residenzschloss in der Nachbarstadt.",480,Legendary,Kultur,48.8970,9.1960
+19,"SI-Centrum Musical & Therme","Besuche ein Musical oder verbringe den Tag in der SchwabenQuellen-Wellnesswelt.",480,Legendary,Abenteuer,48.7230,9.1620
+20,"Radrunde Mittleres Neckartal","Fahre mit dem Fahrrad am Neckar entlang bis nach Esslingen und erkunde die Altstadt.",480,Legendary,Sport,48.7400,9.3000

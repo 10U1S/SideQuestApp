@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Sparrenburg besteigen","Erkunde die mittelalterliche Burg hoch über Bielefeld.",60,Rare,Abenteuer,52.0236,8.5303
+2,"Alter Markt Bielefeld","Flaniere über den historischen Marktplatz in der Altstadt.",30,Rare,Urban,52.0208,8.5328
+3,"Kunsthalle Bielefeld","Bewundere Werke des 20. Jahrhunderts in dem markanten Granitbau.",90,Rare,Kultur,52.0231,8.5256
+4,"Bielefeld Verschwörung aufdecken","Suche nach Beweisen für oder gegen die Existenz der Stadt.",60,Rare,Kreativ,52.0302,8.5325
+5,"Stadtbad Bielefeld","Schwimme in dem historischen Jugendstil-Hallenbad.",60,Rare,Sport,52.0197,8.5297
+6,"Teutoburger Wald Einstieg","Wandere los vom Stadtrand in den legendären Teutoburger Wald.",120,Rare,Natur,52.0302,8.5325
+7,"Botanischer Garten Bielefeld","Entdecke die Pflanzenwelt aus aller Welt im Stadtgarten.",90,Epic,Natur,52.0244,8.5017
+8,"Leineweber Markt","Erlebe den traditionellen Handwerkermarkt in der Altstadt.",120,Epic,Sozial,52.0208,8.5328
+9,"Bielefeld Innenstadt Street-Art","Suche versteckte Graffiti-Kunstwerke in den Hinterhöfen.",120,Epic,Kreativ,52.0302,8.5325
+10,"Sennefriedhof Spaziergang","Entdecke den parkähnlichen Friedhof mit altem Baumbestand.",90,Epic,Natur,52.0075,8.5358
+11,"Historische Weberei","Besuche ein Museum zur Geschichte der Bielefelder Textilindustrie.",90,Epic,Kultur,52.0302,8.5325
+12,"Obersee und Niedersee","Spaziere einmal um die beiden Stadtparkseen.",90,Epic,Natur,52.0317,8.5033
+13,"Stadtradtour Bielefeld","Radle durch alle Stadtteile von Bielefeld.",180,Epic,Sport,52.0302,8.5325
+14,"Bielefelder Stiegensystem","Erkunde die unzähligen Treppen und Stiegen zwischen Unterstadt und Burg.",120,Epic,Urban,52.0236,8.5303
+15,"Ravensberger Park","Genieße den Stadtpark rund um die alte Spinnerei.",90,Epic,Natur,52.0275,8.5222
+16,"Dr.-Oetker-Welt","Besuche die interaktive Erlebniswelt des Bielefelder Lebensmittelkonzerns.",180,Epic,Kultur,52.0044,8.5508
+17,"Hermannsdenkmal Wanderung","Wandere durch den Teutoburger Wald bis zum monumentalen Denkmal.",480,Legendary,Natur,51.9119,8.8386
+18,"Bielefeld an einem Tag","Besuche alle Top-Sehenswürdigkeiten der angeblich nicht existierenden Stadt.",480,Legendary,Kultur,52.0302,8.5325
+19,"Externsteine Tagestour","Wandere zu den mysteriösen Felsformationen im Teutoburger Wald.",480,Legendary,Abenteuer,51.8683,8.9183
+20,"Nachtleben Bielefeld","Erkunde die Club- und Kneipenszene der Ostwestfalen-Metropole.",480,Legendary,Urban,52.0302,8.5325

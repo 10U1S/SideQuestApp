@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/soft_background">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@android:color/transparent"
+        app:title="" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center">
+
+        <!-- Container für den Inhalt -->
+        <LinearLayout
+            android:id="@+id/quest_card_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/quest_card_bg"
+            android:padding="30dp"
+            android:elevation="8dp"
+            android:layout_marginBottom="40dp">
+
+            <TextView
+                android:id="@+id/quest_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Quest Titel"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:textColor="#0D47A1"
+                android:layout_marginBottom="4dp"
+                android:gravity="center"
+                android:letterSpacing="0.05" />
+
+            <TextView
+                android:id="@+id/quest_category"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Kategorie"
+                android:textSize="14sp"
+                android:textAllCaps="true"
+                android:textColor="#1976D2"
+                android:textStyle="bold"
+                android:layout_marginBottom="12dp"
+                android:background="#201976D2"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="4dp" />
+
+            <View
+                android:layout_width="60dp"
+                android:layout_height="3dp"
+                android:background="#2196F3"
+                android:layout_gravity="center"
+                android:layout_marginBottom="20dp" />
+
+            <TextView
+                android:id="@+id/quest_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hier steht die Beschreibung der Quest..."
+                android:textSize="19sp"
+                android:lineSpacingExtra="6sp"
+                android:textColor="#1A237E"
+                android:gravity="center"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:id="@+id/tv_weather_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Lade Wetter..."
+                android:textSize="14sp"
+                android:textColor="#5C6BC0"
+                android:fontStyle="italic" />
+        </LinearLayout>
+
+        <!-- Buttons am unteren Ende -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_show_map"
+                android:layout_width="0dp"
+                android:layout_height="65dp"
+                android:layout_weight="1"
+                android:text="Karte"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:background="@drawable/aero_button"
+                android:backgroundTint="@null"
+                android:layout_marginEnd="8dp" />
+
+            <Button
+                android:id="@+id/btn_complete_quest"
+                android:layout_width="0dp"
+                android:layout_height="65dp"
+                android:layout_weight="1"
+                android:text="Erledigt"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:background="@drawable/aero_button"
+                android:backgroundTint="@null"
+                android:layout_marginStart="8dp" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

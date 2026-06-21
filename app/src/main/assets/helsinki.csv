@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Helsinkier Dom","Bestaunte die weiße neoklassische Kathedrale auf dem Senatsplatz.",30,Rare,Kreativ,60.1699,24.9523
+2,"Esplanadi Park","Flaniere durch den grünen Boulevard im Herzen der Stadt.",30,Rare,Natur,60.1672,24.9428
+3,"Kauppatori Markt","Stöbere auf dem Marktplatz am Hafen nach finnischen Spezialitäten.",60,Rare,Kulinarik,60.1672,24.9528
+4,"Uspenski-Kathedrale","Besuche die orthodoxe Backstein-Kathedrale mit Blick über den Hafen.",30,Rare,Kultur,60.1683,24.9600
+5,"Suomenlinna Festung","Fahr mit der Fähre zur UNESCO-Seefestung auf den Inseln.",120,Epic,Abenteuer,60.1456,24.9878
+6,"Salmiakki probieren","Koste das finnische Salzlakritz – eine kulinarische Mutprobe.",10,Rare,Kulinarik,60.1699,24.9384
+7,"Temppeliaukio Kirche","Erkunde die in den Fels gesprengte Felsenkirche.",45,Rare,Kreativ,60.1728,24.9253
+8,"Design Museum Helsinki","Entdecke skandinavisches und finnisches Design.",90,Epic,Kreativ,60.1625,24.9447
+9,"Ateneum Kunstmuseum","Erkunde die bedeutendste Sammlung finnischer Kunst.",120,Epic,Kultur,60.1706,24.9461
+10,"Alvar Aalto Haus","Besichtige das Wohnhaus des berühmtesten finnischen Architekten.",90,Epic,Kreativ,60.1869,24.8797
+11,"Kiasma Museum","Erlebe zeitgenössische Kunst im ikonischen Gehry-inspirierten Bau.",90,Epic,Kultur,60.1711,24.9347
+12,"Sauna-Erlebnis","Erlebe eine echte finnische sauna mit anschließendem Sprung ins Wasser.",120,Epic,Sozial,60.1699,24.9384
+13,"Töölönlahti See","Spaziere oder radle um den idyllischen Stadtparksee.",60,Rare,Natur,60.1756,24.9272
+14,"Hakaniemi Markt","Entdecke den authentischen zweistöckigen Marktplatz der Einheimischen.",60,Rare,Kulinarik,60.1753,24.9564
+15,"Luonnontieteellinen Museum","Erkunde das Naturkundemuseum mit dem weltberühmten Blauwal-Skelett.",90,Epic,Natur,60.1708,24.9311
+16,"Helsinki Radtour","Radle durch Eira, Kruununhaka und entlang der Küste.",180,Epic,Sport,60.1699,24.9384
+17,"Tallinn Tagesausflug","Fahr mit der Fähre in die mittelalterliche Hauptstadt Estlands.",480,Legendary,Kultur,60.1699,24.9384
+18,"Lappland-Erlebnis","Besuche Rovaniemi und erfahre echtes arktisches Finnland.",480,Legendary,Abenteuer,66.5039,25.7294
+19,"Archipelago Tour","Erkunde per Boot die Schäreninseln rund um Helsinki.",480,Legendary,Natur,60.1456,24.9878
+20,"Helsinki Nacht","Erlebe Bars im Kallio-Viertel und Clubs bis zum Morgengrauen.",480,Legendary,Urban,60.1699,24.9384

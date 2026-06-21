@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Livraria Lello","Besuche die schönste Buchhandlung der Welt mit ihrer farbenfrohen Treppe.",30,Rare,Kreativ,41.1471,-8.6147
+2,"Ribeira Viertel","Flaniere entlang der bunten Häuserfront am Douro-Ufer.",60,Rare,Urban,41.1403,-8.6147
+3,"Dom Luís I Brücke","Überquere die doppelstöckige Eisenbrücke.",30,Rare,Kreativ,41.1403,-8.6097
+4,"Porto Wein probieren","Koste Tawny und Ruby Port in einem der Weinkeller.",60,Rare,Kulinarik,41.1356,-8.6122
+5,"Francesinha genießen","Koste das reichhaltige Portoer Sandwich.",45,Rare,Kulinarik,41.1469,-8.6147
+6,"São Bento Bahnhof","Bewundere die 20.000 Azulejo-Kacheln.",20,Rare,Kreativ,41.1456,-8.6108
+7,"Torre dos Clérigos","Besteige den Barockturm für Panoramablick.",45,Rare,Abenteuer,41.1461,-8.6158
+8,"Museu do Azulejo Porto","Entdecke die Geschichte der blau-weißen Kacheln Portugals.",90,Epic,Kreativ,41.1469,-8.6147
+9,"Palácio da Bolsa","Erkunde den arabischen Saal des prachtvollsten Gebäudes Portos.",60,Rare,Kultur,41.1408,-8.6158
+10,"Serralves Museum","Erlebe zeitgenössische Kunst in wunderschöner Parkanlage.",120,Epic,Kultur,41.1569,-8.6522
+11,"Matosinhos Strand","Besuche den Atlantikstrand der Einheimischen nördlich von Porto.",90,Epic,Natur,41.1836,-8.6978
+12,"LLo Bom Jesus Treppen","Wandere die 577 barocken Treppen hinauf.",120,Epic,Abenteuer,41.5500,-8.3833
+13,"Douro Bootsfahrt","Erlebe Porto und Gaia von der Rabelo-Perspektive.",90,Epic,Natur,41.1403,-8.6097
+14,"Bonfim Viertel","Entdecke das Kreativ-Viertel mit Streetart.",90,Epic,Urban,41.1467,-8.6006
+15,"Mercado do Bolhão","Stöbere auf dem frisch renovierten historischen Markt.",60,Rare,Kulinarik,41.1486,-8.6078
+16,"Porto Stadtradtour","Radle durch alle Viertel Portos.",240,Epic,Sport,41.1469,-8.6147
+17,"Douro-Tal Weintour","Besuche die Quintas des Douro-Tals.",480,Legendary,Kulinarik,41.1469,-8.6147
+18,"Vinho Verde Radtour","Radle durch die Weinregion Minho nördlich von Porto.",480,Legendary,Sport,41.1469,-8.6147
+19,"Alle Portoer Kirchen","Besuche die bedeutendsten Barockkirchen an einem Tag.",480,Legendary,Kultur,41.1469,-8.6147
+20,"Porto Nacht","Erlebe Fado, Ginjinha-Bars und die Club-Szene.",480,Legendary,Urban,41.1469,-8.6147

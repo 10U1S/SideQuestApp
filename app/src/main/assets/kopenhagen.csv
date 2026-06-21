@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Nyhavn Kanal","Fotografiere die bunten Fassaden am berühmtesten Hafen Kopenhagens.",30,Rare,Kreativ,55.6797,12.5911
+2,"Kleine Meerjungfrau","Besuche die berühmteste und enttäuschendste Statue der Welt.",20,Rare,Kreativ,55.6929,12.5994
+3,"Tivoli Gardens","Erlebe den zweitältesten Vergnügungspark der Welt im Herzen der Stadt.",120,Epic,Urban,55.6735,12.5683
+4,"Strøget Flanieren","Spaziere die längste Fußgängerzone Europas entlang.",30,Rare,Urban,55.6778,12.5722
+5,"Smørrebrød probieren","Koste das traditionelle offene dänische Butterbrot in einem Café.",60,Rare,Kulinarik,55.6761,12.5683
+6,"Rosenborg Schloss","Besichtige die Kronjuwelen und das Renaissance-Schloss im Kongens Have.",90,Epic,Kultur,55.6858,12.5775
+7,"Christiania Freistaat","Entdecke die selbstverwaltete alternative Gemeinschaft im Herzen der Stadt.",90,Epic,Urban,55.6731,12.6028
+8,"Designmuseum Danmark","Erlebe dänisches Design von Arne Jacobsen bis zur Gegenwart.",120,Epic,Kreativ,55.6869,12.5939
+9,"Louisiana Museum","Besuche das weltberühmte Kunstmuseum direkt am Öresund.",180,Epic,Kultur,55.9706,12.5444
+10,"Kayak Tour","Paddele durch die Kanäle von Christianshavn und Nyhavn.",120,Epic,Sport,55.6731,12.6028
+11,"Kopenhagener Schloss","Erkunde Schloss Christiansborg mit Staatsräumen und Ruinen.",120,Epic,Kultur,55.6756,12.5794
+12,"Fredriks Kirke Kuppel","Besteige die Kuppel der Marmorkirche für Stadtpanorama.",60,Rare,Abenteuer,55.6869,12.5897
+13,"Torvehallerne Markt","Stöbere auf dem modernen Lebensmittelmarkt nach dänischen Spezialitäten.",60,Rare,Kulinarik,55.6833,12.5639
+14,"Nationalmuseum Dänemark","Erkunde die Geschichte von der Steinzeit bis zur Moderne.",120,Epic,Kultur,55.6756,12.5733
+15,"Fahrradtour Kopenhagen","Radle wie ein Kopenhagener durch die fahrradfreundlichste Stadt Europas.",120,Epic,Sport,55.6761,12.5683
+16,"Naturhistorisches Museum","Entdecke Wikingerschätze und dänische Naturgeschichte.",90,Epic,Natur,55.6861,12.5789
+17,"Malmö Tagesausflug","Überquere die Öresundbrücke und besuche die schwedische Nachbarstadt.",480,Legendary,Kultur,55.6761,12.5683
+18,"Neues Dänisch Kochen","Erlebe das Konzept des New Nordic Cooking in einem Fine-Dining-Restaurant.",480,Legendary,Kulinarik,55.6761,12.5683
+19,"Bornholm Inselausflug","Fliege oder fahr mit der Fähre auf die Sonnenschein-Insel der Ostsee.",480,Legendary,Natur,55.6761,12.5683
+20,"Kopenhagen Nacht","Erlebe Bars in Vesterbro und die Club-Szene von Nørrebro.",480,Legendary,Urban,55.6761,12.5683

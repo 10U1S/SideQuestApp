@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Akropolis","Besteige den Burgfelsen und erlebe den Parthenon im Morgenrot.",120,Rare,Kultur,37.9715,23.7267
+2,"Plaka Viertel","Flaniere durch das historische Viertel unterhalb der Akropolis.",60,Rare,Urban,37.9744,23.7294
+3,"Monastiraki Flohmarkt","Stöbere auf dem Marktplatz nach Antiquitäten und griechischen Souvenirs.",60,Rare,Kulinarik,37.9764,23.7244
+4,"Souvlaki genießen","Koste das griechische Nationalgericht in einem Straßenlokal.",20,Rare,Kulinarik,37.9744,23.7267
+5,"Philopappos Hügel","Genieße den Abendsblick über Athen und die Akropolis vom Musenhügel.",45,Rare,Natur,37.9689,23.7211
+6,"Syntagma Platz Wachablösung","Beobachte die Evzone-Wachablösung vor dem Parlament.",30,Rare,Kreativ,37.9758,23.7347
+7,"Akropolis Museum","Erlebe die Parthenon-Skulpturen im weltmodernen Museumsgebäude.,120,Epic,Kultur,37.9681,23.7289
+8,"Nationales Archäologisches Museum","Entdecke Gold von Mykene und die Masken Agamemnons.,180,Epic,Kultur,37.9897,23.7322
+9,"Kerameikos Ausgrabungen","Erlebe den antiken Friedhof und Töpferviertel.,60,Epic,Kultur,37.9772,23.7183
+10,"Anafiotika","Entdecke das geheime Kykladen-Dorf mitten in der Athener Altstadt.,45,Epic,Kreativ,37.9736,23.7278
+11,"Cape Sounion Tagesausflug","Besuche den Poseidon-Tempel am südlichsten Zipfel Attikas.,180,Epic,Natur,37.6503,24.0253
+12,"Metaxa Street Food Tour","Koste Loukoumades und Spanakopita in Psiri und Monastiraki.,90,Epic,Kulinarik,37.9764,23.7222
+13,"Kifissia Viertel","Entdecke das elegante Nordviertel Athens mit Cafés und Villen.,90,Epic,Urban,38.0747,23.8131
+14,"Lykavittos Hügel Sonnenuntergang","Erlebe den besten Sonnenuntergang über Athen von der Kapelle.,60,Epic,Kreativ,37.9808,23.7444
+15,"Hadriansbogen und Zeus-Tempel","Erkunde die imposanten Überreste der olympischen Säulen.,45,Epic,Kultur,37.9694,23.7328
+16,"Athen Stadtradtour","Radle durch Psiri, Exarchia und entlang der Küste.,180,Epic,Sport,37.9744,23.7267
+17,"Delphi Tagesausflug","Besuche das Orakel von Delphi am Fuß des Parnass.,480,Legendary,Kultur,38.4825,22.5011
+18,"Attische Riviera","Schwimme an den Stränden der Riviera südlich von Athen.,480,Legendary,Natur,37.9744,23.7267
+19,"Alle großen Museen","Besuche Akropolis-Museum, Nationales Museum und Benaki-Museum.,480,Legendary,Kultur,37.9744,23.7267
+20,"Athen Nacht","Erlebe Bouzouki-Bars in Gazi und Clubs bis zum Morgengrauen.,480,Legendary,Urban,37.9744,23.7267

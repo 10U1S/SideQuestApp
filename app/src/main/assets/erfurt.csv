@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Krämerbrücke","Spaziere über die mittelalterliche Brücke mit ihren Fachwerkhäusern und Läden.",30,Rare,Kultur,50.9778,11.0278
+2,"Erfurter Dom","Bewundere den gotischen Dom auf dem Domberg hoch über der Stadt.",60,Rare,Kultur,50.9761,11.0239
+3,"Severikirche","Erkunde die gotische Stiftskirche direkt neben dem Dom.",45,Rare,Kultur,50.9758,11.0242
+4,"Fischmarkt Altstadt","Genieße den Flair des historischen Marktplatzes mit dem Renaissance-Rathaus.",30,Rare,Urban,50.9789,11.0289
+5,"Egapark Erfurt","Entspanne im großen Bundesgartenschaupark mit Blumen und Gartenanlagen.",90,Rare,Natur,50.9642,11.0069
+6,"Alte Synagoge","Besuche eine der am besten erhaltenen mittelalterlichen Synagogen Europas.",60,Rare,Kultur,50.9783,11.0256
+7,"Petersberg Zitadelle","Erkunde die mächtige Barockfestung hoch über der Altstadt.",90,Epic,Abenteuer,50.9794,11.0222
+8,"Anger Shopping & Geschichte","Erkunde den historischen Hauptverkehrsknotenpunkt und Einkaufsbereich.",60,Epic,Urban,50.9797,11.0322
+9,"Domplatz Weihnachtsmarkt","Erlebe einen der stimmungsvollsten Weihnachtsmärkte Deutschlands.",120,Epic,Sozial,50.9761,11.0239
+10,"Augustinerkloster Luther","Besuche das Kloster, in dem Martin Luther Mönch wurde.",90,Epic,Kultur,50.9792,11.0239
+11,"Steiger Waldpark","Wandere durch den naturbelassenen Stadtwald südlich der Innenstadt.",120,Epic,Natur,50.9583,11.0239
+12,"Radtour Gera-Aue","Radle entlang der Gera durch die grünen Stadtteile Erfurts.",120,Epic,Sport,50.9848,11.0299
+13,"Erfurter Brücken Rundtour","Fotografiere alle historischen Brücken über die Gera.",90,Epic,Kreativ,50.9778,11.0278
+14,"Küchengarten","Entdecke den historischen Barockgarten nahe dem Zentrum.",60,Epic,Natur,50.9808,11.0153
+15,"Restaurant Zum Wenigemarkt","Probiere thüringische Spezialitäten in einem historischen Gasthaus.",90,Epic,Kulinarik,50.9775,11.0275
+16,"Erfurt Stadtradtour","Radle einmal komplett durch alle Erfurter Stadtteile.",240,Epic,Sport,50.9848,11.0299
+17,"Thüringen Wandertour","Wandere einen Abschnitt des Rennsteigs als legendären Höhenzug.",480,Legendary,Natur,50.6667,10.9167
+18,"Mittelalterliches Erfurt","Besuche alle romanischen und gotischen Kirchen der Altstadt.",480,Legendary,Kultur,50.9848,11.0299
+19,"Lutherweg Thüringen","Wandere auf den Spuren Martin Luthers durch die Thüringer Kulturlandschaft.",480,Legendary,Abenteuer,50.9848,11.0299
+20,"Erfurt Nacht der Türme","Besteige alle zugänglichen Türme der Stadt bei Tag und bei Nacht.",480,Legendary,Kreativ,50.9848,11.0299

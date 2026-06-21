@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Saarbrücker Schloss","Erkunde das Schloss hoch über der Saar mit dem Historischen Museum.",90,Rare,Kultur,49.2333,6.9972
+2,"St. Johanner Markt","Flaniere über den lebendigen Marktplatz in der Innenstadt.",30,Rare,Urban,49.2347,6.9978
+3,"Saar-Promenade","Spaziere entlang der Saar und genieße das städtische Flair.",45,Rare,Natur,49.2354,6.9969
+4,"Basilika St. Johann","Besichtige die barocke Stiftskirche im Zentrum der Stadt.",30,Rare,Kultur,49.2342,6.9964
+5,"Ludwigskirche","Bewundere die als schönste Barockkirche Deutschlands gerühmte Kirche.",30,Rare,Kreativ,49.2358,6.9994
+6,"Deutsch-Französischer Garten","Entspanne im weitläufigen Garten am Stadtrand.",90,Rare,Natur,49.2156,6.9969
+7,"Moderne Galerie Saarbrücken","Entdecke bedeutende Kunstwerke des 19. und 20. Jahrhunderts.",120,Epic,Kultur,49.2264,7.0031
+8,"Saarland Museum","Erkunde die Geschichte und Kunst des Saarlandes.",90,Epic,Kultur,49.2336,6.9972
+9,"Weltkulturerbe Völklinger Hütte","Besuche das eindrucksvolle UNESCO-Industriedenkmal.",180,Epic,Kultur,49.2508,6.8486
+10,"Saarschleife Wanderung","Wandere zum Aussichtspunkt über die berühmte Saarschleife.",180,Epic,Natur,49.5078,6.5625
+11,"Saar-Radtour","Radle entlang der Saar durch malerische Täler.",180,Epic,Sport,49.2354,6.9969
+12,"Universität des Saarlandes","Entdecke den Campus der Wissenschaftsstadt mit Kunstobjekten.",60,Epic,Urban,49.2578,7.0428
+13,"Bergwerk Reden","Besuche das Kulturzentrum im ehemaligen Steinkohlebergwerk.",90,Epic,Kultur,49.3328,7.0000
+14,"Saarbrücker Nachtleben","Erlebe die lebhafte Bar- und Restaurantszene am St. Johanner Markt.",120,Epic,Urban,49.2347,6.9978
+15,"Grenzradtour Deutschland-Frankreich","Radle über die deutsch-französische Grenze nach Frankreich.",180,Epic,Abenteuer,49.2354,6.9969
+16,"Riegelsberg Wald Wanderung","Wandere durch den Stadtwald im Norden Saarbrückens.",120,Epic,Natur,49.2758,6.9681
+17,"Metz Tagesausflug","Fahre per Bahn in die prächtige lothringische Hauptstadt Metz.",480,Legendary,Kultur,49.2354,6.9969
+18,"Saarland Komplett","Besuche Saarschleife, Völklinger Hütte und Saarburg an einem Tag.",480,Legendary,Abenteuer,49.2354,6.9969
+19,"Saarwein Genussrunde","Radle durch die Saarweinregion und koste lokale Weine.",480,Legendary,Kulinarik,49.2354,6.9969
+20,"Grenzenlose Nacht","Erlebe Nachtleben in Saarbrücken und im französischen Forbach.",480,Legendary,Urban,49.2354,6.9969

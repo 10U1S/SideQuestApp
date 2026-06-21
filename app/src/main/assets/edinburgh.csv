@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Edinburgh Castle","Erkunde die Kronjuwelen Schottlands auf dem Vulkanfelsen.",120,Epic,Kultur,55.9486,-3.1999
+2,"Royal Mile Flanieren","Spaziere die historische Hauptstraße der Altstadt.",45,Rare,Urban,55.9503,-3.1883
+3,"Arthur's Seat Wanderung","Besteige den erloschenen Vulkan für Panoramablick.",120,Epic,Natur,55.9444,-3.1619
+4,"Scottish Breakfast","Genieße ein traditionelles Full Scottish in einem Café.",45,Rare,Kulinarik,55.9533,-3.1883
+5,"Greyfriars Bobby","Besuche die berühmte Statue des treuen Hundes.",15,Rare,Kreativ,55.9467,-3.1911
+6,"Whisky Tasting","Koste Single Malts in einem der vielen Whisky-Bars.",60,Rare,Kulinarik,55.9533,-3.1883
+7,"National Museum of Scotland","Entdecke schottische Geschichte.",180,Epic,Kultur,55.9467,-3.1922
+8,"Holyrood Palace","Besichtige die offizielle schottische Residenz.",90,Epic,Kultur,55.9522,-3.1722
+9,"Scottish National Gallery","Entdecke Rembrandts, Titians und schottische Meister.",120,Epic,Kultur,55.9508,-3.1956
+10,"Dean Village","Entdecke das malerische Mühlen-Dorf mitten in der Stadt.",45,Rare,Urban,55.9503,-3.2117
+11,"Calton Hill","Besteige den Hügel mit dem Nationaldenkmal.",45,Rare,Kreativ,55.9558,-3.1822
+12,"Scottish Highlands Einstieg","Starte eine Wanderung in die Highlands.",240,Epic,Natur,55.9533,-3.1883
+13,"Camera Obscura","Erlebe optische Illusionen im viktorianischen Turm.",60,Rare,Kreativ,55.9494,-3.1972
+14,"Victoria Street","Fotografiere die geschwungene Gasse.",30,Rare,Kreativ,55.9467,-3.1922
+15,"Balmoral Hotel Uhr","Erlebe das Ritual des Wahrzeichen-Hotels.",15,Rare,Urban,55.9519,-3.1878
+16,"Edinburgh Stadtradtour","Radle durch Old Town, New Town und Water of Leith.",180,Epic,Sport,55.9533,-3.1883
+17,"Edinburgh Fringe Festival","Erlebe das größte Kunstfestival der Welt im August.",480,Legendary,Sozial,55.9533,-3.1883
+18,"Loch Ness und Highlands","Fahre in die Highlands und suche Nessie.",480,Legendary,Abenteuer,57.3231,-4.4244
+19,"Scotch Whisky Distillery Tour","Besuche eine Brennerei in den Lowlands.",480,Legendary,Kulinarik,55.9533,-3.1883
+20,"Edinburgh Nacht","Erlebe Ghostly Tours, Pub Crawl und Clubs.",480,Legendary,Urban,55.9533,-3.1883

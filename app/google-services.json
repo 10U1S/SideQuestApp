@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856434036736",
+    "project_id": "sidequestapp-cities",
+    "storage_bucket": "sidequestapp-cities.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856434036736:android:61222e1e0473e9f0e1c8e5",
+        "android_client_info": {
+          "package_name": "com.sq.extern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsWeI3K1wHicK6pu48384Vnu7CVckTLfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

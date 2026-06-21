@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Burg Ljubljana","Besteige die Burg über der Altstadt per Funicular oder Wanderweg.",60,Rare,Abenteuer,46.0489,14.5089
+2,"Dreifachbrücke Tromostovje","Fotografiere die einzigartige dreifache Brücke über die Ljubljanica.",20,Rare,Kreativ,46.0519,14.5061
+3,"Altstadt Flanieren","Spaziere durch die kompakte Altstadt entlang der Ljubljanica.",60,Rare,Urban,46.0511,14.5064
+4,"Zmajski Most Drachenbrücke","Bewundere die Jugendstilbrücke mit den vier Drachen-Skulpturen.",20,Rare,Kreativ,46.0528,14.5097
+5,"Burek genießen","Koste den Balkan-Blätterteigkuchen im ältesten Bäcker der Stadt.",20,Rare,Kulinarik,46.0511,14.5064
+6,"Tivoli Park","Entspanne im größten Park der Stadt mit Schloss Tivoli.",60,Rare,Natur,46.0556,14.4939
+7,"Nationalmuseum Sloweniens","Erkunde Archäologie und Geschichte dieses kleinen Alpenlandes.",90,Epic,Kultur,46.0503,14.5011
+8,"Šmarna gora Wanderung","Wandere auf den Hausberg mit Panoramablick über die Julischen Alpen.",180,Epic,Natur,46.1247,14.4694
+9,"Offener Kühlschrank Markt","Stöbere auf dem Open-Air-Markt nach slowenischen Spezialitäten.",60,Epic,Kulinarik,46.0536,14.5069
+10,"Metelkova Autonome Zone","Entdecke das alternative Kulturzentrum im ehemaligen Militärgebäude.",90,Epic,Urban,46.0586,14.5150
+11,"Museum für Moderne Kunst","Erkunde slowenische und internationale Kunst der Moderne.",90,Epic,Kultur,46.0492,14.5025
+12,"Architektur Plečnik-Tour","Entdecke alle Bauten des genialen Stadtarchitekten Jože Plečnik.",120,Epic,Kreativ,46.0511,14.5064
+13,"Ljubljanica Bootsfahrt","Erlebe die Altstadt vom Wasser aus auf einem kleinen Boot.",60,Epic,Natur,46.0511,14.5064
+14,"Bled Tagesausflug","Besuche den märchenhaften Bleder See mit der Inselkirche.",180,Epic,Natur,46.3683,14.1053
+15,"Grad Ljubljana Konzert","Erlebe ein Open-Air-Konzert auf der Burg im Sommer.",120,Epic,Sozial,46.0489,14.5089
+16,"Ljubljanica Bootsfahrt","Miete ein Paddelboot und erkunde Ljubljana vom Wasser aus.",60,Epic,Sport,46.0511,14.5064
+17,"Triglav Nationalpark Wandertour","Wandere im einzigen Nationalpark Sloweniens in den Julischen Alpen.",480,Legendary,Natur,46.3797,13.8406
+18,"Piran Tagesausflug","Besuche die venezianische Küstenstadt an der Adria.",480,Legendary,Kultur,45.5283,13.5681
+19,"Postojna Tropfsteinhöhlen","Erkunde die längste Tropfsteinhöhle Europas.",480,Legendary,Abenteuer,45.7833,14.2033
+20,"Ljubljanica Nacht","Erlebe Bars in Metelkova und die Café-Kultur entlang der Ljubljanica.",480,Legendary,Urban,46.0511,14.5064

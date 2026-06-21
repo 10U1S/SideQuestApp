@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Essener Münster & Goldene Madonna","Besuche den Dom und entdecke das älteste vollplastische Marienbild.",30,Common,Kultur,51.4556,7.0131
+2,"Kennedyplatz Wasserspiel","Setze dich an den zentralen Platz und genieße die Atmosphäre.",30,Common,Urban,51.4564,7.0108
+3,"RWE-Turm & Philharmonie","Mache ein Foto von dem markanten Turm und dem Stadtgarten.",30,Common,Urban,51.4489,7.0122
+4,"Grugapark Schnuppertour","Besuche den botanischen Garten und fahre eine Runde mit der Grugabahn.",60,Common,Natur,51.4283,6.9922
+5,"Margarethenhöhe Spaziergang","Wandere durch die historische Gartenstadt und finde den Marktplatz.",60,Common,Kultur,51.4311,6.9839
+6,"Limbecker Platz Bummel","Erkunde eines der größten innerstädtischen Einkaufszentren Deutschlands.",60,Common,Urban,51.4589,7.0058
+7,"UNESCO Welterbe Zollverein","Besuche den Doppelbock-Förderturm und spaziere über das Gelände.",120,Rare,Kultur,51.4858,7.0431
+8,"Museum Folkwang Highlights","Entdecke Meisterwerke der Moderne von Van Gogh bis Rothko.",120,Rare,Kreativ,51.4422,7.0047
+9,"Baldeneysee Uferweg","Spaziere am Ufer des größten der Ruhrstauseen entlang.",120,Rare,Natur,51.4050,7.0300
+10,"Villa Hügel Parkrunde","Wandere durch den weitläufigen Park der Unternehmerfamilie Krupp.",120,Rare,Kultur,51.4069,7.0083
+11,"Alte Synagoge Essen","Besuche das Haus jüdischer Kultur in der Innenstadt.",120,Rare,Kultur,51.4564,7.0169
+12,"Ruhr Museum Zollverein","Tauche ein in die Geschichte des Ruhrgebiets in der ehemaligen Kohlenwäsche.",240,Epic,Kultur,51.4864,7.0422
+13,"Wanderung durch den Schellenberger Wald","Erkunde die dichten Wälder im Süden der Stadt.",240,Epic,Natur,51.4100,7.0450
+14,"Kettwig Altstadt-Bummel","Besuche den malerischen historischen Stadtkern direkt an der Ruhr.",240,Epic,Urban,51.3622,6.9372
+15,"Radtour auf der Trasse RS1","Fahre mit dem Fahrrad auf dem Radschnellweg vom Zentrum bis nach Mülheim.",240,Epic,Sport,51.4500,6.9500
+16,"Red Dot Design Museum","Bestaune preisgekröntes Produktdesign im ehemaligen Kesselhaus.",240,Epic,Kreativ,51.4872,7.0414
+17,"Baldeneysee Marathon","Wandere einmal komplett um den Baldeneysee.",480,Legendary,Sport,51.3900,7.0200
+18,"Zollverein Entdeckertag","Besuche die Kohlenwäsche, die Kokerei und den Skulpturenwald.",480,Legendary,Abenteuer,51.4900,7.0400
+19,"Wanderung von Werden nach Kupferdreh","Folge dem Baldeneysteig über die Hügel des Essener Südens.",480,Legendary,Natur,51.3800,7.0100
+20,"Museumsnacht-Feeling am Tag","Besuche das Museum Folkwang und das Ruhr Museum an einem Tag.",480,Legendary,Kultur,51.4600,7.0200

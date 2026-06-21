@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Goldenes Dachl","Fotografiere das berühmte Wahrzeichen mit seinen 2.657 Kupferschindeln.",20,Rare,Kreativ,47.2683,11.3933
+2,"Nordkette Seilbahn","Fahre auf die Nordkette und genieße Panoramablick auf Innsbruck.",90,Rare,Abenteuer,47.2692,11.4041
+3,"Hofburg Innsbruck","Erkunde die kaiserliche Residenz der Habsburger.",90,Rare,Kultur,47.2681,11.3939
+4,"Altstadt Flanieren","Spaziere durch die mittelalterlichen Gassen der Innsbrucker Altstadt.",30,Rare,Urban,47.2683,11.3933
+5,"Bergisel Sprungschanze","Besuche die Olympia-Skisprungschanze mit Museum.",60,Rare,Sport,47.2528,11.3883
+6,"Inn-Promenade","Spaziere entlang des Inn mit Blick auf die Nordkette.",45,Rare,Natur,47.2692,11.4041
+7,"Tiroler Volkskunstmuseum","Entdecke Trachten, Krippen und Volkskunst aus Tirol.",90,Epic,Kultur,47.2681,11.3944
+8,"Ambras Schloss","Besichtige das Renaissance-Schloss mit der bedeutenden Kunstkammer.",120,Epic,Kultur,47.2483,11.4333
+9,"Hungerburg Wanderung","Wandere von der Nordkette bis ins Inntal zurück.",180,Epic,Natur,47.2875,11.3883
+10,"Stubaier Gletscher","Fahre mit der Bahn auf den Gletscher und erlebe ewigen Schnee.",240,Epic,Abenteuer,47.0322,11.1339
+11,"Innsbrucker Weihnachtsmarkt","Erlebe einen der schönsten Weihnachtsmärkte in der Altstadt.",90,Epic,Sozial,47.2683,11.3933
+12,"Tiroler Knödel Kochkurs","Lerne das Zubereiten von Tiroler Knödeln.",120,Epic,Kulinarik,47.2692,11.4041
+13,"Olympiaworld besichtigen","Erkunde die Sportstätten der Olympischen Spiele 1964 und 1976.",90,Epic,Sport,47.2583,11.3958
+14,"Stadtturm besteigen","Besteige den gotischen Stadtturm für Blick über die Altstadt.",30,Epic,Kreativ,47.2681,11.3933
+15,"Innsbrucker Hofgarten","Entspanne im kaiserlichen Garten nahe der Hofburg.",60,Epic,Natur,47.2697,11.3911
+16,"Innsbruck Stadtradtour","Radle entlang des Inns durch alle Stadtteile.",180,Epic,Sport,47.2692,11.4041
+17,"Alpenpark Karwendel Wanderung","Wandere einen Abschnitt des Karwendels nördlich von Innsbruck.",480,Legendary,Natur,47.4167,11.4333
+18,"Arlberg Ski- oder Wandertag","Fahre ans Arlberg für den ultimativen Bergtag.",480,Legendary,Sport,47.1458,10.1969
+19,"Alle Innsbrucker Seilbahnen","Fahre mit jeder Seilbahn der Stadt an einem Tag.",480,Legendary,Abenteuer,47.2692,11.4041
+20,"Tiroler Abend","Erlebe Volksmusik, Schuhplattler und Tiroler Küche.",480,Legendary,Sozial,47.2692,11.4041

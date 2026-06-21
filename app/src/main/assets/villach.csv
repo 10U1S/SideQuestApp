@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Stadtpfarrkirche Villach","Besichtige die gotische Stadtkirche mit dem Kärntner Relief.",45,Rare,Kultur,46.6111,13.8558
+2,"Villacher Fasching","Erlebe einen der größten Faschingsumzüge Österreichs.",120,Rare,Sozial,46.6111,13.8558
+3,"Drau-Promenade","Spaziere am Ufer der Drau durch den Stadtpark.",45,Rare,Natur,46.6111,13.8558
+4,"Warmbader Therme","Entspanne in den natürlichen Thermalquellen Villach-Warmbads.",120,Rare,Sport,46.5972,13.8639
+5,"Hauptplatz Villach","Flaniere über den historischen Hauptplatz der Stadt.",30,Rare,Urban,46.6111,13.8558
+6,"Stadtmuseum Villach","Erkunde die Geschichte der Kärntner Römerstadt.",60,Rare,Kultur,46.6111,13.8558
+7,"Dobratsch Wanderung","Wandere auf den markanten Hausberg Villachs.",240,Epic,Natur,46.5989,13.7167
+8,"Faaker See Radtour","Radle um den türkisblauen Faaker See.",120,Epic,Sport,46.5722,13.9167
+9,"Ossiacher See Ausflug","Besuche den idyllischen Badesee östlich von Villach.",120,Epic,Natur,46.6667,13.9833
+10,"Burgberg Villach","Erkunde den historischen Burgberg über der Altstadt.",60,Epic,Abenteuer,46.6111,13.8558
+11,"Kärntner Schlössl","Besuche den historischen Gutshof mit Weinbau.",90,Epic,Kulinarik,46.6111,13.8558
+12,"Villacher Alpen Radtour","Radle durch die Alpenlandschaft rund um Villach.",240,Epic,Sport,46.6111,13.8558
+13,"Blejski Grad Slowenien","Besuche Bled mit seiner Inselkirche nahe der Grenze.",180,Epic,Kultur,46.3683,14.1053
+14,"Dreiländereck Wanderung","Wandere auf das Dreiländereck Österreich-Italien-Slowenien.",240,Epic,Abenteuer,46.5167,13.7167
+15,"Italienisches Grenzstädtchen","Besuche Tarvis oder Pontebba in der Nähe der Grenze.",120,Epic,Kulinarik,46.5030,13.5700
+16,"Villach Stadtradtour","Radle durch die Stadtteile und ans Drau-Ufer.",120,Epic,Sport,46.6111,13.8558
+17,"Dolomiten Tagesausflug","Fahre in die Dolomiten nach Cortina d'Ampezzo.",480,Legendary,Natur,46.5400,12.1367
+18,"Triest Tagesausflug","Fahre in die adriatische Hafenstadt Triest per Bahn.",480,Legendary,Abenteuer,46.6111,13.8558
+19,"Venetien Weinrundtour","Besuche Weingüter im nahen Friaul-Venetien.",480,Legendary,Kulinarik,46.6111,13.8558
+20,"Villacher Sommer Nacht","Erlebe Konzerte am Drauufer und das Nachtleben der Grenzstadt.",480,Legendary,Urban,46.6111,13.8558

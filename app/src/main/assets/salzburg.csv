@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Festung Hohensalzburg","Besuche die besterhaltene Burg Mitteleuropas hoch über der Stadt.",120,Rare,Kultur,47.7950,13.0472
+2,"Mozarts Geburtshaus","Besuche das Geburtshaus des Wunderkindes in der Getreidegasse.",60,Rare,Kultur,47.8003,13.0431
+3,"Getreidegasse Flanieren","Spaziere durch die berühmteste Einkaufsstraße Salzburgs.",30,Rare,Urban,47.8003,13.0431
+4,"Mirabell Garten","Entspanne im barocken Garten mit Blick auf die Festung.",45,Rare,Natur,47.8064,13.0428
+5,"Dom zu Salzburg","Erkunde den imposanten Barockdom im Herzen der Altstadt.",45,Rare,Kultur,47.7989,13.0469
+6,"Salzach Promenade","Spaziere entlang der Salzach und fotografiere die Stadtsilhouette.",45,Rare,Kreativ,47.8025,13.0444
+7,"Hellbrunn Wasserspiele","Erlebe die berühmten Barock-Wasserspiele im Lustschloss.",120,Epic,Abenteuer,47.7558,13.0611
+8,"Untersberg Wanderung","Wandere auf den Grenzberg zwischen Deutschland und Österreich.",240,Epic,Natur,47.7319,13.0058
+9,"Salzburger Festspiele","Erlebe Oper oder Theater beim weltberühmten Kulturfestival.",180,Epic,Kultur,47.7997,13.0461
+10,"Museum der Moderne","Entdecke zeitgenössische Kunst auf dem Mönchsberg.",90,Epic,Kultur,47.7978,13.0394
+11,"Augustinerbräu Biergarten","Genieße ein frisches Bier im ältesten Brauereigasthof der Stadt.",90,Epic,Kulinarik,47.8050,13.0356
+12,"Salzburger Nockerl","Koste die luftige Mehlspeise in einem traditionellen Lokal.",60,Epic,Kulinarik,47.8025,13.0444
+13,"Kapuzinerberg Wanderweg","Wandere den Kreuzweg auf dem Stadtberg mit herrlichem Ausblick.",90,Epic,Natur,47.8019,13.0514
+14,"Residenz Salzburg","Besuche die fürstbischöfliche Residenz mit Prunksälen.",90,Epic,Kultur,47.7997,13.0464
+15,"Salzburg Stadtradtour","Radle entlang der Salzach durch die Altstadt und die Neustadt.",120,Epic,Sport,47.8095,13.0550
+16,"Sound of Music Drehorte","Besuche die berühmten Filmschauplätze rund um Salzburg.",240,Epic,Kreativ,47.8095,13.0550
+17,"Berchtesgaden Tagesausflug","Besuche den Königssee und das Berchtesgadener Land.",480,Legendary,Natur,47.7319,12.9819
+18,"Salzkammergut Radtour","Radle durch die Seenlandschaft des Salzkammerguts.",480,Legendary,Sport,47.8095,13.0550
+19,"Wolfgangsee Wandertour","Wandere um den idyllischen See mit Schafberg-Besteigung.",480,Legendary,Natur,47.7442,13.3817
+20,"Salzburger Nacht","Erlebe Mozart-Konzerte und Salzburger Nachtleben.",480,Legendary,Urban,47.8095,13.0550

@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Prinzipalmarkt Flanieren","Spaziere über die Prachtstraße mit ihren gotischen Giebelhäusern.",30,Rare,Kultur,51.9625,7.6258
+2,"Dom St. Paulus","Erkunde den gotisch-romanischen Dom und seinen Schatz.",60,Rare,Kultur,51.9628,7.6228
+3,"Aasee Spaziergang","Umrunde den idyllischen See im Herzen der Stadt.",90,Rare,Natur,51.9500,7.6194
+4,"Friedensaal Rathaus","Besuche den Saal wo 1648 der Westfälische Frieden geschlossen wurde.",45,Rare,Kultur,51.9625,7.6253
+5,"Fahrrad-Stadtbummel","Erkunde Münster auf dem Rad wie die Einheimischen.",60,Rare,Sport,51.9607,7.6261
+6,"Kiepenkerl Statue","Fotografiere den berühmten Wanderhändler am Spiekerhof.",20,Rare,Kreativ,51.9625,7.6258
+7,"LWL-Museum für Kunst","Entdecke Kunstwerke vom Mittelalter bis zur Gegenwart.",120,Epic,Kultur,51.9603,7.6264
+8,"Botanischer Garten Uni","Erkunde den artenreichen Garten der Westfälischen Wilhelms-Universität.",90,Epic,Natur,51.9667,7.5983
+9,"Mühlenhof Freilichtmuseum","Besuche die historischen Gebäude des westfälischen Landlebens.",90,Epic,Kultur,51.9467,7.6156
+10,"Promenade Radtour","Radle einmal komplett auf dem Grüngürtel rund um die Altstadt.",90,Epic,Sport,51.9607,7.6261
+11,"Aasee Tretboot","Fahre ein Tretboot auf dem Aasee und genieße die Aussicht.",60,Epic,Natur,51.9500,7.6194
+12,"Westfälisches Pferdemuseum","Lerne die Geschichte des westfälischen Pferdes kennen.",90,Epic,Kultur,51.9503,7.6186
+13,"Allwetterzoo Münster","Besuche den Allwetterzoo mit Delphinarium und Pferdemuseum.",180,Epic,Natur,51.9503,7.6186
+14,"Kreativkai Münster","Entdecke das Kreativquartier am Stadthafen.",90,Epic,Urban,51.9569,7.6281
+15,"Stadthafen Münster","Erlebe die Eventlocation am revitalisierten Hafen.",90,Epic,Urban,51.9558,7.6289
+16,"Münster Stadtradtour","Radle durch alle Stadtteile der Fahrradstadt.",240,Epic,Sport,51.9607,7.6261
+17,"Fahrrad-Tagestour Münsterland","Radle durch die idyllische Münsterlandschaft zu Schlössern und Dörfern.",480,Legendary,Sport,51.9607,7.6261
+18,"100 Schlösser Route","Radle auf der berühmten Schlösserrunde durch das Münsterland.",480,Legendary,Abenteuer,51.9607,7.6261
+19,"Westfalenpark Dortmund Tagesausflug","Besuche den großen Park mit Rosarium und Fernsehturm.",480,Legendary,Natur,51.9607,7.6261
+20,"Münster Nacht","Erkunde die lebhafte Universitätskneipenszene von Abend bis Morgen.",480,Legendary,Urban,51.9607,7.6261

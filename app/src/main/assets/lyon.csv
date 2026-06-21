@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Fourvière Basilika","Besteige den Hügel zur Marienbasilika mit Panoramablick über Lyon.",60,Rare,Kultur,45.7622,4.8222
+2,"Vieux Lyon Traboules","Erkunde die geheimen Durchgangshöfe der Altstadt.",90,Epic,Abenteuer,45.7611,4.8275
+3,"Bouchon Lyonnais","Koste traditionelle Lyoner Küche im typischen Bistro.",90,Epic,Kulinarik,45.7678,4.8344
+4,"Presqu'île Flanieren","Spaziere durch die elegante Halbinsel zwischen Rhône und Saône.",60,Rare,Urban,45.7678,4.8344
+5,"Marché Quai Saint-Antoine","Stöbere auf dem lebhaften Flussmarkt nach regionalen Spezialitäten.",60,Rare,Kulinarik,45.7628,4.8289
+6,"Terreaux Platz","Bewundere den Bartholdi-Brunnen auf dem prachtvollen Stadtplatz.",30,Rare,Kreativ,45.7672,4.8325
+7,"Institut Lumière","Besuche das Geburtshaus des Kinos und Erfinder der Brüder Lumière.",90,Epic,Kultur,45.7461,4.8658
+8,"Musée des Confluences","Erkunde das futuristische Museum zu Natur und Gesellschaft.",180,Epic,Kultur,45.7333,4.8178
+9,"Croix-Rousse Viertel","Entdecke das Seidenweber-Viertel mit Ateliers und Cafés.",90,Epic,Urban,45.7736,4.8272
+10,"Fête des Lumières","Erlebe das weltberühmte Lichterfestival im Dezember.",180,Epic,Kreativ,45.7678,4.8344
+11,"Musée des Beaux-Arts","Entdecke eine der bedeutendsten Kunstsammlungen Frankreichs.",120,Epic,Kultur,45.7675,4.8328
+12,"Parc de la Tête d'Or","Entspanne im weitläufigen Stadtpark mit See und Zoo.",120,Epic,Natur,45.7786,4.8561
+13,"Saône Bootsfahrt","Erlebe Lyon vom Fluss aus mit Blick auf Fourvière.",90,Epic,Natur,45.7628,4.8289
+14,"Gastronom-Tour Paul Bocuse","Besuche die Märkte und Läden des Schülers des Meisters Paul Bocuse.",120,Epic,Kulinarik,45.7678,4.8344
+15,"Amphitheater Fourvière","Erkunde das antike römische Theater auf dem Fourvière-Hügel.",60,Rare,Kultur,45.7597,4.8219
+16,"Lyon Stadtradtour","Radle durch alle Viertel der Gastronomiehauptstadt Frankreichs.",180,Epic,Sport,45.7678,4.8344
+17,"Paul Bocuse Restaurant","Erlebe das 3-Sterne-Erlebnis im legendären Restaurant.",480,Legendary,Kulinarik,45.8264,4.8483
+18,"Beaujolais Weinrundtour","Besuche Winzer im Beaujolais und koste Primeur.",480,Legendary,Kulinarik,46.1667,4.7167
+19,"Alle Lyoner Museen","Besuche Lumière, Beaux-Arts und Confluences an einem Tag.",480,Legendary,Kultur,45.7678,4.8344
+20,"Lyoner Nacht","Erlebe Bouchons, Weinbars und Clubs im Viertel Guillotière.",480,Legendary,Urban,45.7678,4.8344

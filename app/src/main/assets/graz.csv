@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Schlossberg besteigen","Wandere auf den Hausberg mitten in der Stadt mit Panoramablick.",60,Rare,Natur,47.0733,15.4381
+2,"Hauptplatz Graz","Flaniere über den größten Platz der Altstadt mit dem Rathaus.",30,Rare,Urban,47.0707,15.4395
+3,"Kunsthaus Graz","Erkunde das futuristische Kunstmuseum, das Friendly Alien.",90,Rare,Kultur,47.0703,15.4361
+4,"Uhrturm Schlossberg","Besuche das Wahrzeichen von Graz auf dem Schlossberg.",30,Rare,Kreativ,47.0733,15.4381
+5,"Grazer Oper","Erlebe eine Vorstellung in der traditionsreichen Grazer Oper.",180,Rare,Kultur,47.0706,15.4403
+6,"Murinsel","Besuche die schwimmende Kunstinsel im Fluss Mur.",30,Rare,Abenteuer,47.0706,15.4358
+7,"Eggenberg Schloss","Erkunde das Barockschloss mit seinem einzigartigen Jagdmuseum.",120,Epic,Kultur,47.0667,15.3944
+8,"Schlossberg Schlucht","Erkunde den geheimnisvollen unterirdischen Kavernenbereich des Schlossbergs.",90,Epic,Abenteuer,47.0733,15.4381
+9,"Murradweg","Radle entlang der Mur durch Graz und ins Umland.",180,Epic,Sport,47.0707,15.4395
+10,"Steirisches Kürbiskernöl Probe","Koste das flüssige Gold der Steiermark im Gasthaus.",60,Epic,Kulinarik,47.0707,15.4395
+11,"Stadtpark Graz","Entspanne im großen Stadtpark am Opernring.",60,Epic,Natur,47.0700,15.4433
+12,"Farmers Market Am Griesplatz","Stöbere auf dem frischen Wochenmarkt nach steirischen Produkten.",60,Epic,Kulinarik,47.0736,15.4439
+13,"Landeszeughaus","Besuche das weltgrößte Arsenal mit 32.000 originalen Rüstungen.",90,Epic,Kultur,47.0711,15.4406
+14,"Grazer Schlossberg Rutsche","Fahre die Kinderrutsche vom Schlossberg hinunter.",30,Epic,Urban,47.0733,15.4381
+15,"Krenngasse Grätzel","Entdecke das alternative Studentenviertel mit Bars und Cafés.",90,Epic,Urban,47.0683,15.4425
+16,"Graz Stadtradtour","Radle durch alle Stadtteile von Graz entlang der Mur.",180,Epic,Sport,47.0707,15.4395
+17,"Steirische Weinstraße","Besuche Winzer entlang der Südsteirischen Weinstraße.",480,Legendary,Kulinarik,46.8833,15.5000
+18,"Mariazell Wallfahrt","Fahre zur bedeutendsten Wallfahrtskirche Österreichs.",480,Legendary,Abenteuer,47.7736,15.3167
+19,"Alle UNESCO Stätten Graz","Besuche alle Weltkulturerbe-Orte der Grazer Altstadt.",480,Legendary,Kultur,47.0707,15.4395
+20,"Grazer Nachtleben","Erlebe die lebhafte Bar- und Clubszene rund um den Gries.",480,Legendary,Urban,47.0707,15.4395

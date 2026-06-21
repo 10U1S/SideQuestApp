@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logbuch_glass_bg">
+
+    <!-- 1. Der Titel (Ganz unten im Stapel) -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:text="Logbuch"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:shadowColor="#1565C0"
+        android:shadowRadius="15"
+        android:gravity="center" />
+
+    <!-- 2. Die Liste (Liegt über dem Titel) -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_quest_log"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:paddingTop="140dp"
+        android:paddingBottom="20dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp" />
+
+    <!-- 3. Die Toolbar (Ganz oben, damit sie immer klickbar bleibt) -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@android:color/transparent"
+        app:title="" />
+
+    <TextView
+        android:id="@+id/tv_empty_log"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Dein Logbuch ist noch leer.\nSchließe Quests ab, um Polaroids zu sammeln!"
+        android:textColor="#80FFFFFF"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:paddingTop="100dp" />
+
+</FrameLayout>

@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Königsallee Schaufensterbummel","Spaziere entlang der berühmten 'Kö' und bestaune die Luxusmeile.",30,Common,Urban,51.2222,6.7792
+2,"Rheinuferpromenade Flair","Schlendere vom Schlossturm bis zum Landtag am Rhein entlang.",30,Common,Urban,51.2244,6.7708
+3,"MedienHafen Architektur","Mache Fotos von den tanzenden Gehry-Bauten am Hafen.",30,Common,Kreativ,51.2158,6.7578
+4,"Altstadt 'Längste Theke'","Besuche das historische Herz Düsseldorfs und finde den Radschlägerbrunnen.",60,Common,Kultur,51.2261,6.7725
+5,"Hofgarten Entdeckung","Wandere durch den ersten öffentlichen Park Deutschlands mitten in der Stadt.",60,Common,Natur,51.2300,6.7800
+6,"Carlsplatz Marktbesuch","Probiere eine lokale Spezialität auf dem beliebten Wochenmarkt.",30,Common,Kulinarik,51.2236,6.7744
+7,"Rheinturm Panoramablick","Fahre auf den Fernsehturm für eine Aussicht über das Rheinland.",120,Rare,Urban,51.2178,6.7617
+8,"Schloss Benrath Parkführung","Besuche das Rokoko-Schloss und spaziere durch die prächtige Gartenanlage.",120,Rare,Kultur,51.1611,6.8703
+9,"Kunstsammlung K20 Highlights","Entdecke moderne Kunstwerke von Klee bis Picasso.",120,Rare,Kreativ,51.2289,6.7753
+10,"Little Tokyo Food-Tour","Erkunde die japanische Community in der Immermannstraße und esse Ramen.",120,Rare,Kulinarik,51.2240,6.7880
+11,"Wildpark Grafenberg","Besuche die Rehe und Wildschweine im weitläufigen Waldgehege.",120,Rare,Natur,51.2467,6.8400
+12,"Unterbacher See Wanderung","Umrunde den großen See im Osten Düsseldorfs zu Fuß.",240,Epic,Sport,51.2050,6.8850
+13,"Aquazoo Löbbecke Museum","Entdecke die Welt unter Wasser und im Regenwald.",240,Epic,Natur,51.2586,6.7492
+14,"Kaiserswerth & Burgruine","Fahre mit der U79 in den historischen Stadtteil und besuche die Kaiserpfalz.",240,Epic,Kultur,51.2997,6.7336
+15,"Radtour entlang der Düssel","Folge dem kleinen Fluss von Gerresheim bis zum Rhein.",240,Epic,Natur,51.2300,6.8400
+16,"Ehrenhof Museen Marathon","Besuche das Museum Kunstpalast und das NRW-Forum.",240,Epic,Kreativ,51.2339,6.7731
+17,"Rhein-Wanderweg nach Neuss","Wandere am Rhein entlang bis zur benachbarten Stadt Neuss.",480,Legendary,Natur,51.2000,6.7300
+18,"Düsseldorfer Stadtwald Tag","Verbringe den ganzen Tag auf den Wanderwegen im Grafenberger Wald.",480,Legendary,Abenteuer,51.2500,6.8500
+19,"Düsseltal bis Erkrath Tour","Wandere durch die Auenlandschaft der Düssel bis ins Neandertal.",480,Legendary,Abenteuer,51.2200,6.9500
+20,"Museum Insel Hombroich","Besuche das einzigartige Kunst- und Naturprojekt in Neuss.",480,Legendary,Kultur,51.1478,6.6586

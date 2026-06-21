@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Der Schöne Brunnen Ringdreh","Finde den goldenen Ring am Schönen Brunnen am Hauptmarkt und drehe ihn für Glück.",30,Common,Kultur,49.4542,11.0770
+2,"Albrecht-Dürer-Hase Foto","Mache ein Foto mit der berühmten Hasen-Skulptur vor dem Dürer-Haus.",30,Common,Kreativ,49.4575,11.0743
+3,"Kettensteg Überquerung","Wandere über die älteste eiserne Kettenbrücke Kontinentaleuropas.",30,Common,Natur,49.4542,11.0709
+4,"Handwerkerhof Bummel","Besuche den Handwerkerhof am Königstor und schaue den Glasbläsern bei der Arbeit zu.",60,Common,Kultur,49.4475,11.0814
+5,"Pegnitzufer Entspannung","Suche dir einen Platz an der Insel Schütt und beobachte den Flussfluss.",60,Common,Natur,49.4528,11.0825
+6,"Weißgerbergasse Architektur","Spaziere durch Nürnbergs schönste Fachwerkstraße und finde dein Lieblingshaus.",30,Common,Urban,49.4547,11.0736
+7,"Kaiserburg Innenhof & Garten","Steige hinauf zur Burg und erkunde den Rittersaal und den Burggarten.",120,Rare,Kultur,49.4578,11.0759
+8,"Memorium Nürnberger Prozesse","Besuche den historischen Saal 600 im Justizpalast.",120,Rare,Kultur,49.4547,11.0469
+9,"Wöhrder See Rundgang","Spaziere einmal um den unteren Teil des Wöhrder Sees.",120,Rare,Natur,49.4518,11.0885
+10,"Germanisches Nationalmuseum Highlight","Finde den Behaim-Globus, den ältesten erhaltenen Erdglobus der Welt.",120,Rare,Kultur,49.4484,11.0752
+11,"Lebkuchen Tasting","Besuche eine traditionelle Bäckerei und probiere echte Nürnberger Elisenlebkuchen.",120,Rare,Kulinarik,49.4539,11.0772
+12,"Dokumentationszentrum Parteitagsgelände","Erfahre mehr über die Geschichte Nürnbergs im Nationalsozialismus.",240,Epic,Kultur,49.4342,11.1122
+13,"Tiergarten Schmausenbuck","Erkunde den Landschaftszoo und besuche das Delfinarium oder das Manatihaus.",240,Epic,Natur,49.4475,11.1450
+14,"Felsengänge Labyrinth","Nimm an einer Führung durch die mittelalterlichen Bierkeller tief im Fels teil.",240,Epic,Abenteuer,49.4556,11.0742
+15,"Pellerhaus & Egidienberg","Entdecke die prachtvolle Fassade des Pellerhauses und die Barockkirche St. Egidien.",240,Epic,Urban,49.4564,11.0817
+16,"Z-Bau Kulturzentrum","Besuche ein Event oder den Biergarten im alternativen Kulturzentrum im Süden.",240,Epic,Sozial,49.4180,11.0964
+17,"Stadtmauer-Marathon","Wandere einmal komplett entlang der fast vollständig erhaltenen Nürnberger Stadtmauer.",480,Legendary,Sport,49.4480,11.0800
+18,"Fahrradtour ins Knoblauchsland","Erkunde das riesige Gemüseanbaugebiet zwischen Nürnberg und Erlangen.",480,Legendary,Natur,49.4800,11.0500
+19,"Industriekultur Museum","Tauche ein in die Geschichte der Technik im Museum Industriekultur.",480,Legendary,Kultur,49.4608,11.1125
+20,"Playmobil FunPark Tag","Fahre nach Zirndorf und verbringe einen Tag voller Action im Playmobil-Park.",480,Legendary,Abenteuer,49.4314,10.9322

@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Grossmünster Turmbesteigung","Besteige die Türme der romanischen Kathedrale für Stadtpanorama.",30,Rare,Abenteuer,47.3700,8.5442
+2,"Bahnhofstrasse Flanieren","Spaziere eine der teuersten Einkaufsstraßen der Welt entlang.",45,Rare,Urban,47.3769,8.5417
+3,"Zürichsee Promenade","Genieße den Blick auf den See und die Alpen vom Seeufer.",45,Rare,Natur,47.3617,8.5500
+4,"Lindenhügel Aussicht","Genieße den Blick über die Altstadt vom Lindenhügel.",30,Rare,Kreativ,47.3711,8.5414
+5,"Landesmuseum Zürich","Erkunde Schweizer Geschichte in der neuogischen Burg.",90,Rare,Kultur,47.3783,8.5392
+6,"Fraumünster Chagall-Fenster","Bestaunte die leuchtenden Fenster von Marc Chagall.",30,Rare,Kreativ,47.3697,8.5411
+7,"Kunsthaus Zürich","Entdecke eine der bedeutendsten Kunstsammlungen der Schweiz.",180,Epic,Kultur,47.3700,8.5483
+8,"Rietberg Museum","Erlebe außereuropäische Kunst in der Parkanlage am Zürichsee.",120,Epic,Kultur,47.3556,8.5264
+9,"Zürichsee Bootsfahrt","Genieße eine Rundfahrt auf dem Zürichsee.",120,Epic,Natur,47.3617,8.5500
+10,"ETH Zürich Campus","Besuche die weltberühmte Technische Hochschule mit Aussichtsterrasse.",60,Epic,Kultur,47.3764,8.5483
+11,"Langstrasse Nachtleben","Entdecke das kreative und alternative Viertel rund um die Langstrasse.",120,Epic,Urban,47.3775,8.5275
+12,"Züriberg Wanderung","Wandere auf den Züriberg und genieße die Aussicht über die Stadt.",120,Epic,Natur,47.3697,8.5667
+13,"Zoo Zürich","Besuche den renommierten Zoo mit seiner Masoala-Regenwaldhalle.",180,Epic,Natur,47.3836,8.5736
+14,"Fondue im Kreis 6","Genieße ein traditionelles Schweizer Fondue in einem Zürcher Restaurant.",120,Epic,Kulinarik,47.3786,8.5394
+15,"Letzigrund Stadion","Erlebe ein Fußball- oder Leichtathletikspektakel.",180,Epic,Sport,47.3825,8.5000
+16,"Zürich Stadtradtour","Radle entlang der Limmat und des Sees durch alle Stadtkreise.",240,Epic,Sport,47.3769,8.5417
+17,"Uetliberg Wanderung","Wandere auf den Hausberg Zürichs mit Fernblick bis zu den Alpen.",480,Legendary,Natur,47.3500,8.4917
+18,"Zürichsee Wanderweg","Wandere einmal komplett um den Zürichsee.",480,Legendary,Sport,47.3617,8.5500
+19,"Schweizer Küche Marathon","Koste Fondue, Raclette, Züricher Geschnetzeltes und Rösti an einem Tag.",480,Legendary,Kulinarik,47.3769,8.5417
+20,"Zürich Nacht der Clubs","Erlebe das legendäre Züricher Nachtleben im Industrie-Quartier.",480,Legendary,Urban,47.3769,8.5417

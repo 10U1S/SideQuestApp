@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Mainzer Dom","Erkunde den romanischen Kaiserdom – einen der bedeutendsten Deutschlands.",60,Rare,Kultur,49.9986,8.2739
+2,"Gutenberg-Museum","Entdecke die Geschichte des Buchdrucks und original Gutenberg-Bibeln.",90,Rare,Kultur,50.0008,8.2742
+3,"Mainzer Altstadt Flanieren","Spaziere durch die Gassen der historischen Altstadt mit Fachwerkhäusern.",45,Rare,Urban,49.9986,8.2739
+4,"Rheinpromenade Mainz","Spaziere am Rheinufer und beobachte Schiffe und Sonnenuntergang.",45,Rare,Natur,49.9986,8.2789
+5,"Marktplatz Mainz","Erlebe den täglichen Markt auf dem Domplatz.",30,Rare,Kulinarik,49.9986,8.2742
+6,"Stephanskirche Chagall-Fenster","Bestaunte die leuchtend blauen Glasfenster von Marc Chagall.",30,Rare,Kreativ,49.9975,8.2719
+7,"Zitadelle Mainz","Erkunde die Festungsanlagen auf dem Jakobsberg über der Stadt.",90,Epic,Abenteuer,49.9950,8.2650
+8,"Landesmuseum Mainz","Entdecke 400.000 Objekte zur Geschichte des Rheinlandes.",120,Epic,Kultur,50.0003,8.2706
+9,"Kurfürstliches Schloss","Bewundere das Renaissanceschloss am Rheinufer.",60,Epic,Kultur,50.0003,8.2753
+10,"Botanischer Garten Mainz","Erkunde den schönen Universitätsgarten mit Rosarium.",90,Epic,Natur,49.9906,8.2381
+11,"Weinwanderung Rheinhessen","Wandere durch die Weinberge über Mainz mit Rheinblick.",180,Epic,Kulinarik,49.9986,8.2453
+12,"Fastnacht Mainz","Erlebe den fünften Jahrestag in der Fastnachtshochburg.",120,Epic,Sozial,49.9986,8.2739
+13,"Mombach Grüngürtel","Radl durch die grünen Parks und Auen im Stadtteil Mombach.",120,Epic,Sport,50.0156,8.2458
+14,"Mainz Stadtradtour","Radle entlang des Rheins und durch alle Stadtteile.",180,Epic,Sport,49.9929,8.2473
+15,"Kupferberg Sekt Keller","Erlebe eine Führung durch die historischen Sektkellergewölbe.",90,Epic,Kulinarik,49.9939,8.2825
+16,"Mainzer Stadttheater","Erlebe eine Aufführung im renommierten Staatstheater Mainz.",180,Epic,Kultur,49.9989,8.2711
+17,"Rüdesheim Tagesausflug","Fahre mit dem Schiff ins Rheingau und erkunde die Weinstadt.",480,Legendary,Kulinarik,49.9986,8.2739
+18,"Rheinland-Pfalz Weinrundtour","Besuche mehrere Weingüter in Rheinhessen und der Pfalz an einem Tag.",480,Legendary,Kulinarik,49.9986,8.2473
+19,"Römerpass Mainz","Besuche alle römischen Fundstätten in und um Mainz.",480,Legendary,Kultur,49.9986,8.2739
+20,"Mainz Nacht der Kneipen","Erkunde die gemütliche Kneipenszene in der Mainzer Altstadt.",480,Legendary,Urban,49.9986,8.2739

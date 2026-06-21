@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Markusplatz bei Ebbe","Erlebe den bekanntesten Platz der Welt ohne Touristen beim Morgengrauen.",45,Rare,Kreativ,45.4341,12.3388
+2,"Gondel Serenata","Fahre eine Gondel durch die kleinen Kanäle mit Gondoliere.",60,Rare,Abenteuer,45.4408,12.3361
+3,"Rialto Markt","Stöbere auf dem Fischmarkt und Gemüsemarkt am Canal Grande.",60,Rare,Kulinarik,45.4383,12.3358
+4,"Vaporetto Canal Grande","Fahre den gesamten Canal Grande per Wasserbus einmal entlang.",45,Rare,Urban,45.4408,12.3361
+5,"Cicchetti Spritz","Koste Venetianische Häppchen mit einem Aperol Spritz in einer Bacaro.",45,Rare,Kulinarik,45.4408,12.3361
+6,"Insel Murano","Besuche die Glasbläserinsel und erlebe echte Muranoglas-Herstellung.",120,Epic,Kreativ,45.4567,12.3553
+7,"Dogenpalast","Erkunde die Räume des Dogen und die Seufzerbrücke.",120,Epic,Kultur,45.4338,12.3401
+8,"Gallerie dell'Accademia","Entdecke venezianische Meisterwerke von Tizian bis Tiepolo.",120,Epic,Kultur,45.4322,12.3281
+9,"Insel Burano","Besuche die farbenfrohen Häuserinsel mit handgemachten Spitzen.",180,Epic,Kreativ,45.4853,12.4169
+10,"Basilica di San Marco","Erkunde die byzantinische Kathedrale mit goldenen Mosaiken.",90,Epic,Kultur,45.4344,12.3389
+11,"Cannaregio Viertel","Entdecke das ursprüngliche Venedig abseits der Touristenpfade.",90,Epic,Urban,45.4456,12.3300
+12,"Peggy Guggenheim Collection","Erlebe moderne Kunst in der privaten Sammlung am Canal Grande.",120,Epic,Kultur,45.4311,12.3311
+13,"Sonnenuntergang Zattere","Genieße den Sonnenuntergang auf der Uferpromenade der Giudecca.",60,Epic,Natur,45.4289,12.3250
+14,"Dorsoduro Viertel","Erkunde das Studentenviertel mit Bars und kleinen Galerien.",90,Epic,Urban,45.4311,12.3250
+15,"Lido Strand","Fahr zur Badeinsel Venedigs und entspanne am Adriastrand.",120,Epic,Natur,45.4083,12.3667
+16,"Venedig Wassertaxi Stadtrandtour","Erkunde per Wassertaxi alle Stadtteile der Lagunenstadt.",240,Epic,Sport,45.4408,12.3361
+17,"Karneval Venedig","Erlebe Masken, Umzüge und Bälle beim berühmtesten Karneval der Welt.",480,Legendary,Sozial,45.4408,12.3361
+18,"Alle Inseln an einem Tag","Besuche Murano, Burano und Torcello mit dem Vaporetto.",480,Legendary,Kultur,45.4408,12.3361
+19,"Venedig im Morgenrot","Erlebe die Lagunenstadt beim Sonnenaufgang über dem Markusplatz.",480,Legendary,Kreativ,45.4341,12.3388
+20,"Venedigisches Festmahl","Koste Sarde in Saor, Baccalà und Tiramisù in historischen Osterien.",480,Legendary,Kulinarik,45.4408,12.3361

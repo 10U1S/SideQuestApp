@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"lokaler Augustusplatz & Panometer","Besuche den größten Stadtplatz Deutschlands und die Universität.",30,Rare,Urban,51.3389,12.3800
+2,"Mädlerpassage & Auerbachs Keller","Wandere durch die historische Passage und finde die Faust-Skulptur.",30,Rare,Kultur,51.3394,12.3753
+3,"Nikolaikirche Friedensgebet","Besuche den Ort der Montagsdemonstrationen von 1989.",30,Rare,Kultur,51.3403,12.3786
+4,"Stadthafen & Kanäle","Spaziere zum Stadthafen und beobachte die Paddler.",60,Rare,Urban,51.3392,12.3614
+5,"Johannapark & Clara-Zetkin-Park","Wandere durch die grünen Lungen Leipzigs und finde die Brücken.",60,Rare,Natur,51.3333,12.3600
+6,"Thomaskirche & Bach-Denkmal","Besuche die Wirkungsstätte von Johann Sebastian Bach.",30,Rare,Kultur,51.3392,12.3722
+7,"Völkerschlachtdenkmal Aufstieg","Erklimme das monumentale Denkmal für einen Blick über Leipzig.",120,Epic,Kultur,51.3122,12.4131
+8,"Zoo Leipzig Gondwanaland","Tauche ein in die tropische Erlebniswelt mitten in Sachsen.",120,Epic,Natur,51.3494,12.3692
+9,"Baumwollspinnerei Kunst-Tour","Besuche das alternative Kunstzentrum im Stadtteil Plagwitz.",120,Epic,Kreativ,51.3286,12.3342
+10,"Karl-Heine-Kanal Spaziergang","Wandere am Kanal entlang und bewundere die Industriearchitektur.",120,Epic,Urban,51.3267,12.3300
+11,"Bayerischer Bahnhof & Gose-Bier","Besuche den ältesten Kopfbahnhof der Welt und probiere das lokale Bier.",120,Epic,Kulinarik,51.3308,12.3828
+12,"Cospudener See Rundtour","Fahre mit dem Fahrrad einmal komplett um den 'Cossi'.",240,Epic,Sport,51.2750,12.3300
+13,"Grassimuseum Dreifach-Erkundung","Besuche eines der drei Museen (Angewandte Kunst, Völkerkunde, Musikinstrumente).",240,Epic,Kultur,51.3375,12.3886
+14,"Wanderung durch den Auwald","Erkunde das riesige Naturschutzgebiet direkt in der Stadt.",240,Epic,Natur,51.3200,12.3500
+15,"Plagwitz Wasser-Abenteuer","Miete ein Paddelboot und erkunde Leipzig vom Wasser aus.",240,Epic,Sport,51.3292,12.3417
+16,"Panometer Leipzig","Bestaune das riesige 360-Grad-Panorama von Yadegar Asisi.",240,Epic,Kreativ,51.3142,12.3872
+17,"Leipziger Neuseenland Marathon","Wandere vom Cospudener zum Markkleeberger See.",480,Legendary,Natur,51.2500,12.3500
+18,"Historisches Leipzig Erlebnistag","Besuche das Völkerschlachtdenkmal, den Zoo und die Innenstadt.",480,Legendary,Abenteuer,51.3300,12.3800
+19,"Wanderung nach Markkleeberg","Folge dem Pleißeradweg durch die Parkanlagen bis ins Umland.",480,Legendary,Sport,51.2800,12.3700
+20,"Belantis Freizeitpark Tag","Verbringe den ganzen Tag im AbenteuerReich vor den Toren Leipzigs.",480,Legendary,Abenteuer,51.2522,12.3161

@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Lindwurm Brunnen","Fotografiere das Wahrzeichen der Stadt am Neuen Platz.",20,Rare,Kreativ,46.6228,14.3050
+2,"Wörthersee Spaziergang","Spaziere am beliebtesten Badesee Österreichs entlang.",90,Rare,Natur,46.6167,14.1333
+3,"Klagenfurter Altstadt","Erkunde das historische Zentrum mit seinen Renaissance-Häusern.",45,Rare,Kultur,46.6228,14.3050
+4,"Minimundus","Besichtige die Miniaturen bekannter Weltwunder am Wörthersee.",90,Rare,Kreativ,46.6194,14.2764
+5,"Neuer Platz Flanieren","Genieße den repräsentativen Hauptplatz der Landeshauptstadt.",30,Rare,Urban,46.6228,14.3050
+6,"Dom zu Klagenfurt","Besichtige den barocken Jesuitendom im Stadtzentrum.",30,Rare,Kultur,46.6231,14.3064
+7,"Europapark Klagenfurt","Entspanne im großen Stadtpark am Wörthersee.",90,Epic,Natur,46.6194,14.2917
+8,"Landesmuseum Kärnten","Entdecke Archäologie, Kunst und Kulturgeschichte Kärntens.",120,Epic,Kultur,46.6253,14.3044
+9,"Wörthersee Radtour","Radle einmal rund um den See – 50 km Panorama.",240,Epic,Sport,46.6167,14.1333
+10,"Schloss Mageregg","Besuche das historische Wasserschloss im Stadtpark.",60,Epic,Kultur,46.6347,14.2833
+11,"Maria Saal Besuch","Besuche die romanische Wallfahrtskirche südlich von Klagenfurt.",90,Epic,Kultur,46.6783,14.3483
+12,"Kärntner Kasnudeln probieren","Koste die gefüllte Pasta-Spezialität Kärntens.",60,Epic,Kulinarik,46.6228,14.3050
+13,"Pyramidenkogel Aussichtsturm","Besteige den höchsten Holzaussichtsturm Europas am Wörthersee.",90,Epic,Abenteuer,46.5917,14.1500
+14,"Strandbad Klagenfurt","Bade im Wörthersee am städtischen Strandbad.",120,Epic,Sport,46.6147,14.2808
+15,"Klagenfurter Wochenmarkt","Stöbere auf dem frischen Markt nach Kärntner Produkten.",60,Epic,Kulinarik,46.6228,14.3050
+16,"Klagenfurt Stadtradtour","Radle durch alle Stadtteile und ans Wörthersee-Ufer.",180,Epic,Sport,46.6228,14.3050
+17,"Hochobir Wanderung","Wandere auf den Hausberg der Kärntner Hauptstadt.",480,Legendary,Natur,46.5139,14.5508
+18,"Grossglockner Tagesausflug","Fahre auf die Grossglockner Hochalpenstraße zum höchsten Österreich.",480,Legendary,Abenteuer,47.0744,12.6944
+19,"Triglav Grenzwanderung","Wandere entlang der slowenischen Grenze durch den Karawanken.",480,Legendary,Abenteuer,46.6228,14.3050
+20,"Kärntner Nacht","Erlebe Klagenfurt mit Seeuferkonzerten und Sommernachtsatmosphäre.",480,Legendary,Urban,46.6228,14.3050

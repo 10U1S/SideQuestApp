@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Hallgrímskirkja","Besteige den Turm der markantesten Kirche Islands.",30,Rare,Abenteuer,64.1419,-21.9261
+2,"Tjörnin See","Spaziere um den kleinen See im Stadtzentrum.",30,Rare,Natur,64.1461,-21.9403
+3,"Laugavegur Flanieren","Entdecke Designläden und Cafés.",45,Rare,Urban,64.1450,-21.9331
+4,"Hotdog Stand","Koste den berühmten isländischen Hotdog.",10,Rare,Kulinarik,64.1511,-21.9411
+5,"Sun Voyager Skulptur","Fotografiere das Wikingerschiff am Meeresbufer.",20,Rare,Kreativ,64.1503,-21.9244
+6,"Skyr probieren","Koste den typischen isländischen Milchquark.",15,Rare,Kulinarik,64.1450,-21.9331
+7,"Blaue Lagune","Entspanne in dem geothermischen Bad.",180,Epic,Natur,63.8803,-22.4489
+8,"Nordlichter beobachten","Fahre aus der Stadt und erlebe Polarlichter.",180,Epic,Natur,64.1636,-21.9461
+9,"Golden Circle Tagesausflug","Besuche Þingvellir, Geysir und Gullfoss.",480,Legendary,Natur,64.2559,-20.2197
+10,"Nationalmuseum Island","Erkunde die Geschichte der Wikinger.",120,Epic,Kultur,64.1419,-21.9511
+11,"Whalewatch","Erkunde den Atlantik auf einem Wal-Beobachtungsboot.",180,Epic,Natur,64.1511,-21.9372
+12,"Harpa Konzerthaus","Erlebe ein Konzert im spektakulären Glasgebäude.",120,Epic,Kreativ,64.1503,-21.9344
+13,"Reykjavik Art Museum","Entdecke isländische zeitgenössische Kunst.",120,Epic,Kultur,64.1472,-21.9303
+14,"Skólavörðustígur Street Art","Erkunde die Regenbogenstraße.",60,Rare,Kreativ,64.1433,-21.9319
+15,"Geothermische Wanderung","Wandere durch aktive Thermalgebiete.",120,Epic,Abenteuer,63.8942,-22.0628
+16,"Reykjavik Stadtradtour","Radle entlang der Küste.",120,Epic,Sport,64.1450,-21.9331
+17,"Mitternachtssonne erleben","Erlebe im Sommer die 24-Stunden-Sonne.",480,Legendary,Natur,64.1511,-21.9411
+18,"Snæfellsjökull Tagesausflug","Besuche den Gletschervulkan.",480,Legendary,Abenteuer,64.8075,-23.7761
+19,"Südküste Islands Eintagesrundtour","Besuche Skógafoss und schwarze Strände.",480,Legendary,Natur,63.5322,-19.5136
+20,"Reykjavik Nacht","Erlebe das legendäre Wochenend-Nachtleben.",480,Legendary,Urban,64.1450,-21.9331

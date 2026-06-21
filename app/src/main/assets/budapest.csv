@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Fischerbastei Panorama","Genieße den märchenhaften Blick über die Donau.",45,Rare,Kreativ,47.5019,19.0344
+2,"Széchenyi Thermalbad","Entspanne in den Thermalbädern im Stadtpark.",120,Epic,Sport,47.5189,19.0819
+3,"Parlamentsgebäude","Bewundere das neugotische Parlament.",90,Epic,Kultur,47.5072,19.0453
+4,"Ruin Pub Szimpla Kert","Erlebe Budapests einzigartige Ruin-Bar-Kultur.",90,Epic,Urban,47.5000,19.0644
+5,"Lángos genießen","Koste den ungarischen Pfannkuchen.",20,Rare,Kulinarik,47.4979,19.0402
+6,"Donau Promenade","Spaziere entlang der Donau.",60,Rare,Natur,47.4979,19.0402
+7,"Budaer Burg","Erkunde den Burghügel.",120,Epic,Kultur,47.4960,19.0397
+8,"Große Markthalle","Stöbere nach Paprika, Salami und Kunsthandwerk.",90,Epic,Kulinarik,47.4881,19.0578
+9,"Hősök tere Heldenplatz","Bestaunte das monumentale Millennium-Denkmal.",45,Rare,Kultur,47.5147,19.0783
+10,"Museum der Schönen Künste","Entdecke europäische Kunst.",120,Epic,Kultur,47.5147,19.0783
+11,"Gellértberg Wanderung","Wandere auf den Burgberg.",90,Epic,Natur,47.4869,19.0481
+12,"Keleti Bahnhof","Erlebe den prachtvollen Historismus-Bahnhof.",30,Rare,Kreativ,47.5003,19.0836
+13,"Ungarische Gulaschsuppe","Koste das echte Gulasch.",60,Rare,Kulinarik,47.4979,19.0402
+14,"Donau Bootsfahrt bei Nacht","Erlebe das Parlament vom Wasser.",120,Epic,Kreativ,47.4979,19.0402
+15,"Andrássy Avenue Flanieren","Spaziere über das Budapester Champs-Élysées.",60,Rare,Urban,47.5064,19.0619
+16,"Bartók Memorial House","Entdecke das Wohnhaus des Komponisten.",90,Epic,Kultur,47.5281,18.9922
+17,"Memento Park","Besuche das Freiluftmuseum mit Monumenten.",480,Legendary,Kultur,47.4314,18.9972
+18,"Burg und Thermalbäder Komplett","Besuche Széchenyi, Gellért und Rudas an einem Tag.",480,Legendary,Sport,47.4979,19.0402
+19,"Ungarische Weinnacht","Koste Tokaji und Egri Bikavér.",480,Legendary,Kulinarik,47.4979,19.0402
+20,"Budapest Nacht der Ruin Pubs","Erlebe fünf verschiedene Ruin Pubs.",480,Legendary,Urban,47.4979,19.0402

@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Kunstmuseum Winterthur","Besuche die bedeutende Sammlung mit Impressionisten und Klassischer Moderne.",120,Rare,Kultur,47.5017,8.7239
+2,"Altstadt Winterthur","Flaniere durch die lebendige Altstadt mit ihren Galerien und Cafés.",45,Rare,Urban,47.5006,8.7241
+3,"Stadtgarten Winterthur","Entspanne im gepflegten Stadtpark nahe der Innenstadt.",45,Rare,Natur,47.5006,8.7241
+4,"Technorama","Erlebe interaktive Wissenschaft im nationalen Wissenschaftszentrum.",180,Rare,Kultur,47.5167,8.7167
+5,"Uhrenmuseum Winterthur","Entdecke die Geschichte der Schweizer Uhrmacherkunst.",90,Rare,Kultur,47.5006,8.7241
+6,"Stadtkirche Winterthur","Erkunde die historische Stadtkirche im Herzen der Altstadt.",30,Rare,Kreativ,47.5006,8.7241
+7,"Villa Flora Museum","Besuche die private Kunstsammlung im historischen Landhaus.",90,Epic,Kultur,47.4983,8.7361
+8,"Oskar Reinhart Museum","Entdecke eine der bedeutendsten Privatsammlungen Europas.",120,Epic,Kultur,47.5022,8.7217
+9,"Lindberg Radtour","Radle durch das Weinland Zürich südlich von Winterthur.",180,Epic,Sport,47.5006,8.7241
+10,"Eulachpark","Spaziere durch den weitläufigen Park entlang der Eulach.",60,Epic,Natur,47.5083,8.7333
+11,"Wülflingen Schloss","Besuche das historische Schloss im Stadtteil Wülflingen.",60,Epic,Kultur,47.5108,8.6894
+12,"Töss Wanderweg","Wandere durch das idyllische Tösstal südlich der Stadt.",120,Epic,Natur,47.4667,8.7500
+13,"Winterthurer Musikfestwochen","Erlebe das Open-Air-Festival der Musikfestwochen.",180,Epic,Sozial,47.5006,8.7241
+14,"Winterthur Stadtradtour","Radle durch alle Stadtteile Winterthurs.",180,Epic,Sport,47.5006,8.7241
+15,"Seen Schloss Besuch","Erkunde das Schloss Seen im gleichnamigen Stadtteil.",60,Epic,Kultur,47.5097,8.7578
+16,"Hettlingen Weinberg","Besuche die Weinberge im Zürcher Unterland nördlich der Stadt.",120,Epic,Kulinarik,47.5333,8.7667
+17,"Zürich Tagesausflug","Besuche Zürich und seine Museen per Zug.",480,Legendary,Kultur,47.5006,8.7241
+18,"Thurgau Obst- und Weinrundtour","Radle durch den Thurgau zu Obstplantagen und Weingütern.",480,Legendary,Kulinarik,47.5006,8.7241
+19,"Alle Winterthurer Museen","Besuche Kunstmuseum, Reinhart und Technorama an einem Tag.",480,Legendary,Kultur,47.5006,8.7241
+20,"Winterthurer Nacht","Erlebe die Bars und Kulturlokale in der lebendigen Altstadt.",480,Legendary,Urban,47.5006,8.7241

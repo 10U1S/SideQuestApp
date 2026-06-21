@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Fuggerei Besuch","Erkunde die älteste Sozialsiedlung der Welt aus dem Jahr 1516.",60,Rare,Kultur,48.3669,10.9017
+2,"Rathaus Goldener Saal","Bewundere den prunkvollen Renaissance-Saal im Augsburger Rathaus.",45,Rare,Kultur,48.3693,10.8978
+3,"Perlachturm besteigen","Genieße den Ausblick über Augsburg vom historischen Turm.",30,Rare,Abenteuer,48.3692,10.8975
+4,"Augsburger Puppenkiste","Besuche das berühmte Marionettentheater und sein Museum.",90,Rare,Kultur,48.3694,10.8972
+5,"Maximiliansstraße flanieren","Spaziere über die prächtige barocke Prachtstraße der Stadt.",30,Rare,Urban,48.3672,10.8986
+6,"Brunnen-Trio fotografieren","Fotografiere die drei berühmten Renaissance-Brunnen an der Maximilianstraße.",60,Rare,Kreativ,48.3672,10.8986
+7,"Dom St. Maria Erkunden","Entdecke die romanischen Bronzetüren und mittelalterlichen Glasfenster.",60,Epic,Kultur,48.3722,10.8964
+8,"Wittelsbacher Park","Entspanne im englischen Landschaftsgarten an der Wertach.",90,Epic,Natur,48.3797,10.8814
+9,"Siebentischwald Wanderung","Wandere durch den stadtnahen Wald zum Botanischen Garten.",120,Epic,Natur,48.3528,10.8814
+10,"Textilmuseum tim","Entdecke die Geschichte der Augsburger Textilindustrie.",90,Epic,Kultur,48.3672,10.8986
+11,"Jakoberviertel Streetfood","Probiere internationale Küche im Kreativviertel rund um das Jakoberviertel.",90,Epic,Kulinarik,48.3672,10.9025
+12,"Augsburg Stadtradtour","Radle zu allen wichtigen Sehenswürdigkeiten der Römerstadt.",120,Epic,Sport,48.3705,10.8978
+13,"Mozarthaus Augsburg","Besuche das Geburtshaus von Mozarts Vater Leopold.",60,Epic,Kultur,48.3694,10.8972
+14,"Stadtmarkt Augsburg","Stöbere auf dem täglichen Markt nach regionalen Köstlichkeiten.",60,Epic,Kulinarik,48.3689,10.8978
+15,"St. Ulrich und Afra","Erkunde die eindrucksvolle spätgotische Basilika am Rathausplatz.",60,Epic,Kultur,48.3672,10.8992
+16,"Lech-Kanal Radtour","Radle entlang der historischen Lech-Kanäle durch die Stadtteile.",180,Epic,Sport,48.3705,10.9083
+17,"Römer in Augsburg Zeitreise","Besuche alle Relikte der römischen Stadt Augusta Vindelicum an einem Tag.",480,Legendary,Kultur,48.3705,10.8978
+18,"Augsburger Hohen Weg","Wandere den historischen Höhenweg von Stadtrand zu Stadtrand.",480,Legendary,Sport,48.3705,10.8978
+19,"Fuggerei Nacht erleben","Übernachte symbolisch in der historischen Sozialsiedlung.",480,Legendary,Sozial,48.3669,10.9017
+20,"Schwäbische Küche Marathon","Probiere an einem Tag alle traditionellen Augsburger Spezialitäten.",480,Legendary,Kulinarik,48.3705,10.8978

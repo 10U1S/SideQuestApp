@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Beethoven-Geburtshaus","Besuche das Geburtshaus des berühmtesten Sohnes der Stadt.",60,Rare,Kultur,50.7358,7.0986
+2,"Rheinpromenade Flanieren","Spaziere am Rheinufer entlang mit Blick auf das Siebengebirge.",45,Rare,Natur,50.7374,7.0982
+3,"Münster Bonn","Erkunde die romanisch-gotische Stiftskirche im Herzen der Altstadt.",45,Rare,Kultur,50.7364,7.0994
+4,"Marktplatz Bonn","Genieße den Flair des historischen Marktplatzes mit dem Alten Rathaus.",30,Rare,Urban,50.7350,7.0994
+5,"Hofgarten Picknick","Entspanne auf der großen Wiese des Universitätshofgartens.",60,Rare,Natur,50.7281,7.0956
+6,"Alter Zoll Aussicht","Genieße den Panoramablick über den Rhein vom historischen Zollhaus.",30,Rare,Kreativ,50.7333,7.1019
+7,"Kunstmuseum Bonn","Entdecke bedeutende Werke der deutschen Kunst nach 1945.",120,Epic,Kultur,50.7219,7.1028
+8,"Bundeskunsthalle","Besuche eine der Wechselausstellungen im markanten Museumsbau.",120,Epic,Kultur,50.7217,7.1022
+9,"Haus der Geschichte","Erlebe die deutsche Zeitgeschichte von 1945 bis heute.",180,Epic,Kultur,50.7219,7.1039
+10,"Poppelsdorfer Schloss","Erkunde das Barockschloss und seinen botanischen Garten.",90,Epic,Kultur,50.7236,7.0886
+11,"Siebengebirge Tagesausflug","Wandere auf den Drachenfels mit Blick auf Bonn und den Rhein.",240,Epic,Natur,50.6586,7.1931
+12,"Bonner Kneipenmeile","Erkunde die lebhafte Bar- und Restaurantszene im Univiertel.",120,Epic,Kulinarik,50.7281,7.0956
+13,"UN-Campus besichtigen","Besuche das ehemalige Regierungsviertel mit seinen UN-Gebäuden.",90,Epic,Urban,50.7156,7.1219
+14,"Rheinaue Parkspaziergang","Erforsche den weitläufigen Rheinauenpark mit seinen Seen und Wiesen.",120,Epic,Natur,50.7147,7.1264
+15,"Botanischer Garten Uni Bonn","Entdecke seltene Pflanzen im ältesten botanischen Garten des Rheinlands.",90,Epic,Natur,50.7231,7.0878
+16,"Bonner Stadtradtour","Radle vom Regierungsviertel durch die Altstadt bis zum Rhein.",180,Epic,Sport,50.7374,7.0982
+17,"Beethoven-Festival erleben","Besuche mehrere Konzerte des weltberühmten Musikfestivals an einem Tag.",480,Legendary,Kultur,50.7374,7.0982
+18,"Rhein-Radweg Köln-Bonn","Radle auf dem Rheinradweg von Bonn bis in die Domstadt Köln.",480,Legendary,Sport,50.7374,7.0982
+19,"Bonner Weinwanderung","Wandere durch die Weinberge am Rhein und koste lokale Tropfen.",480,Legendary,Kulinarik,50.7374,7.0982
+20,"Politische Geschichte Bonnrunde","Besuche alle ehemaligen Regierungsgebäude und Botschaften der Bonner Republik.",480,Legendary,Kultur,50.7219,7.1039

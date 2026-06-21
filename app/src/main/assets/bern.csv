@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Zytglogge Zeitglockenturm","Beobachte das astronomische Figurenspiel der mittelalterlichen Uhr.",30,Rare,Kreativ,46.9479,7.4469
+2,"Bundeshaus","Besuche das Schweizer Parlament mit seinen prunkvollen Sälen.",90,Rare,Kultur,46.9466,7.4442
+3,"Bärengaben","Besuche die Bären am Nydegggraben – die Tiere, die der Stadt den Namen gaben.",45,Rare,Natur,46.9483,7.4561
+4,"Altstadt Lauben","Flaniere durch die 6 km langen mittelalterlichen Lauben.",45,Rare,Urban,46.9480,7.4474
+5,"Münster Bern","Besteige den Turm des höchsten gotischen Kirchturms der Schweiz.",60,Rare,Abenteuer,46.9467,7.4494
+6,"Rosengarten Aussicht","Genieße den Panoramablick über die Aare-Altstadt.",30,Rare,Kreativ,46.9533,7.4567
+7,"Kunstmuseum Bern","Entdecke Schweizer Kunst vom Mittelalter bis zur Gegenwart.",120,Epic,Kultur,46.9494,7.4456
+8,"Aare Schwimmen","Schwimme in der schnellen Aare von Marzili bis zur Schönaustege.",90,Epic,Sport,46.9428,7.4453
+9,"Zentrum Paul Klee","Besuche das Museum des Berner Malers Paul Klee.",120,Epic,Kultur,46.9447,7.4897
+10,"Botanischer Garten Bern","Entdecke seltene Pflanzen am Hang über der Aare.",90,Epic,Natur,46.9467,7.4453
+11,"Gurten Hausberg","Fahre mit der Gurtenbahn auf den Hausberg und wandere zurück.",120,Epic,Natur,46.9228,7.4322
+12,"Berner Märit","Stöbere auf dem traditionellen Markt unter den Lauben.",60,Epic,Kulinarik,46.9480,7.4474
+13,"Bernisches Historisches Museum","Erkunde Geschichte und Kultur der Schweiz und des Mittellandes.",120,Epic,Kultur,46.9447,7.4414
+14,"Marzilibad","Entspanne im beliebten Flussbad direkt an der Aare.",90,Epic,Sport,46.9417,7.4456
+15,"Bern Stadtradtour","Radle durch die Bundesstadt und entlang der Aare-Schlaufe.",180,Epic,Sport,46.9480,7.4474
+16,"Münster Turmbesteigung","Besteige den höchsten Kirchturm der Schweiz für Alpenblick.",45,Epic,Abenteuer,46.9467,7.4494
+17,"Thun Tagesausflug","Besuche die malerische Stadt am Thunersee mit Schloss.",480,Legendary,Natur,46.7578,7.6289
+18,"Aletschgletscher Tagestour","Fahre mit der Bahn auf das Jungfraujoch zum größten Gletscher Europas.",480,Legendary,Abenteuer,46.5472,7.9839
+19,"Berner Seenrundtour","Besuche Thunersee und Bielersee an einem Tag.",480,Legendary,Natur,46.9480,7.4474
+20,"Berner Nachtleben","Erlebe Clubs und Jazzbars in der gemütlichen Bundesstadt.",480,Legendary,Urban,46.9480,7.4474

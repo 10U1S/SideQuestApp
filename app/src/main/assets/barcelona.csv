@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Sagrada Família","Staune über Gaudís unvollendetes Meisterwerk.",90,Epic,Kultur,41.4036,2.1744
+2,"La Rambla Flanieren","Spaziere die berühmteste Fußgängerzone Spaniens entlang.",45,Rare,Urban,41.3797,2.1739
+3,"Barceloneta Strand","Genieße einen Morgen am städtischen Stadtstrand.",60,Rare,Natur,41.3803,2.1893
+4,"Boqueria Markt","Koste Tapas auf dem berühmten Markt.",60,Rare,Kulinarik,41.3816,2.1719
+5,"Gotisches Viertel","Verliere dich in den mittelalterlichen Gassen.",60,Rare,Kultur,41.3833,2.1769
+6,"Park Güell Aussicht","Besuche Gaudís Märchenpark.",90,Epic,Kreativ,41.4145,2.1527
+7,"Casa Batlló","Erkunde Gaudís surreale Drachen-Fassade.",90,Epic,Kreativ,41.3916,2.1649
+8,"Palau de la Música","Erlebe ein Konzert im Jugendstil-Konzertsaal.",120,Epic,Kultur,41.3875,2.1753
+9,"El Born Viertel","Entdecke Galerien und Tapas-Bars.",90,Epic,Urban,41.3850,2.1825
+10,"Montjuïc Burg","Wandere auf den Burgberg.",120,Epic,Natur,41.3644,2.1667
+11,"Fundació Joan Miró","Entdecke farbenfrohe Kunst.",90,Epic,Kultur,41.3683,2.1597
+12,"Gracia Viertel","Erkunde das ursprüngliche Barceloneser Viertel.",90,Epic,Sozial,41.4036,2.1578
+13,"Tibidabo Vergnügungspark","Fahre auf den Hausberg.",180,Epic,Abenteuer,41.4219,2.1186
+14,"Piknik in Ciutadella Park","Genieße ein Picknick.",90,Epic,Natur,41.3872,2.1864
+15,"Fahrradtour Küste","Radle entlang der Küste.",120,Epic,Sport,41.3803,2.1893
+16,"Tapas-Abend El Raval","Probiere authentische Tapas.",120,Epic,Kulinarik,41.3797,2.1681
+17,"Gaudí Komplett-Tour","Besuche alle Gaudí-Bauwerke an einem Tag.",480,Legendary,Kultur,41.3797,2.1681
+18,"FC Barcelona Camp Nou","Erlebe ein Heimspiel des Fußballklubs.",480,Legendary,Sport,41.3809,2.1228
+19,"Sitges Tagesausflug","Besuche das charmante Küstenstädtchen.",480,Legendary,Natur,41.2372,1.8058
+20,"Barcelona Nacht","Erlebe Flamenco und Clubs.",480,Legendary,Urban,41.3797,2.1681

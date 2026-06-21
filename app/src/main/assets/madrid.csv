@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Prado Museum","Entdecke Velázquez, Goya und El Greco im bedeutendsten spanischen Museum.",180,Epic,Kultur,40.4138,-3.6922
+2,"Retiro Park","Ruderboot fahren auf dem See im größten Park der Stadt.",90,Epic,Natur,40.4153,-3.6844
+3,"Plaza Mayor","Erlebe den prachtvollen Barockplatz bei einem Café con Leche.",30,Rare,Urban,40.4153,-3.7074
+4,"Churros con Chocolate","Koste die berühmten Churros in einer Chocolatería.",30,Rare,Kulinarik,40.4153,-3.7083
+5,"Puerta del Sol","Stehe am Kilometer Null – dem geographischen Zentrum Spaniens.",20,Rare,Kreativ,40.4169,-3.7033
+6,"El Rastro Flohmarkt","Stöbere auf dem ältesten Flohmarkt Spaniens nach Schätzen.",120,Epic,Urban,40.4083,-3.7083
+7,"Reina Sofía Museum","Erlebe Picassos Guernica im bedeutendsten Museum moderner Kunst.",120,Epic,Kultur,40.4086,-3.6942
+8,"Thyssen-Bornemisza","Entdecke Gemälde von Dürer bis Lichtenstein in privater Weltklasse-Sammlung.",120,Epic,Kultur,40.4158,-3.6950
+9,"Tapas-Tour La Latina","Probiere Patatas Bravas, Calamares und Jamón in der Tapas-Meile.",120,Epic,Kulinarik,40.4131,-3.7097
+10,"Bernabéu Stadion","Besichtige das legendäre Heimstadion von Real Madrid.",90,Epic,Sport,40.4531,-3.6883
+11,"Palacio Real","Erkunde die Prunkräume des größten Königspalastes Westeuropas.",120,Epic,Kultur,40.4178,-3.7144
+12,"Malasaña Viertel","Entdecke das alternative Viertel mit Vintage-Läden und Cafés.",90,Epic,Urban,40.4247,-3.7033
+13,"Templo de Debod","Besuche den ägyptischen Tempel mit Sonnenuntergangsblick.",60,Rare,Kreativ,40.4233,-3.7175
+14,"Chueca Viertel","Erlebe das lebhafte LGBTQ+-Viertel mit Bars und Restaurants.",90,Epic,Sozial,40.4247,-3.6975
+15,"Mercado de San Miguel","Stöbere auf dem überdachten Gourmetmarkt nach Tapas und Wein.",60,Rare,Kulinarik,40.4153,-3.7081
+16,"Madrid Stadtradtour","Radle durch alle Viertel von La Latina bis Salamanca.",180,Epic,Sport,40.4169,-3.7033
+17,"Flamenco Show","Erlebe echten Flamenco in einem Tablaos in der Altstadt.",480,Legendary,Kultur,40.4169,-3.7033
+18,"Kunstdreieck Komplett","Besuche Prado, Reina Sofía und Thyssen an einem Tag.",480,Legendary,Kultur,40.4169,-3.7033
+19,"Toledo Tagesausflug","Besuche die mittelalterliche Hauptstadt Kastiliens per Hochgeschwindigkeitszug.",480,Legendary,Kultur,39.8628,-4.0273
+20,"Madrid Nächte","Erlebe das legendäre Nachtleben das bis in den frühen Morgen geht.",480,Legendary,Urban,40.4169,-3.7033

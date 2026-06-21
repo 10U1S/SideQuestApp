@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Münster Basel","Bewundere das romanisch-gotische Münster und seinen Kreuzgang.",60,Rare,Kultur,47.5556,7.5917
+2,"Kunstmuseum Basel","Besuche das bedeutendste Kunstmuseum der Schweiz.",180,Rare,Kultur,47.5556,7.5928
+3,"Dreiländereck","Stehe gleichzeitig in der Schweiz, Deutschland und Frankreich.",45,Rare,Abenteuer,47.5908,7.5889
+4,"Rheinpromenade","Spaziere am Rhein entlang und beobachte die Schifffahrt.",45,Rare,Natur,47.5596,7.5886
+5,"Marktplatz Basel","Erkunde den Marktplatz mit dem roten Rathaus.",30,Rare,Urban,47.5581,7.5894
+6,"Basler Fasnacht","Erlebe den magischen Morgenstraich beim berühmten Karneval.",120,Rare,Sozial,47.5596,7.5886
+7,"Fondation Beyeler","Entdecke Weltklasse-Moderne von Monet bis Bacon.",180,Epic,Kultur,47.5733,7.6000
+8,"Rheinschwimmen","Schwimme mit dem Strom des Rheins durch die Basler Innenstadt.",90,Epic,Sport,47.5597,7.5842
+9,"Art Basel","Erlebe eine Eröffnung der weltgrößten Kunstmesse.",480,Epic,Sozial,47.5586,7.5783
+10,"Zoologischer Garten Basel","Besuche den traditionsreichen Zoo mit Gorillas und Nashörnern.",180,Epic,Natur,47.5453,7.5736
+11,"Vitra Campus","Erkunde den Designpark mit Gebäuden von Stararchitekten.",120,Epic,Kreativ,47.6028,7.5803
+12,"Kleinbasel Viertel","Entdecke das kreative Quartierleben auf der anderen Rheinseite.",90,Epic,Urban,47.5597,7.5928
+13,"Tinguely Museum","Erlebe kinetische Kunstmaschinen von Jean Tinguely.",90,Epic,Kultur,47.5553,7.6006
+14,"Basler Wochenmarkt","Stöbere auf dem Markt nach regionalen Schweizer Produkten.",60,Epic,Kulinarik,47.5581,7.5894
+15,"Elsässer Weinprobe","Fahre nach Colmar und koste elsässische Weine.",180,Epic,Kulinarik,47.5596,7.5886
+16,"Basel Stadtradtour","Radle durch alle Stadtteile und über alle drei Länder.",240,Epic,Sport,47.5596,7.5886
+17,"Schwarzwald Tagesausflug","Fahre nach Freiburg oder zum Feldberg im benachbarten Deutschland.",480,Legendary,Natur,47.5596,7.5886
+18,"Elsässische Weinstrassenrundtour","Besuche Colmar und Straßburg über die Elsässer Weinstraße.",480,Legendary,Kulinarik,47.5596,7.5886
+19,"Alle Basler Museen","Besuche Kunstmuseum, Tinguely und Beyeler an einem Tag.",480,Legendary,Kultur,47.5596,7.5886
+20,"Basler Nacht","Erlebe die Kulturszene in Bars und Clubs am Rheinufer.",480,Legendary,Urban,47.5596,7.5886

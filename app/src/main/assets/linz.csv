@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Ars Electronica Center","Erkunde das futuristische Museum der digitalen Kunst am Donauufer.",120,Rare,Kultur,48.3078,14.2856
+2,"Hauptplatz Linz","Flaniere über Österreichs größten mittelalterlichen Stadtplatz.",30,Rare,Urban,48.3069,14.2858
+3,"Linzer Dom","Besichtige den neugotischen Mariendom mit seinen farbenfrohen Glasfenstern.",45,Rare,Kultur,48.3033,14.2903
+4,"Pöstlingberg Bergbahn","Fahre mit der steilen Bergbahn auf den Hausberg Linz.",60,Rare,Abenteuer,48.3233,14.2611
+5,"Donau-Promenade","Spaziere entlang der Donau und genieße die Aussicht.",45,Rare,Natur,48.3069,14.2858
+6,"Lentos Kunstmuseum","Entdecke Werke des 20. und 21. Jahrhunderts am Donauufer.",90,Rare,Kreativ,48.3056,14.2861
+7,"Schlossmuseum Linz","Erkunde die Geschichte Oberösterreichs im Linzer Schloss.",120,Epic,Kultur,48.3081,14.2900
+8,"Botanischer Garten Linz","Entdecke tropische Pflanzen und Schmetterlinge im Stadtgarten.",90,Epic,Natur,48.2889,14.2853
+9,"Donau-Radtour","Radle auf dem Donauradweg flussauf oder flussab.",180,Epic,Sport,48.3069,14.2858
+10,"Neuer Dom Turmbesteigung","Besteige den Turm des höchsten Kirchengebäudes Österreichs.",60,Epic,Abenteuer,48.3033,14.2903
+11,"Landhaus Linz","Bewundere den Renaissancebau des Landesparlaments im Stadtzentrum.",45,Epic,Kultur,48.3064,14.2883
+12,"Alter Dom Ignatiuskirche","Erkunde die Barockkirche, wo Anton Bruckner Organist war.",45,Epic,Kultur,48.3058,14.2897
+13,"Tabakfabrik Linz","Entdecke das Kreativquartier im Industriedenkmal der Tabakfabrik.",90,Epic,Urban,48.2964,14.2978
+14,"Urfahr Viertel","Stöbere im alternativen Viertel nördlich der Donau.",90,Epic,Urban,48.3106,14.2853
+15,"Linzer Torte probieren","Probiere die älteste Torte der Welt in einer Konditorei.",30,Epic,Kulinarik,48.3069,14.2858
+16,"Linz Stadtradtour","Radle durch Altstadt, entlang der Donau und zu den Stadtvierteln.",180,Epic,Sport,48.3069,14.2858
+17,"Salzburg Tagesausflug","Besuche die Mozartstadt per Bahn und erkunde die Festung.",480,Legendary,Kultur,48.3069,14.2858
+18,"Mühlviertel Wandertour","Wandere durch das hügelige Mühlviertel nördlich von Linz.",480,Legendary,Natur,48.3069,14.2858
+19,"Ars Electronica Festival","Erlebe das weltberühmte Digitalkunstfestival an der Donau.",480,Legendary,Sozial,48.3069,14.2858
+20,"Donau bei Nacht","Erlebe Linz bei Nacht mit seinen beleuchteten Brücken und Uferbars.",480,Legendary,Urban,48.3069,14.2858

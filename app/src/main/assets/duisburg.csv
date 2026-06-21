@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Landschaftspark Duisburg-Nord","Erkunde die illuminierte Industrieruine und klettere auf die Hochöfen.",120,Rare,Abenteuer,51.4561,6.7783
+2,"Innenhafen Duisburg","Flaniere am revitalisierten Innenhafen mit seinen Museen und Restaurants.",60,Rare,Urban,51.4344,6.7658
+3,"Museum Küppersmühle","Bewundere bedeutende deutsche Nachkriegskunst im Getreidespeicher.",90,Rare,Kultur,51.4350,6.7653
+4,"Marxloh Moschee","Besuche eine der größten Moscheen Deutschlands im Stadtteil Marxloh.",60,Rare,Kultur,51.4978,6.7717
+5,"Ruhrort Hafenviertel","Entdecke das älteste Hafenviertel am Zusammenfluss von Ruhr und Rhein.",60,Rare,Kultur,51.4561,6.7369
+6,"Salvatorkirche","Erkunde die gotische Stadtkirche am Burgplatz.",30,Rare,Kultur,51.4331,6.7636
+7,"Duisburger Hafen Rundfahrt","Erlebe eine Schiffsrundfahrt durch den größten Binnenhafen Europas.",120,Epic,Abenteuer,51.4433,6.7367
+8,"Tiger und Turtle Magic Mountain","Besteige das begehbare Achterbahnkunstwerk in Angerpark.",90,Epic,Kreativ,51.4022,6.7517
+9,"Wedau Sportpark","Erlebe Sport im historischen Olympiastützpunkt am Masurensee.",90,Epic,Sport,51.4108,6.7836
+10,"Zoo Duisburg","Besuche den traditionsreichen Zoo am Kaiserberg.",180,Epic,Natur,51.4094,6.7628
+11,"Stadtwald Duisburg","Wandere durch den ausgedehnten Wald zwischen Innenstadt und Mülheim.",120,Epic,Natur,51.4133,6.7456
+12,"Museum der Deutschen Binnenschifffahrt","Erlebe die Geschichte der Flussschifffahrt in Ruhrort.",90,Epic,Kultur,51.4572,6.7356
+13,"Duisburg-Marxloh Streetfood","Erkunde die internationale Küche im multikulturellen Stadtteil.",90,Epic,Kulinarik,51.4978,6.7717
+14,"Rhein-Radtour","Radle entlang des Rheins von Duisburg bis Düsseldorf.",240,Epic,Sport,51.4344,6.7623
+15,"MKM Museum","Entdecke die Kunstsammlung Ströher und Lauffs im Innenhafen.",90,Epic,Kultur,51.4350,6.7647
+16,"Duisburg Nacht der Industrie","Erlebe die illuminierten Hochöfen im Landschaftspark bei Nacht.",180,Epic,Abenteuer,51.4561,6.7783
+17,"Ruhrgebiet Industrieroute","Radle auf der Route der Industriekultur durch mehrere Städte.",480,Legendary,Sport,51.4344,6.7623
+18,"Hafenrunde komplett","Erkunde zu Fuß den gesamten Duisburger Hafen mit allen Becken.",480,Legendary,Urban,51.4433,6.7367
+19,"Sechs Museen an einem Tag","Besuche alle großen Museen des Innenhafens und der Altstadt.",480,Legendary,Kultur,51.4344,6.7623
+20,"Nachtleben Duisburg","Erlebe Clubs und Bars in Duisburg von Abend bis Morgen.",480,Legendary,Urban,51.4344,6.7623

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:gravity="center">
+
+    <LinearLayout
+        android:id="@+id/polaroid_item_container"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/polaroid_bg"
+        android:orientation="vertical"
+        android:elevation="4dp"
+        android:paddingBottom="8dp"
+        android:rotation="2">
+
+        <ImageView
+            android:id="@+id/iv_log_photo"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:scaleType="centerCrop"
+            android:background="#DDDDDD" />
+
+        <TextView
+            android:id="@+id/tv_log_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:text="Titel"
+            android:textColor="#333333"
+            android:textSize="12sp"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:fontFamily="@font/permanent_marker"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/rarity_indicator_dot"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_gravity="end"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/rarity_circle"
+            android:elevation="4dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

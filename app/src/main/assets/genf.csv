@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Jet d'Eau","Fotografiere den 140 Meter hohen Wasserstrahl auf dem Genfersee.",30,Rare,Kreativ,46.2058,6.1564
+2,"Altstadt St-Pierre","Erkunde die historische Oberstadt mit der Kathedrale Saint-Pierre.",60,Rare,Kultur,46.2014,6.1469
+3,"Palais des Nations","Besichtige den europäischen Sitz der Vereinten Nationen.",90,Rare,Kultur,46.2267,6.1408
+4,"Bains des Pâquis","Entspanne am Flussbad direkt am Genfersee.",60,Rare,Natur,46.2089,6.1517
+5,"Plainpalais Flohmarkt","Stöbere auf dem berühmten Antik- und Flohmarkt.",60,Rare,Urban,46.1994,6.1397
+6,"Genfersee Promenade","Spaziere entlang der Quais am Seeufer entlang.",45,Rare,Natur,46.2044,6.1432
+7,"CERN Besichtigung","Erkunde das weltgrößte Forschungslabor für Teilchenphysik.",180,Epic,Kultur,46.2341,6.0553
+8,"Musée d'Art et d'Histoire","Entdecke Kunst und Altertümer in Genfs größtem Museum.",120,Epic,Kultur,46.2006,6.1519
+9,"Parc des Bastions","Entspanne im Park mit dem berühmten Reformationsdenkmal.",60,Epic,Natur,46.2006,6.1472
+10,"Maison Tavel","Besuche das älteste Haus Genfs und sein Stadthistorisches Museum.",90,Epic,Kultur,46.2011,6.1464
+11,"Vieille-Ville Gassen","Verliere dich in den Kopfsteinpflastergassen der Genfer Altstadt.",90,Epic,Urban,46.2014,6.1469
+12,"Genfer Schokoladen Tour","Besuche die besten Chocolatiers der Weltschokoladehauptstadt.",120,Epic,Kulinarik,46.2044,6.1432
+13,"Carouge Viertel","Entdecke das sardisch-geprägte Altstadtviertel südlich der Rhône.",90,Epic,Kultur,46.1878,6.1439
+14,"Ariana Museum","Erkunde die bedeutende Keramik und Glassammlung im Parkgelände.",90,Epic,Kultur,46.2267,6.1408
+15,"Genfersee Radtour","Radle entlang des Seefers bis Coppet oder Hermance.",180,Epic,Sport,46.2044,6.1432
+16,"Genf Stadtradtour","Radle durch alle Quartiere von der Altstadt bis zum CERN.",240,Epic,Sport,46.2044,6.1432
+17,"Lausanne Tagesausflug","Besuche die Olympiastadt am Genfersee per Bahn.",480,Legendary,Kultur,46.2044,6.1432
+18,"Mont Salève Wanderung","Wandere auf den Hausberg Genfs mit Blick auf die Stadt.",480,Legendary,Natur,46.1358,6.1972
+19,"Genfer Uhrmacher Atelier","Besuche eine traditionelle Uhrmacherwerkstatt in der Genfer Uhrenstadt.",480,Legendary,Kultur,46.2044,6.1432
+20,"Genfer Diplomaten Nacht","Erlebe das gehobene Nachtleben der Weltmetropole.",480,Legendary,Urban,46.2044,6.1432

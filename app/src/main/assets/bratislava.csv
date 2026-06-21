@@ -1,0 +1,21 @@
+id,title,description,duration_min,rarity,category,lat,lon
+1,"Bratislava Burg","Erkunde die weiße Burg hoch über der Donau mit Blick auf Wien.",90,Rare,Kultur,48.1419,17.0997
+2,"Altstadt Flanieren","Spaziere durch die kompakte Fußgängerzone der Altstadt.",45,Rare,Urban,48.1439,17.1072
+3,"Cumil Skulptur","Fotografiere den berühmten Mann der aus dem Kanaldeckel schaut.",15,Rare,Kreativ,48.1439,17.1072
+4,"Primatialpalais","Besichtige das neoklassizistische Stadtpalais mit dem Spiegelsaal.",45,Rare,Kultur,48.1436,17.1089
+5,"Halušky genießen","Koste die slowakischen Gnocchi mit Schafskäse und Speck.",30,Rare,Kulinarik,48.1439,17.1072
+6,"Michael-Tor","Besteige das einzige erhaltene Stadttor der Altstadt.",30,Rare,Abenteuer,48.1461,17.1061
+7,"SNM Nationalmuseum","Erkunde slowakische Geschichte und Archäologie.",90,Epic,Kultur,48.1397,17.1042
+8,"Slovenská Národná Galéria","Entdecke slowakische und europäische Kunst.",90,Epic,Kultur,48.1436,17.1031
+9,"Donau-Uferpromenade","Spaziere am Donauufer entlang mit Blick auf die alte Eisenbrücke.",60,Epic,Natur,48.1397,17.1042
+10,"UFO-Brückenrestaurant","Besteige den Aussichtsturm der futuristischen Donaubrücke.",60,Epic,Kreativ,48.1389,17.1003
+11,"Rusovce Schloss","Besuche das romantische Landschloss im Süden der Stadt.",90,Epic,Kultur,48.0511,17.1072
+12,"Devin Burg Ruine","Erkunde die romantische Burgruine am Zusammenfluss von Donau und March.",90,Epic,Abenteuer,48.1769,16.9836
+13,"Pressburger Nockerl probieren","Koste die legendären Mohnnocken der Stadt in einer Bäckerei.",20,Epic,Kulinarik,48.1439,17.1072
+14,"Janko Kráľ Park","Entspanne im ältesten öffentlichen Park Mitteleuropas.",60,Epic,Natur,48.1372,17.1133
+15,"Wien Tagesausflug","Fahr per Bahn in 1 Stunde in die österreichische Nachbarmetropole.",240,Epic,Kultur,48.1439,17.1072
+16,"Bratislava Stadtradtour","Radle durch Altstadt, Petržalka und am Donauufer entlang.",180,Epic,Sport,48.1439,17.1072
+17,"Karpaten Wanderung","Wandere in den Kleinen Karpaten über der Stadt.",480,Legendary,Natur,48.2569,17.0814
+18,"Donauknie Ausflug","Besuche Esztergom und das Donauknie in Ungarn.",480,Legendary,Natur,48.1439,17.1072
+19,"Slowakisches Weingebiet","Besuche Weingüter in der Kleinen Pfalz der Slowakei.",480,Legendary,Kulinarik,48.2833,17.2833
+20,"Bratislava Nacht","Erlebe Bars in der Altstadt und Clubs im Petržalka-Viertel.",480,Legendary,Urban,48.1439,17.1072
